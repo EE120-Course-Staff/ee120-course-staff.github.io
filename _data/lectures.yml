@@ -19,8 +19,8 @@ lectures:
     nonumber: True
   - title: "Lecture 4"
     nonumber: True
-    edThread: 
-    recording: 
+    edThread:  https://edstem.org/us/courses/24720/discussion/3380426
+    recording:  youtube.com
   - title: "Lecture 5"
     nonumber: True
     edThread: 
