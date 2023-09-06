@@ -23,8 +23,8 @@ homeworks:
     selfGrade: 
     solutions: 
   - rowspan: 2 # Homework #3
-    homework: 
-    due: 
+    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2003?preview=86743742
+    due: "Mon, Sep 11"
     selfGrade: 
     solutions: 
   - rowspan: 2 # Homework #4
