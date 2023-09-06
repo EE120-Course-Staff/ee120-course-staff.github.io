@@ -17,8 +17,8 @@ discussions:
     title: 'Discussion #1'
     nonumber: True
     worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2001?preview=86710148'
-    solutions: 
-    walkthrough: https://bcourses.berkeley.edu/courses/1527328/external_tools/78985
+    solutions: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2001?preview=86735534'
+    walkthrough: 'https://bcourses.berkeley.edu/courses/1527328/external_tools/78985'
   - rowspan: 2
     title: # 'Discussion #2'
     nonumber: True
