@@ -7,7 +7,7 @@
 
 homeworks:
   ### Format:
-  # - title: "additional title if neccassary"
+  # - title: "additional title if necessary"
   #   due: "due date"
   #   selfGrade: link to self grade form
   #   homework: link to the homework pdf
@@ -20,8 +20,8 @@ homeworks:
   - rowspan: 2 # Homework #2 - Labor Day
     homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2002?preview=86714485
     due: "Tue, Sep 5"
-    selfGrade: 
-    solutions: 
+    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-2
+    solutions: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2002?preview=86788080
   - rowspan: 2 # Homework #3
     homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2003?preview=86770064
     due: "Mon, Sep 11"
