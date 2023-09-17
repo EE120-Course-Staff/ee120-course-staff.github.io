@@ -20,7 +20,7 @@ labs:
     title: "(optional)"
     due: "never"
     lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction&urlpath=tree%2Flab-0-introduction%2Flab0.ipynb&branch=main"
-    solutions: 
+    solutions: "https://bcourses.berkeley.edu/courses/1527328/files/folder/Labs/Lab%200?preview=86725006"
     selfGrade: 
   - rowspan: 4
     due: "Thur, Sept 14"
