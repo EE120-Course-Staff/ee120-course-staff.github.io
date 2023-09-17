@@ -25,5 +25,5 @@ labs:
   - rowspan: 4
     due: "Thur, Sept 14"
     lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main"
-    solutions: 
-    selfGrade: 
+    solutions: "https://bcourses.berkeley.edu/courses/1527328/files/folder/Labs/Lab%201/Solutions?preview=86869731"
+    selfGrade: "https://ee120-course-staff.github.io/selfgrade-form/lab-1"
