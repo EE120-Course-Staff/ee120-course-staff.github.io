@@ -32,12 +32,12 @@ homeworks:
     due: "Mon, Sep 18"
     selfGrade: 
     solutions: 
-  - rowspan: 3 # Homework #5 -- MT 1
+  - rowspan: 2 # Homework #5 -- MT 1
     homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2005?preview=86905440
     due: "Mon, Sep 25"
     selfGrade: 
     solutions: 
-  - rowspan: 2 # Homework #6
+  - rowspan: 3 # Homework #6
     homework:
     due:
     selfGrade: 
@@ -57,12 +57,12 @@ homeworks:
     due: 
     selfGrade: 
     solutions: 
-  - rowspan: 3 # Homework #10 -- MT 2
+  - rowspan: 2 # Homework #10 -- MT 2
     homework: 
     due: 
     selfGrade: 
     solutions: 
-  - rowspan: 2 # Homework #11 - Veterans Day
+  - rowspan: 3 # Homework #11 - Veterans Day
     homework: 
     due: 
     selfGrade: 
