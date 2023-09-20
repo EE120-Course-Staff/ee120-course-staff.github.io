@@ -1,44 +1,54 @@
 lectures:
   # - title: "Lecture 1"
   #   nonumber: True # always keep this
+  #   reading: Name of textbook and chapters to read
   #   edThread: link to the ed thread
   #   recording: link to the recording link
   - title: "Lecture 1"
     nonumber: True
+    reading: Oppenheim and Willsky 1.1, 1.4.1, 1.6.5, 2.1.1
     edThread: https://edstem.org/us/courses/42820/discussion/3342562
     recording: https://www.youtube.com/watch?v=TtIjubvkQnY&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp&index=1
   - title: "Lecture 2"
     nonumber: True
+    reading: Oppenheim and Willsky 1.6.5-6, 2.1, 2.3.1-3
     edThread: https://edstem.org/us/courses/42820/discussion/3360039
     recording: https://www.youtube.com/watch?v=yZpaTOFhJwc&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp&index=3
   - title: "Lecture 3"
     nonumber: True
+    reading: Oppenheim and Willsky 2.1, 2.3.5, 3.2, 5.8, Hsu 6.5
     edThread: https://edstem.org/us/courses/42820/discussion/3364924
     recording: https://www.youtube.com/watch?v=Btjdp0-DEzw&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp&index=3
   - title: "No Lecture (Academic Holiday)"
     nonumber: True
   - title: "Lecture 4"
     nonumber: True
+    reading: Oppenheim and Willsky 1.3, 3.2, 10.4.1, 10.8.2
     edThread:  https://edstem.org/us/courses/42820/discussion/3393248
     recording:  https://www.youtube.com/watch?v=R01sazv_bZo&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 5"
     nonumber: True
+    reading: Oppenheim and Willsky 1.3, 1.6.4, 2.3.7
     edThread:  https://edstem.org/us/courses/42820/discussion/3418917
     recording:  https://www.youtube.com/watch?v=enBLqqdrAuY&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 6"
     nonumber: True
+    reading: Oppenheim and Willsky 1.6.3, 2.3.6
     edThread:  https://edstem.org/us/courses/42820/discussion/3458403
     recording:  https://www.youtube.com/watch?v=dKLKtCmIrAk&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 7"
     nonumber: True
+    reading: Hsu 7.1-7.5B, 7.5E
     edThread: 
     recording: 
   - title: "Lecture 8"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 9"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Review Session"
@@ -49,38 +59,47 @@ lectures:
     isExam: True
   - title: "Lecture 10"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 11"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: 'Lecture 12'
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 13"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 14"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 15"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 16"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 17"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 18"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "No Lecture (Exam)"
@@ -91,32 +110,190 @@ lectures:
     isExam: True
   - title: "Lecture 19"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 20"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 21"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 22"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 23"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "No Lecture (Academic Holiday)"
     nonumber: True
   - title: "Lecture 24"
     nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Lecture 25"
     nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Final Exam"
+    nonumber: True
+    edThread: 
+    isExam: True
+lectures:
+  # - title: "Lecture 1"
+  #   nonumber: True # always keep this
+  #   reading: Name of textbook and chapters to read
+  #   edThread: link to the ed thread
+  #   recording: link to the recording link
+  - title: "Lecture 1"
+    nonumber: True
+    reading: Oppenheim and Willsky 1.1, 1.4.1, 1.6.5, 2.1.1
+    edThread: https://edstem.org/us/courses/42820/discussion/3342562
+    recording: https://www.youtube.com/watch?v=TtIjubvkQnY&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp&index=1
+  - title: "Lecture 2"
+    nonumber: True
+    reading: Oppenheim and Willsky 1.6.5-6, 2.1, 2.3.1-3
+    edThread: https://edstem.org/us/courses/42820/discussion/3360039
+    recording: https://www.youtube.com/watch?v=yZpaTOFhJwc&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp&index=3
+  - title: "Lecture 3"
+    nonumber: True
+    reading: Oppenheim and Willsky 2.1, 2.3.5, 3.2, 5.8, Hsu 6.5
+    edThread: https://edstem.org/us/courses/42820/discussion/3364924
+    recording: https://www.youtube.com/watch?v=Btjdp0-DEzw&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp&index=3
+  - title: "No Lecture (Academic Holiday)"
+    nonumber: True
+  - title: "Lecture 4"
+    nonumber: True
+    reading: Oppenheim and Willsky 1.3, 3.2, 10.4.1, 10.8.2
+    edThread:  https://edstem.org/us/courses/42820/discussion/3393248
+    recording:  https://www.youtube.com/watch?v=R01sazv_bZo&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
+  - title: "Lecture 5"
+    nonumber: True
+    reading: Oppenheim and Willsky 1.3, 1.6.4, 2.3.7
+    edThread:  https://edstem.org/us/courses/42820/discussion/3418917
+    recording:  https://www.youtube.com/watch?v=enBLqqdrAuY&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
+  - title: "Lecture 6"
+    nonumber: True
+    reading: Oppenheim and Willsky 1.6.3, 2.3.6
+    edThread:  https://edstem.org/us/courses/42820/discussion/3458403
+    recording:  https://www.youtube.com/watch?v=dKLKtCmIrAk&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
+  - title: "Lecture 7"
+    nonumber: True
+    reading: Hsu 7.1-7.5B, 7.5E
+    edThread: 
+    recording: 
+  - title: "Lecture 8"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 9"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Review Session"
+    nonumber: True
+  - title: "Midterm 1"
+    nonumber: True
+    edThread: 
+    isExam: True
+  - title: "Lecture 10"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 11"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: 'Lecture 12'
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 13"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 14"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 15"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 16"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 17"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 18"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "No Lecture (Exam)"
+    nonumber: True
+  - title: "Midterm 2"
+    nonumber: True
+    edThread: 
+    isExam: True
+  - title: "Lecture 19"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 20"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 21"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 22"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 23"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "No Lecture (Academic Holiday)"
+    nonumber: True
+  - title: "Lecture 24"
+    nonumber: True
+    reading:
+    edThread: 
+    recording: 
+  - title: "Lecture 25"
+    nonumber: True
+    reading:
     edThread: 
     recording: 
   - title: "Final Exam"
