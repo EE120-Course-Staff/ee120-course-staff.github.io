@@ -28,20 +28,18 @@ homeworks:
     selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-3
     solutions: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2003?preview=86828323
   - rowspan: 2 # Homework #4
-    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2004?preview=86841248
-    due: "Mon, Sep 19"
+    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2004?preview=86847603
+    due: "Mon, Sep 18"
     selfGrade: 
     solutions: 
-  - rowspan: 3 # MT 1
-    nonumber: True
-  - rowspan: 2 # Homework #5
-    homework: 
-    due: 
+  - rowspan: 2 # Homework #5 -- MT 1
+    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2005?preview=86905440
+    due: "Mon, Sep 25"
     selfGrade: 
     solutions: 
-  - rowspan: 2 # Homework #6
-    homework: 
-    due: 
+  - rowspan: 3 # Homework #6
+    homework:
+    due:
     selfGrade: 
     solutions: 
   - rowspan: 2 # Homework #7
@@ -54,24 +52,32 @@ homeworks:
     due: 
     selfGrade: 
     solutions: 
-  - rowspan: 3 # MT 2
-    nonumber: True
-  - rowspan: 2 # Homework #9 - Veterans Day
+  - rowspan: 2 # Homework #9
     homework: 
     due: 
     selfGrade: 
     solutions: 
-  - rowspan: 2 # Homework #10 - Thanksgiving
+  - rowspan: 2 # Homework #10 -- MT 2
     homework: 
     due: 
     selfGrade: 
     solutions: 
-  - rowspan: 2 # Homework #11
+  - rowspan: 3 # Homework #11 - Veterans Day
     homework: 
     due: 
     selfGrade: 
     solutions: 
-  - rowspan: 2 # Homework #12
+  - rowspan: 2 # Homework #12 - Thanksgiving
+    homework: 
+    due: 
+    selfGrade: 
+    solutions: 
+  - rowspan: 2 # Homework #13
+    homework: 
+    due: 
+    selfGrade: 
+    solutions: 
+  - rowspan: 2 # Homework #14
     homework: 
     due: 
     selfGrade: 

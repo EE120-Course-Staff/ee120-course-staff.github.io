@@ -31,8 +31,8 @@ lectures:
     recording:  https://www.youtube.com/watch?v=5eba-DIvTKo&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 7"
     nonumber: True
-    edThread: 
-    recording: 
+    edThread:  https://edstem.org/us/courses/42820/discussion/3458403
+    recording:  https://www.youtube.com/watch?v=dKLKtCmIrAk&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 8"
     nonumber: True
     edThread: 
@@ -41,7 +41,7 @@ lectures:
     nonumber: True
     edThread: 
     recording: 
-  - title: "No Lecture (Exam)"
+  - title: "Review Session"
     nonumber: True
   - title: "Midterm 1"
     nonumber: True
