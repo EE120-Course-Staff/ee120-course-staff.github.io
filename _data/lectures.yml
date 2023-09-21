@@ -35,8 +35,8 @@ lectures:
     recording:  https://www.youtube.com/watch?v=dKLKtCmIrAk&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 8"
     nonumber: True
-    edThread: 
-    recording: 
+    edThread:  https://edstem.org/us/courses/42820/discussion/3471501
+    recording:  https://www.youtube.com/watch?v=AtE3OFFYg3c&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 9"
     nonumber: True
     edThread: 
