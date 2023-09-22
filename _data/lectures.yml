@@ -39,16 +39,16 @@ lectures:
   - title: "Lecture 7"
     nonumber: True
     reading: Hsu 7.1-7.5B, 7.5E
-    edThread:  https://edstem.org/us/courses/42820/discussion/3458403
+    edThread: https://edstem.org/us/courses/42820/discussion/3458403
     recording: https://www.youtube.com/watch?v=dKLKtCmIrAk&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 8"
     nonumber: True
-    reading:
-    edThread: 
-    recording: 
+    reading: 
+    edThread: https://edstem.org/us/courses/42820/discussion/3471501
+    recording: https://www.youtube.com/watch?v=AtE3OFFYg3c&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 9"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Review Session"
@@ -59,47 +59,47 @@ lectures:
     isExam: True
   - title: "Lecture 10"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 11"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: 'Lecture 12'
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 13"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 14"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 15"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 16"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 17"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 18"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "No Lecture (Exam)"
@@ -110,39 +110,39 @@ lectures:
     isExam: True
   - title: "Lecture 19"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 20"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 21"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 22"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 23"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "No Lecture (Academic Holiday)"
     nonumber: True
   - title: "Lecture 24"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Lecture 25"
     nonumber: True
-    reading:
+    reading: 
     edThread: 
     recording: 
   - title: "Final Exam"
