@@ -270,4 +270,4 @@ There is no official textbook or set of course notes for EE120. However, if you 
 * [Signals and Systems by Hwei P Hsu](https://electronicsbookcafe.files.wordpress.com/2015/08/signals-and-systems-2nd-edition-schaums-outline-series-hwei-hsu.pdf)
 * [Signals and Systems by Oppenheim and Willsky](https://eee.guc.edu.eg/Courses/Communications/COMM401%20Signal%20&%20System%20Theory/Alan%20V.%20Oppenheim,%20Alan%20S.%20Willsky,%20with%20S.%20Hamid-Signals%20and%20Systems-Prentice%20Hall%20(1996).pdf)
 
-As a disclaimer, EE 120 does not directly follow these textbooks, so they will differ from the course material in terms of content, emphasis, notation, and scope. Nothing is a substitute for attending lecture and discussion, and watching (and rewatching) the videos. 
+As a disclaimer, EE 120 does not directly follow these textbooks, so they will differ from the course material in terms of content, emphasis, notation, scope, and order. We provide associated readings for each lecture, but these do not necessarily directly correspond to the topic being taught. Nothing is a substitute for attending lecture and discussion, and watching (and rewatching) the videos. 

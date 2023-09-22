@@ -10,6 +10,9 @@
   {{ include.number }}. {{ include.element.title }}
 {%- endif -%}
 
+{%- if include.element.reading -%}
+  {{ include.element.reading }}
+{%- endif -%}
 {%- if include.element.recording and include.element.edThread -%}
   <br>
   <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a> / <a href="{{ include.element.recording }}">Recording</a>
