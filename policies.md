@@ -167,7 +167,7 @@ As we cannot avoid releasing problem sets and labs in concurrent weeks, labs wil
 
 ### Drops
 
-**We will automatically drop the lowest problem set score and the lowest lab score, excluding lab 6, from your final grade**. There will be a chance to get one more problem set drop by filling out the mid-semester feedback form.
+**We will automatically drop the lowest problem set score and the lowest lab score, excluding lab 5, from your final grade**. There will be a chance to get one more problem set drop by filling out the mid-semester feedback form.
 
 
 ### Grace Period
