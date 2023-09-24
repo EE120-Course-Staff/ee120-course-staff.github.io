@@ -29,7 +29,7 @@ labs:
     selfGrade: "https://ee120-course-staff.github.io/selfgrade-form/lab-1"
   - rowspan: 2
     nonumber: True
-  - rowspan: 4
+  - rowspan: 5
     due: "Thur, Oct 5"
     lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks&urlpath=tree%2Flab-filters-for-stocks%2Flab2.ipynb&branch=main"
     solutions: 
