@@ -49,8 +49,8 @@ lectures:
   - title: "Lecture 9"
     nonumber: True
     reading: 
-    edThread: 
-    recording: 
+    edThread:  https://edstem.org/us/courses/42820/discussion/3499093
+    recording:  https://www.youtube.com/watch?v=M6YYpTSwIMw&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Review Session"
     nonumber: True
   - title: "Midterm 1"
