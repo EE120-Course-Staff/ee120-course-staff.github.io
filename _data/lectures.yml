@@ -55,8 +55,8 @@ lectures:
     nonumber: True
   - title: "Midterm 1"
     nonumber: True
-    edThread: 
-    isExam: True
+    edThread:  https://edstem.org/us/courses/42820/discussion/3513705
+    isExam: True https://www.youtube.com/watch?v=zDJxZlJp8Uo&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 10"
     nonumber: True
     reading: 
