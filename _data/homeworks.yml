@@ -42,6 +42,7 @@ homeworks:
     due: 
     selfGrade: 
     solutions: 
+    nonumber: True
   - rowspan: 3 # Homework #6
     homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2006?preview=87055239
     due: "Mon, Oct 9"
