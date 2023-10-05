@@ -65,8 +65,8 @@ lectures:
   - title: "Lecture 11"
     nonumber: True
     reading: 
-    edThread: 
-    recording: 
+    edThread:  https://edstem.org/us/courses/42820/discussion/3572660
+    recording:  https://www.youtube.com/watch?v=POtMiKVzMtg&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: 'Lecture 12'
     nonumber: True
     reading: 
