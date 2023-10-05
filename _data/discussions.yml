@@ -37,7 +37,10 @@ discussions:
     worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2004?preview=86924315'
     solutions: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2004?preview=86940638'
     walkthrough: 'https://kaf.berkeley.edu/media/t/1_bw4i3q5w/309904922' 
-  - rowspan: 3
+  - rowspan: 3 # Midterm 1
+    title: 'No Discussion (Exam)'
+    nonumber: True
+  - rowspan: 2
     title: # 'Discussion #5'
     nonumber: True
     worksheet: 
@@ -61,30 +64,23 @@ discussions:
     worksheet: 
     solutions: 
     walkthrough: 
+  - rowspan: 3 # Midterm 2
+    title: 'No Discussion (Exam)'
+    nonumber: True
+  - rowspan: 2 # Veterans Day
+    title: 'No Discussion (Holiday)'
+    nonumber: True
   - rowspan: 2
     title: # 'Discussion #9'
     nonumber: True
     worksheet: 
     solutions: 
     walkthrough: 
-  - rowspan: 3
-    title: # 'Discussion #10'
-    nonumber: True
-    worksheet: 
-    solutions: 
-    walkthrough: 
-  - rowspan: 2 # Veterans Day
-    nonumber: True
   - rowspan: 2 # Thanksgiving
+    title: 'No Discussion (Holiday)'
     nonumber: True
   - rowspan: 2
-    title: # 'Discussion #11'
-    nonumber: True
-    worksheet: 
-    solutions: 
-    walkthrough: 
-  - rowspan: 2
-    title: # 'Discussion #12'
+    title: # 'Discussion #10'
     nonumber: True
     worksheet: 
     solutions: 

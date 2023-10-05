@@ -53,15 +53,17 @@ lectures:
     recording:  https://www.youtube.com/watch?v=M6YYpTSwIMw&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Review Session"
     nonumber: True
+    edThread: https://edstem.org/us/courses/42820/discussion/3513705
+    recording: https://www.youtube.com/watch?v=zDJxZlJp8Uo&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Midterm 1"
     nonumber: True
-    edThread:  https://edstem.org/us/courses/42820/discussion/3513705
-    isExam: True https://www.youtube.com/watch?v=zDJxZlJp8Uo&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
+    edThread: https://edstem.org/us/courses/42820/discussion/3513705
+    isExam: True 
   - title: "Lecture 10"
     nonumber: True
     reading: 
-    edThread:  https://edstem.org/us/courses/42820/discussion/3547074
-    recording:  https://www.youtube.com/watch?v=7yBu7qTS-OE&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
+    edThread: https://edstem.org/us/courses/42820/discussion/3547074
+    recording: https://www.youtube.com/watch?v=7yBu7qTS-OE&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 11"
     nonumber: True
     reading: 
