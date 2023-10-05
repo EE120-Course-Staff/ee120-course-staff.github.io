@@ -37,6 +37,11 @@ homeworks:
     due: "Mon, Sep 25"
     selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-5
     solutions: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2005?preview=86981722
+  - rowspan: 3
+    homework:
+    due: 
+    selfGrade: 
+    solutions: 
   - rowspan: 3 # Homework #6
     homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2006?preview=87055239
     due: "Mon, Oct 9"
