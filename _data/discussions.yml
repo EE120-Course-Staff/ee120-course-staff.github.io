@@ -41,9 +41,9 @@ discussions:
     title: 'No Discussion (Exam)'
     nonumber: True
   - rowspan: 2
-    title: # 'Discussion #5'
+    title: 'Discussion #5'
     nonumber: True
-    worksheet: 
+    worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2005?preview=87072101'
     solutions: 
     walkthrough: 
   - rowspan: 2
