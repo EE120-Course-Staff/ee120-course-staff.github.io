@@ -32,8 +32,8 @@ labs:
   - rowspan: 5
     due: "Thur, Oct 5"
     lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks&urlpath=tree%2Flab-filters-for-stocks%2Flab2.ipynb&branch=main"
-    solutions: 
-    selfGrade: 
+    solutions: "https://bcourses.berkeley.edu/courses/1527328/files/folder/Labs/Lab%202/Solutions?preview=87086876"
+    selfGrade: "https://ee120-course-staff.github.io/selfgrade-form/lab-2"
   - rowspan: 4
     due: "Thurs, Oct 19"
     lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main"   
