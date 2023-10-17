@@ -71,7 +71,7 @@ lectures:
     recording: https://www.youtube.com/watch?v=POtMiKVzMtg&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: 'Lecture 12'
     nonumber: True
-    reading: Oppenheim and Willsky 3.6-3.8, Wikipedia "Inner Product Space" (Read up to the section on Real and complex numbers) and "Vector Space" (Definition and basic properties), 
+    reading: Oppenheim and Willsky 3.6-3.8, Wikipedia "Inner Product Space" (Read up to the section on Real and complex numbers) and "Vector Space" (Definition and basic properties) 
     edThread: https://edstem.org/us/courses/42820/discussion/3599307
     recording: https://www.youtube.com/watch?v=LF7nnB4EJQU&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 13"
