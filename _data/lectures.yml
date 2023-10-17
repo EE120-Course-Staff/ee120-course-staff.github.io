@@ -76,7 +76,7 @@ lectures:
     recording: https://www.youtube.com/watch?v=LF7nnB4EJQU&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 13"
     nonumber: True
-    reading: Oppenheim and Willsky 3.6-3.9
+    reading: Oppenheim and Willsky 3.6-3.9, Hsu 6.8
     edThread: https://edstem.org/us/courses/42820/discussion/3617669
     recording: https://www.youtube.com/watch?v=uLT52PfOfVg&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 14"
