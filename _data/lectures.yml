@@ -66,12 +66,12 @@ lectures:
     recording: https://www.youtube.com/watch?v=7yBu7qTS-OE&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 11"
     nonumber: True
-    reading: Oppenheim and Willsky 11-11.1, 3.6-3.7, https://en.wikipedia.org/wiki/Inner_product_space (Read up to the section on "Real and complex numbers")
+    reading: Oppenheim and Willsky 11-11.1, 3.6-3.7, Inner Product Space (Read up to the section on Real and complex numbers)
     edThread: https://edstem.org/us/courses/42820/discussion/3572660
     recording: https://www.youtube.com/watch?v=POtMiKVzMtg&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: 'Lecture 12'
     nonumber: True
-    reading: Oppenheim and Willsky 3.6-3.8, Wikipedia: "Inner Product Space" (Read up to the section on "Real and complex numbers") and "Vector Space" (The section "Definition and basic properties"), 
+    reading: Oppenheim and Willsky 3.6-3.8, Wikipedia: Inner Product Space (Read up to the section on Real and complex numbers) and Vector Space (The section Definition and basic properties), 
     edThread: https://edstem.org/us/courses/42820/discussion/3599307
     recording: https://www.youtube.com/watch?v=LF7nnB4EJQU&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 13"
