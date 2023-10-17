@@ -48,7 +48,7 @@ lectures:
     recording: https://www.youtube.com/watch?v=AtE3OFFYg3c&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 9"
     nonumber: True
-    reading: 
+    reading: Oppenheim and Willsky 2.2, 2.3, 2.4, 3.2, 3.10, 4.7
     edThread: https://edstem.org/us/courses/42820/discussion/3499093
     recording: https://www.youtube.com/watch?v=M6YYpTSwIMw&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Review Session"
@@ -61,22 +61,22 @@ lectures:
     isExam: True 
   - title: "Lecture 10"
     nonumber: True
-    reading: 
+    reading: Hsu 7.2, 7.4, 7.6C-E
     edThread: https://edstem.org/us/courses/42820/discussion/3547074
     recording: https://www.youtube.com/watch?v=7yBu7qTS-OE&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 11"
     nonumber: True
-    reading: 
+    reading: Oppenheim and Willsky 11-11.1, 3.6-3.7, https://en.wikipedia.org/wiki/Inner_product_space (Read up to the section on "Real and complex numbers")
     edThread: https://edstem.org/us/courses/42820/discussion/3572660
     recording: https://www.youtube.com/watch?v=POtMiKVzMtg&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: 'Lecture 12'
     nonumber: True
-    reading: 
+    reading: Oppenheim and Willsky 3.6-3.8, Wikipedia: "Inner Product Space" (Read up to the section on "Real and complex numbers") and "Vector Space" (The section "Definition and basic properties"), 
     edThread: https://edstem.org/us/courses/42820/discussion/3599307
     recording: https://www.youtube.com/watch?v=LF7nnB4EJQU&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 13"
     nonumber: True
-    reading: 
+    reading: Oppenheim and Willsky 3.6-3.9
     edThread: https://edstem.org/us/courses/42820/discussion/3617669
     recording: https://www.youtube.com/watch?v=uLT52PfOfVg&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 14"
