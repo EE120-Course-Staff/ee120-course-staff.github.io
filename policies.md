@@ -103,7 +103,7 @@ We will post the worksheet to bCourses and Ed on Friday mornings.
 
 ### Attendance
 
-Attendance for lecture and discussion is not required. However, if you attend at least 10 discussions, **we will add 1% to your final grade**.
+Attendance for lecture and discussion is not required. However, if you attend at least 7 discussions, **we will add 1% to your final grade**.
 
 Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance. 
 
