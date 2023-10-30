@@ -36,7 +36,7 @@ discussions:
     nonumber: True
     worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2004?preview=86924315'
     solutions: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2004?preview=86940638'
-    walkthrough: 'https://kaf.berkeley.edu/media/t/1_bw4i3q5w/309904922' 
+    walkthrough: 'https://bcourses.berkeley.edu/courses/1527328/external_tools/78985'
   - rowspan: 3 # Midterm 1
     title: 'No Discussion (Exam)'
     nonumber: True
@@ -51,19 +51,19 @@ discussions:
     nonumber: True
     worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2006?preview=87137998'
     solutions: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2006?preview=87157390'
-    walkthrough: 'https://kaf.berkeley.edu/media/t/1_e0oa97oe' 
+    walkthrough: 'https://bcourses.berkeley.edu/courses/1527328/external_tools/78985'
   - rowspan: 2
     title: 'Discussion #7'
     nonumber: True
     worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2007?preview=87217698'
     solutions: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2007?preview=87217699'
-    walkthrough: 
+    walkthrough: 'https://bcourses.berkeley.edu/courses/1527328/external_tools/78985'
   - rowspan: 2
     title: # 'Discussion #8'
     nonumber: True
-    worksheet: https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2008?preview=87282025
-    solutions: 
-    walkthrough: 
+    worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2008?preview=87282025'
+    solutions: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2008?preview=87308675'
+    walkthrough: 'https://bcourses.berkeley.edu/courses/1527328/external_tools/78985'
   - rowspan: 3 # Midterm 2
     title: 'No Discussion (Exam)'
     nonumber: True
