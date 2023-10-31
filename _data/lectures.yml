@@ -102,8 +102,8 @@ lectures:
   - title: "Lecture 18"
     nonumber: True
     reading: 
-    edThread: 
-    recording: 
+    edThread:  https://edstem.org/us/courses/42820/discussion/3759422
+    recording:  https://www.youtube.com/watch?v=BtbiEuLFLCA&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "No Lecture (Exam)"
     nonumber: True
   - title: "Midterm 2"
