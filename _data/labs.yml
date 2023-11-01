@@ -39,3 +39,10 @@ labs:
     lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main"   
     solutions: "https://bcourses.berkeley.edu/courses/1527328/files/folder/Labs/Lab%203?preview=87244799"
     selfGrade: "https://ee120-course-staff.github.io/selfgrade-form/lab-3"
+  - rowspan: 2
+    nonumber: True
+  - rowspan: 4
+    due: "Thurs, Nov 9"
+    lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis&urlpath=tree%2Flab-fft-heart-rate-analysis%2Flab4.ipynb&branch=main"   
+    solutions: 
+    selfGrade: 
