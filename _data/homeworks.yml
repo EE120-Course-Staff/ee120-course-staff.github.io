@@ -56,8 +56,8 @@ homeworks:
   - rowspan: 2 # Homework #8
     homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2008?preview=87194424
     due: "Mon, Oct 23"
-    selfGrade: 
-    solutions: 
+    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-8
+    solutions: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2008?preview=87290502
   - rowspan: 2 # Homework #9
     homework: "https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2009?preview=87266931" 
     due: "Mon, Oct 30"
