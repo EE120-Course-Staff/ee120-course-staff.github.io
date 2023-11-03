@@ -105,7 +105,7 @@ We will post the worksheet to bCourses and Ed on Friday mornings.
 
 Attendance for lecture and discussion is not required. However, if you attend at least 7 discussions, **we will add 1% to your final grade**.
 
-Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance. 
+Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance.
 
 
 **The first discussion is Friday, September 1st**.
@@ -236,7 +236,7 @@ Self grades will be released, along with assignment solutions, when the grace pe
 Office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
 ## Homework Party
-We offer a two-hour homework party on TBD from TBD where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website. Typically, two TAs will staff homework party each week.
+We offer a three-hour homework party on Monday from 5-8pm where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website. Typically, two TAs will staff homework party each week.
 
 
 ## Exams
