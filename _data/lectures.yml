@@ -104,11 +104,13 @@ lectures:
     reading: 
     edThread:  https://edstem.org/us/courses/42820/discussion/3759422
     recording:  https://www.youtube.com/watch?v=BtbiEuLFLCA&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
-  - title: "No Lecture (Exam)"
+  - title: "Review Session"
     nonumber: True
+    edThread: https://edstem.org/us/courses/42820/discussion/3775888
+    recording: https://www.youtube.com/watch?v=Kiht868QVUw&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Midterm 2"
     nonumber: True
-    edThread: 
+    edThread:
     isExam: True
   - title: "Lecture 19"
     nonumber: True
