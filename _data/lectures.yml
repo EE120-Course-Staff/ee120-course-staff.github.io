@@ -108,8 +108,8 @@ lectures:
     nonumber: True
   - title: "Midterm 2"
     nonumber: True
-    edThread: 
-    isExam: True
+    edThread:  https://edstem.org/us/courses/42820/discussion/3775888
+    isExam: True https://www.youtube.com/watch?v=Kiht868QVUw&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 19"
     nonumber: True
     reading: 
