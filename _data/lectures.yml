@@ -110,13 +110,13 @@ lectures:
     recording: https://www.youtube.com/watch?v=Kiht868QVUw&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Midterm 2"
     nonumber: True
-    edThread:
-    isExam: True
+    edThread: 
+    isExam: 
   - title: "Lecture 19"
     nonumber: True
     reading: 
-    edThread: 
-    recording: 
+    edThread: https://edstem.org/us/courses/42820/discussion/3811791
+    recording: https://www.youtube.com/watch?v=Alj0Wx4FbRo&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 20"
     nonumber: True
     reading: 
