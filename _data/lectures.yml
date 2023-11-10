@@ -58,7 +58,7 @@ lectures:
   - title: "Midterm 1"
     nonumber: True
     edThread: https://edstem.org/us/courses/42820/discussion/3513705
-    isExam: True 
+    isExam: True
   - title: "Lecture 10"
     nonumber: True
     reading: Hsu 7.2, 7.4, 7.6C-E
@@ -110,8 +110,8 @@ lectures:
     recording: https://www.youtube.com/watch?v=Kiht868QVUw&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Midterm 2"
     nonumber: True
-    edThread:  https://edstem.org/us/courses/42820/discussion/3828246
-    isExam:  https://www.youtube.com/watch?v=Z4S5zGcsZr4&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
+    edThread: https://edstem.org/us/courses/42820/discussion/3734637
+    isExam: True
   - title: "Lecture 19"
     nonumber: True
     reading: 
@@ -120,8 +120,8 @@ lectures:
   - title: "Lecture 20"
     nonumber: True
     reading: 
-    edThread: 
-    recording: 
+    edThread: https://edstem.org/us/courses/42820/discussion/3828246
+    recording: https://www.youtube.com/watch?v=Z4S5zGcsZr4&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 21"
     nonumber: True
     reading: 
