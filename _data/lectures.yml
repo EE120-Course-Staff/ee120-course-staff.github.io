@@ -110,8 +110,8 @@ lectures:
     recording: https://www.youtube.com/watch?v=Kiht868QVUw&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Midterm 2"
     nonumber: True
-    edThread: 
-    isExam: 
+    edThread:  https://edstem.org/us/courses/42820/discussion/3828246
+    isExam:  https://www.youtube.com/watch?v=Z4S5zGcsZr4&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 19"
     nonumber: True
     reading: 
