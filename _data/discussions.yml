@@ -68,8 +68,11 @@ discussions:
     title: 'No Discussion (Exam)'
     nonumber: True
   - rowspan: 2 # Veterans Day
-    title: 'No Discussion (Holiday)'
+    title: 'Discussion #8.5'
     nonumber: True
+    worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2008.5?preview=87442473'
+    solutions: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2008.5?preview=87442472'
+    walkthrough: 'https://bcourses.berkeley.edu/courses/1527328/external_tools/78985'
   - rowspan: 2
     title: # 'Discussion #9'
     nonumber: True
