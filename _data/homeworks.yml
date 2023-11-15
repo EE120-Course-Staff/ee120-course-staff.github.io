@@ -69,8 +69,8 @@ homeworks:
     selfGrade: 
     solutions: 
   - rowspan: 3 # Homework #11 - Veterans Day
-    homework: 
-    due: 
+    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2011?preview=87468828
+    due: "Tue, Nov 21"
     selfGrade: 
     solutions: 
   - rowspan: 2 # Homework #12 - Thanksgiving
