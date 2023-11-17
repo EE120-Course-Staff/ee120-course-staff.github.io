@@ -74,9 +74,9 @@ discussions:
     solutions: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2008.5?preview=87442472'
     walkthrough: 'https://bcourses.berkeley.edu/courses/1527328/external_tools/78985'
   - rowspan: 2
-    title: # 'Discussion #9'
+    title: 'Discussion #9'
     nonumber: True
-    worksheet: 
+    worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2009?preview=87487919'
     solutions: 
     walkthrough: 
   - rowspan: 2 # Thanksgiving
