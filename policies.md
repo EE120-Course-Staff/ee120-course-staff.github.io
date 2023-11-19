@@ -118,7 +118,7 @@ Nevertheless, we highly recommend that you attend lecture and discussion as freq
 
 ## Homework
 
-To enhance and gauge your fluency with the course content, we will have two types of homework assignments: problem sets and labs ([Jupyter notebook](https://jupyter.org/)-based coding assignments). You can expect **approximately one problem set per week**, and **six labs** throughout the semester.
+To enhance and gauge your fluency with the course content, we will have two types of homework assignments: problem sets and labs ([Jupyter notebook](https://jupyter.org/)-based coding assignments). You can expect **approximately one problem set per week**, and **five labs** throughout the semester.
 
 
 ### Problem Set Logistics
