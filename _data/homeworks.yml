@@ -72,8 +72,8 @@ homeworks:
   - rowspan: 2 # Homework #10 -- MT 2
     homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2010?preview=87408543
     due: "Mon, Nov 13"
-    selfGrade: 
-    solutions: 
+    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-10
+    solutions: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2010?preview=87501665
   - rowspan: 3 # Homework #11 - Veterans Day
     homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2011?preview=87468828
     due: "Tue, Nov 21"
