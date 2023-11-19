@@ -49,5 +49,5 @@ labs:
   - rowspan: 2
     nonumber: True
   - rowspan: 4
-    due: "Thurs, Nov 9"
+    due: "Thurs, Nov 30"
     lab: "https://edstem.org/us/courses/42820/discussion/3897394"
