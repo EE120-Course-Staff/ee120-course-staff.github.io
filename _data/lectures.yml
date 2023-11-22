@@ -130,13 +130,13 @@ lectures:
   - title: "Lecture 22"
     nonumber: True
     reading: 
-    edThread:  https://edstem.org/us/courses/42820/discussion/3906614
-    recording:  https://www.youtube.com/watch?v=zgDDkoLjay4&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
+    edThread:  https://edstem.org/us/courses/42820/discussion/3877841
+    recording:  https://www.youtube.com/watch?v=q_4JLCCxTmc&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Lecture 23"
     nonumber: True
     reading: 
-    edThread: 
-    recording: 
+    edThread: https://edstem.org/us/courses/42820/discussion/3906614
+    recording: https://www.youtube.com/watch?v=zgDDkoLjay4&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "No Lecture (Academic Holiday)"
     nonumber: True
   - title: "Lecture 24"
