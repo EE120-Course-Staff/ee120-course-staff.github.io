@@ -77,8 +77,8 @@ discussions:
     title: 'Discussion #9'
     nonumber: True
     worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2009?preview=87487919'
-    solutions: 
-    walkthrough: 
+    solutions: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2009?preview=87508548'
+    walkthrough: 'https://bcourses.berkeley.edu/courses/1527328/external_tools/78985'
   - rowspan: 2 # Thanksgiving
     title: 'No Discussion (Holiday)'
     nonumber: True
