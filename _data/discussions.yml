@@ -83,8 +83,8 @@ discussions:
     title: 'No Discussion (Holiday)'
     nonumber: True
   - rowspan: 2
-    title: # 'Discussion #10'
+    title: 'Discussion #10'
     nonumber: True
-    worksheet: 
+    worksheet: 'https://bcourses.berkeley.edu/courses/1527328/files/folder/Discussion/Discussion%2010?preview=87595339'
     solutions: 
     walkthrough: 
