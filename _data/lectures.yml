@@ -147,8 +147,8 @@ lectures:
   - title: "Lecture 25"
     nonumber: True
     reading: 
-    edThread: 
-    recording: 
+    edThread:  https://edstem.org/us/courses/42820/discussion/3952464
+    recording:  https://www.youtube.com/watch?v=5xIq6aoS0Ks&list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp
   - title: "Final Exam"
     nonumber: True
     edThread: 
