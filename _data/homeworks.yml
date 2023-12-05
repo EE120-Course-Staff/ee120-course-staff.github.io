@@ -77,20 +77,10 @@ homeworks:
   - rowspan: 3 # Homework #11 - Veterans Day
     homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2011?preview=87468828
     due: "Tue, Nov 21"
-    selfGrade: 
-    solutions: 
-  - rowspan: 2 # Homework #12 - Thanksgiving
-    homework: 
-    due: 
-    selfGrade: 
-    solutions: 
-  - rowspan: 2 # Homework #13
-    homework: 
-    due: 
-    selfGrade: 
-    solutions: 
-  - rowspan: 2 # Homework #14
-    homework: 
-    due: 
-    selfGrade: 
-    solutions: 
+    selfGrade: https://ee120-course-staff.github.io/selfgrade-form/homework-11
+    solutions: https://www.gradescope.com/courses/573746/assignments/3719875
+  - rowspan: 3 # Homework #12 - Thanksgiving
+    title: "(optional)"
+    homework: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2012%20(Optional)?preview=87556224
+    due: never
+    solutions: https://bcourses.berkeley.edu/courses/1527328/files/folder/Homework/Homework%2012%20(Optional)?preview=87603138
