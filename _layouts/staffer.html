@@ -12,8 +12,10 @@
       {% if page.pronouns %}
       <span class="staffer-pronouns">{{ page.pronouns }}</span>
       {% endif %}
-      {% if page.lead %}
-      <span class="staffer-pronouns">{{ page.lead }}</span>
+      {% if page.tags %}
+        {% for tag in page.tags %}
+        <span class="staffer-pronouns">{{ tag }}</span>
+        {% endfor %}
       {% endif %}
     </h3>
     {% if page.email %}

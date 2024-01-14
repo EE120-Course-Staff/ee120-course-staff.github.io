@@ -1,8 +1,8 @@
 # Follow the steps on https://fullcalendar.io/docs/v4/google-calendar until "Getting Set Up" to obtain the google_calendar_id.
 
-google_api_key: AIzaSyBM2NnPMx5rgCK8fZaG5X1qNcSiW-CRkRg
-google_calendar_id: c_8ea55efcf828ddcff255ab717b827e5d67344a69fabbde34cad7ad27d960161e@group.calendar.google.com # replace this
-google_calendar_link: https://calendar.google.com/calendar/embed?src=c_8ea55efcf828ddcff255ab717b827e5d67344a69fabbde34cad7ad27d960161e%40group.calendar.google.com&ctz=America%2FLos_Angeles
+google_api_key: 
+google_calendar_id:  # replace this
+google_calendar_link: 
 min_time: '09:00:00'
 max_time: '21:00:00'
 

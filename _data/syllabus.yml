@@ -5,8 +5,8 @@
 # The first and last day of class, respectively.
 # Due to time zone issues, these might not show up exactly on the calendar,
 # so some fiddling is necessary.
-start_date: 2023-08-23
-end_date: 2023-12-01
+start_date: 2024-01-17
+end_date: 2024-05-10
 
 # Any other days you want to appear on the calendar (e.g. for one-time events
 # like exams or bonus lectures) can be listed here.
@@ -18,9 +18,9 @@ end_date: 2023-12-01
 # dates reflected on the production build, double check that these dates are
 # correct on the syllabus on the production build.
 extra_days:
-  - date: 2023-09-28 # 2023-09-28 in Unix time
-  - date: 2023-11-02 # 2023-11-02 in Unix time
-  - date: 2023-12-12 # 2023-12-12 in Unix time
+  # - date: 2023-09-28 # 2023-09-28 in Unix time
+  # - date: 2023-11-02 # 2023-11-02 in Unix time
+  # - date: 2023-12-12 # 2023-12-12 in Unix time
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
 # For example, for a semester with Tu/Th lectures, put ['2', '4'].
@@ -69,7 +69,7 @@ default_lab_rowspan: '4'
 #######################################################
 
 # Edit the widths of columns here.
-week_width: "4%"
+week_width: "3%"
 date_width: "9%"
 lecture_width: "24%"
 discussion_width: "24%"
