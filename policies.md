@@ -146,6 +146,7 @@ You will submit your work through **Gradescope**. You have several options for s
 2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
 3. Use your own sheets of paper, but demarcate clearly the space for each problem, part, and subpart. You must not exceed the amount of space allotted in this official problem set document. Then upload a PDF file.
 
+* **The first problem set will be released on Wednesday Jan 17th and will be due on Wednesday Jan 24th at 11:59pm, with a two day grace period until Friday at 11:59pm**
 
 ### Lab Logistics
 
