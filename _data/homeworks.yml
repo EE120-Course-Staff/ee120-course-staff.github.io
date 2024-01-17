@@ -7,8 +7,12 @@
 
 homeworks:
   ### Format:
-  # - title: "additional title if necessary"
+  # - title: "additional title if necessary" (not necessary in most cases)
   #   due: "due date"
-  #   selfGrade: link to self grade form
   #   homework: link to the homework pdf
   #   solutions: link to the solutions pdf
+  #   selfGrade: link to self grade form
+- due: Jan 24th
+  homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework?preview=87932746'
+  solutions: 
+  selfGrade: 
