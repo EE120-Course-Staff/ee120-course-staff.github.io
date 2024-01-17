@@ -80,7 +80,7 @@ subsampling, gentle introduction to multi-rate processing systems
 
 All official course communication will be through Ed and bCourses. We will also maintain the course website for your convenience.
 
-You may contact the staff at _. This reaches both head TAs and Professor Liu.
+To contact staff admin directly, please send an email through bCourses to Professor Liu and both head TAs.
 
 ## Gradescope
 
@@ -146,7 +146,7 @@ You will submit your work through **Gradescope**. You have several options for s
 2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
 3. Use your own sheets of paper, but demarcate clearly the space for each problem, part, and subpart. You must not exceed the amount of space allotted in this official problem set document. Then upload a PDF file.
 
-* **The first problem set will be released on Wednesday Jan 17th and will be due on Wednesday Jan 24th at 11:59pm, with a two day grace period until Friday at 11:59pm**
+**The first problem set will be released on Wednesday Jan 17th and will be due on Wednesday Jan 24th at 11:59pm, with a two day grace period until Friday at 11:59pm**
 
 ### Lab Logistics
 
@@ -242,9 +242,10 @@ Self grades will be released, along with assignment solutions, when the grace pe
 Office hour times and locations are also available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
 * Professor Chunlei Liu, Monday 3-4 PM
+* TBA
 
 ## Homework Party
-We offer a three-hour homework party on _ from _ where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website. Typically, two TAs will staff homework party each week.
+We offer homework party on TBA where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website. Typically, two TAs will staff homework party each week.
 
 
 ## Exams
