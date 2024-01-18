@@ -250,26 +250,13 @@ We offer homework party on TBA where you can ask questions about the problem set
 
 ## Exams
 
-We will have 3 midterms and no final this semester. These midterms will be held remotely during class time on the following dates:
+We will have 3 midterms and no final this semester. These midterms will be held **in-person** in lecture on the following dates:
 
 **Midterm 1 Exam Date:** Wednesday February 21st
 
 **Midterm 2 Exam Date:** Wednesday March 20th
 
 **Midterm 3 Exam Date:** Wednesday April 24th
-
-### Exam Policy
-
-Before the exam, we will post an answer template on bCourses, and we will post the exam questions once the exam period starts.
-* You are responsible for printing out the answer sheet and filling out the honor code before the exam begins.
-* If printing is non-trivial, you may either use a tablet to fill in the answer sheet OR use loose paper provided that you use roughly the same space as provided on the exam booklet.
-* If you encounter technical issues during scanning or submitting your solutions, you need to alert the head TAs before the due time and take pictures of all your solutions to prove that you have finished the quiz or exam on time.
-
-Late submissions: If a submission is late by $n$ minutes ($n \le 5$) for a quiz that has a normal duration of $N$ minutes (e.g. $N = 90$ for midterms), a penalty of $\frac{3n}{N}$ will be applied to the score of the particular exam. Any late submission exceeding five minutes will not be graded and a score of zero will be applied automatically. If Gradescope submission fails, email your solution to the head TA. This policy still applies to emailed solutions.
-
-Exams will be open-book and open-notes (including digital books and notes). However, no internet (except for bCourses, Gradescope, and the course website) nor software use is permitted unless stated otherwise. You may not collaborate in any way with other students on exams. No public posts are allowed.
-
-DSP students will start exams at the same time as other students, but will be allowed to submit to Gradescope late based on their time accommodation.
 
 We will release more exam logistics in Ed posts before each exam.
 
