@@ -241,7 +241,7 @@ Self grades will be released, along with assignment solutions, when the grace pe
 ## Office Hours
 Office hour times and locations are also available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
-* Professor Chunlei Liu, Monday 3-4 PM
+* Professor Chunlei Liu, Tuesday 1-2 PM, Cory 505
 * TBA
 
 ## Homework Party
