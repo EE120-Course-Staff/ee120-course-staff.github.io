@@ -5,7 +5,7 @@ lectures:
   #   edThread: link to the ed thread
   #   slides: link to the slides
   - # Wed Jan 17th
-    topic: 'Background review'
+    topic: 'Background'
     recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4136882'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87936553'
