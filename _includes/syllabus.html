@@ -144,7 +144,7 @@
         - The first week is light-colored. If you absolutely must make the first
           week shaded, change forloop.index to forloop.index0 just below this line.
       {%- endcomment -%}
-      {%- assign is_even_mod = forloop.index | modulo:2 -%}
+      {%- assign is_even_mod = forloop.index | modulo: 2 -%}
       {%- if is_even_mod == 0 -%}
         {%- assign is_even = "is-even" -%}
       {%- else -%}

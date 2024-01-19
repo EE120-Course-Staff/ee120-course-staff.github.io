@@ -14,8 +14,8 @@
 {%- endcomment -%}
 {%- if include.element.nonumber -%}
   {{ include.element.title }}
-{%- elsif include.element.title -%}
-  {{ include.number }}. {{ include.element.title }}
+{%- elsif include.element.worksheet -%}
+  Discussion {{ include.number }}
 {%- endif -%}
 
 {%- if include.element.worksheet -%}

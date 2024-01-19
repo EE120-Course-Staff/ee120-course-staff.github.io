@@ -12,7 +12,66 @@ homeworks:
   #   homework: link to the homework pdf
   #   solutions: link to the solutions pdf
   #   selfGrade: link to self grade form
-- due: Jan 24th
-  homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework?preview=87932746'
-  solutions: 
-  selfGrade: 
+  - # Homework 1
+    rowspan: 3
+    override_color: dark
+    due: Jan 24th
+    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework?preview=87932746'
+    solutions: 
+    selfGrade: 
+  - # Homework 2
+    due: # Feb 2nd
+    homework: 
+    solutions: 
+    selfGrade: 
+  - # Homework 3
+    due: # Feb 9th
+    homework: 
+    solutions: 
+    selfGrade: 
+  - # Homework 4
+    due: # Feb 16th
+    homework: 
+    solutions: 
+    selfGrade: 
+  - # Homework 5 -- Midterm 1
+    due: # Feb 23rd
+    homework: 
+    solutions: 
+    selfGrade: 
+  - # Homework 6
+    due: # Mar 1st
+    homework: 
+    solutions: 
+    selfGrade: 
+  - # Homework 7
+    due: # Mar 8th
+    homework: 
+    solutions: 
+    selfGrade: 
+  - # Homework 8
+    due: # Mar 15th
+    homework: 
+    solutions: 
+    selfGrade: 
+  - # Homework 9 -- Midterm 2
+    due: # Mar 22nd
+    homework: 
+    solutions: 
+    selfGrade: 
+  - nonumber: True # Spring Break
+  - # Homework 10
+    due: # Apr 5th
+    homework: 
+    solutions: 
+    selfGrade: 
+  - # Homework 11
+    due: # Apr 12th
+    homework: 
+    solutions: 
+    selfGrade: 
+  - # Homework 12
+    due: # Apr 19th
+    homework: 
+    solutions: 
+    selfGrade: 

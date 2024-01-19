@@ -6,10 +6,52 @@
 
 
 discussions:
-  # - title: title of the discussion
-  #   nonumber: True # always add this line
+  # - title: title of the discussion (Optional)
   #   worksheet: link to the discusstion worksheet
   #   solutions: link to the discussion solutions link
   #   walkthrough: link to the walkthrough video
-  - rowspan: 1 # No discussion
+  - rowspan: 1
     nonumber: True
+  - # Discussion 1
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 2
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 3
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 4
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - nonumber: True # Midterm 1
+  - # Discussion 5
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 6
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 7
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - nonumber: True # Midterm 2
+  - nonumber: True # Spring Break
+  - # Discussion 8
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 9
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 10
+    worksheet: 
+    solutions: 
+    walkthrough: 

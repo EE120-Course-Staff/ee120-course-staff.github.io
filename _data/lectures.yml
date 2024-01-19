@@ -1,6 +1,135 @@
 lectures:
-  # - title: "Lecture 1"
-  #   nonumber: True # always keep this
+  # - topic:
   #   reading: Name of textbook and chapters to read
-  #   edThread: link to the ed thread
   #   recording: link to the recording link
+  #   edThread: link to the ed thread
+  #   slides: link to the slides
+  - # Wed Jan 17th
+    topic: 'Background review'
+    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4136882'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87936553'
+  - # Mon Jan 22nd
+    topic: 'Signal representations'
+    recording: 
+    edThread: 
+    slides: 
+  - # Wed Jan 24th
+    topic: 'System representations'
+    recording: 
+    edThread: 
+    slides: 
+  - # Mon Jan 29th
+    topic: 'System response'
+    recording: 
+    edThread: 
+    slides: 
+  - # Wed Jan 31st
+    topic: 'LTI systems and impulse response'
+    recording: 
+    edThread: 
+    slides: 
+  - # Mon Feb 5th
+    topic: 'Convolution and correlation'
+    recording: 
+    edThread: 
+    slides: 
+  - # Wed Feb 7th
+    topic: 'Continuous Fourier transform'
+    recording: 
+    edThread: 
+    slides: 
+  - # Mon Feb 12th
+    topic: 'Discrete Fourier transform'
+    recording: 
+    edThread: 
+    slides: 
+  - # Wed Feb 14th
+    topic: 'Fourier transforms continued'
+    recording: 
+    edThread: 
+    slides: 
+  - nonumber: True # Mon Feb 19th -- President's Day
+    title: "No Lecture (President's Day)"
+  - nonumber: True # Wed Feb 21st -- Midterm 1
+    isExam: True
+    title: 'Midterm 1'
+  - # Mon Feb 26th
+    topic: 'Properties of Fourier transforms'
+    recording: 
+    edThread: 
+    slides: 
+  - # Wed Feb 28th
+    topic: '2D Fourier transform'
+    recording: 
+    edThread: 
+    slides: 
+  - # Mon Mar 4th
+    topic: 'Filtering'
+    recording: 
+    edThread: 
+    slides: 
+  - # Wed Mar 6th
+    topic: 'Sampling'
+    recording: 
+    edThread: 
+    slides: 
+  - # Mon Mar 11th
+    topic: 'Nyquist theorem'
+    recording: 
+    edThread: 
+    slides: 
+  - # Wed Mar 13th
+    topic: '2D Sampling'
+    recording: 
+    edThread: 
+    slides: 
+  - # Mon Mar 18th
+    topic: 'Interpolation'
+    recording: 
+    edThread: 
+    slides: 
+  - nonumber: True # Wed Mar 20th -- Midterm 2
+    isExam: True
+    title: 'Midterm 2'
+  - rowspan: 2 # Spring Break
+    nonumber: 2
+    title: 'No Lecture (Spring Break)'
+  - # Mon Apr 1st
+    topic: 'Buffer'
+    recording: 
+    edThread: 
+    slides: 
+  - # Wed Apr 3rd
+    topic: 'Deconvolution'
+    recording: 
+    edThread: 
+    slides: 
+  - # Mon Apr 8th
+    topic: 'Image processing'
+    recording: 
+    edThread: 
+    slides: 
+  - # Wed Apr 10th
+    topic: 'Laplace transform'
+    recording: 
+    edThread: 
+    slides: 
+  - # Mon Apr 15th
+    topic: 'Laplace transform'
+    recording: 
+    edThread: 
+    slides: 
+  - # Wed Apr 17th
+    topic: 'Z transform'
+    recording: 
+    edThread: 
+    slides: 
+  - # Mon Apr 22nd
+    topic: 'Z transform'
+    recording: 
+    edThread: 
+    slides: 
+  - nonumber: True # Wed Apr 24th -- Midterm 3
+    isExam: True
+    title: 'Midterm 3'

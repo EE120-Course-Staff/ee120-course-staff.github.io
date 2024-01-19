@@ -7,7 +7,16 @@
   If you don't want homework boxes to alternate colors per week,
   then remove class="{{ include.is_even }}" below.
 {%- endcomment -%}
-<td class="{{ include.is_even }}" rowspan="{{ include.rowspan }}">
+{% if include.element.override_color %}
+  {% if include.element.override_color == "dark" %}
+    {% assign color_class = "is-even" %}
+  {% else %}
+    {% assign color_class = "" %}
+  {% endif %}
+{% else %}
+  {% assign color_class = include.is_even %}
+{% endif %}
+<td class="{{ color_class }}" rowspan="{{ include.rowspan }}">
 
 {%- comment -%}
   - TODO: Currently using nonumber to figure out when not to auto-check for files.
@@ -18,7 +27,7 @@
 {%- if include.element.nonumber -%}
   {{ include.element.title }}
 {%- elsif include.element.due -%}
-  Homework #{{ include.number }} {{ include.element.title }}
+  Homework {{ include.number }} {{ include.element.title }}
   <br>
   (due {{ include.element.due }})
 {%- endif -%}

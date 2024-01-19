@@ -6,21 +6,38 @@
   <b>{{ include.number }}. {{ include.element.title }}</b>
 {%- elsif include.element.nonumber -%}
   {{ include.element.title | markdownify }}
-{%- elsif include.element.title -%}
-  {{ include.number }}. {{ include.element.title }}
+{%- else -%}
+  <div class="lecture-title">Lecture {{ include.number }}</div>
+{%- endif -%}
+
+{%- if include.element.topic -%}
+  {{ include.element.topic }}
 {%- endif -%}
 
 {%- if include.element.reading -%}
+  {%- if include.element.topic -%}
+    <br>
+  {%- endif -%}
   {{ include.element.reading }}
 {%- endif -%}
-{%- if include.element.recording and include.element.edThread -%}
+
+{%- if (include.element.topic or include.element.reading) and (include.element.recording or include.element.slides or include.element.edThread) -%}
   <br>
-  <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a> / <a href="{{ include.element.recording }}">Recording</a>
-{%- elsif include.element.edThread -%}
-  <br>
-  <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
+{%- endif -%}
+
+{%- if include.element.recording and include.element.slides and include.element.edThread -%}
+  <a href="{{ include.element.recording }}">Recording</a> / <a href="{{ include.element.slides }}">Slides</a> / <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
+{%- elsif include.element.recording and include.element.slides -%}
+  <a href="{{ include.element.recording }}">Recording</a>/ <a href="{{ include.element.slides }}">Slides</a>
+{%- elsif include.element.recording and include.element.edThread -%}
+  <a href="{{ include.element.recording }}">Recording</a> / <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a> 
+{%- elsif include.element.slides and include.element.edThread -%}
+  <a href="{{ include.element.slides }}">Slides</a> / <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
 {%- elsif include.element.recording -%}
-  <br>
   <a href="{{ include.element.recording }}">Recording</a>
+{%- elsif include.element.slides -%}
+  <a href="{{ include.element.slides }}">Slides</a>
+{%- elsif include.element.edThread -%}
+  <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
 {%- endif -%}
 </td>
