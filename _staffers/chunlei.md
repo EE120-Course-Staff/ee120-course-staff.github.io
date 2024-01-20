@@ -1,7 +1,7 @@
 ---
 role: Instructor
 name: Chunlei Liu
-photo: placeholder.png
+photo: chunleiliu.jpg
 tags:
  - Professor
 email: chunlei.liu@
