@@ -184,7 +184,7 @@ Each week, we will release a Gradescope assignment with five multiple choice or 
 
 ### Drops
 
-**We will automatically drop the two lowest problem set scores and the lowest lab score from your final grade**. Note that these drops are provided in case of emergencies such as illnesses.
+**We will automatically drop the lowest problem set score and the lowest lab score from your final grade**. We will also drop an additional problem set score if you fill out the midsemester feedback form. Note that these drops are provided in case of emergencies such as illnesses.
 
 
 ### Grace Period
@@ -263,7 +263,7 @@ We will release more exam logistics in Ed posts before each exam.
 ## Grading
 
 * **Midterms**: 25% each (75% total)
-* **Problem Sets**: 15% (We drop the two lowest scores)
+* **Problem Sets**: 15% (We drop the lowest score + another for filling out the midsemester feedback form)
 * **Labs**: 10% (We drop the lowest score)
 
 
