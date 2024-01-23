@@ -239,13 +239,18 @@ Self grades will be released, along with assignment solutions, when the grace pe
 **Note: If you give yourself a 2, 5, or 8 for any subpart, provide reasoning why you gave yourself that score.**
 
 ## Office Hours
-Office hour times and locations are also available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
+These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote (coming soon) options: each office hour will have a room number, Zoom link, or both listed.
 
-* Professor Chunlei Liu, Tuesday 1-2 PM, Cory 505
-* TBA
+* Professor Liu: Tuesdays 1-2 PM @ Cory 505
+* Yajat: Mondays 5-6 PM @ Cory 367, Wednesdays 3-4 PM @ Cory 367 (starting Jan 31st)
+* SooHyuk: Tuesdays 12-1 PM @ Cory 367, Tuesdays 4-5 PM @ Cory 367
+* Jin/Mihai: Thursdays 10-11 AM @ Cory 367
+* Tanya: Thursdays 1-2 PM @ Cory 529
+* Tanya/Christine: 11 AM-12 PM @ Cory 504
+* Trinity: 2-3 PM @ Soda 320
 
 ## Homework Party
-We offer homework party on TBA where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website. Typically, two TAs will staff homework party each week.
+We offer homework party on Wednesdays 5-8 PM where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website (Soda 373 until Feb 7th, Cory 293 starting Feb 14th). Typically, two TAs will staff homework party each week.
 
 
 ## Exams
