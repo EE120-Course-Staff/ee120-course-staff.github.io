@@ -28,12 +28,12 @@ permalink: pretty
 aux_links:
   Dark Mode:
     - '#'
-  # Lecture Playlist:
-  #   - 'https://www.youtube.com/playlist?list=PLnocShPlK-Ftt9ZPYTuagNaVg1xFJhCtp'
-  # Ed:
-  #   - 'https://edstem.org/us/courses/42820/discussion/'
-  # Discussion Attendance:
-  #   - 'https://forms.gle/iyptCvdLsm91qbTV7'
+  Lecture Playlist:
+    - 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
+  Ed:
+    - 'https://edstem.org/us/courses/53669/discussion/'
+  Discussion/OH Check-In:
+    - 'https://forms.gle/QvCXr84spkAb7nuJ6'
   Self-Grade Form:
     - 'https://ee120-course-staff.github.io/selfgrade-form/'
 footer_content:
