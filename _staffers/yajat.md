@@ -1,9 +1,10 @@
 ---
 role: Reader
 name: Yajat Yadav
-photo: placeholder.png
+photo: yajat.png
 email: yajatyadav@
 tags:
  - UCS1
  - 8 Hour
 ---
+Hi everyone! I’m Yajat, a second-year EECS major from SoCal. I like soccer, cooking, and playing the violin. This is my first time teaching EE 120, and I’m looking forward to a great semester!
