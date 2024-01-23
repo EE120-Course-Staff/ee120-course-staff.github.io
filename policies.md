@@ -282,4 +282,4 @@ There is no official textbook or set of course notes for EE 120. EE 120 is a sel
 * [Signals and Systems, Theory and Applications by Fawwaz T. Ulaby, Andrew E. Yagle](https://ss2.eecs.umich.edu)
 * [Signals and Systems by Hwei P Hsu](https://electronicsbookcafe.files.wordpress.com/2015/08/signals-and-systems-2nd-edition-schaums-outline-series-hwei-hsu.pdf)
 
-As a disclaimer, EE 120 does not directly follow these textbooks, so they will differ from the course material in terms of content, emphasis, notation, scope, and order. We provide associated readings for each lecture, but these do not necessarily directly correspond to the topic being taught. Nothing is a substitute for attending lecture and discussion, and watching (and rewatching) the videos. 
+As a disclaimer, EE 120 does not directly follow these textbooks, so they will differ from the course material in terms of content, emphasis, notation, scope, and order. We may provide associated readings for each lecture, but these do not necessarily directly correspond to the topic being taught. Nothing is a substitute for attending lecture and discussion, and watching (and rewatching) the videos. 
