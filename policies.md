@@ -82,10 +82,6 @@ All official course communication will be through Ed and bCourses. We will also 
 
 To contact staff admin directly, please send an email through bCourses to Professor Liu and both head TAs.
 
-## Gradescope
-
-All assignments will be submitted through Gradescope.
-
 
 ## Lecture
 
@@ -128,6 +124,9 @@ Nevertheless, we highly recommend that you attend lecture and discussion as freq
 
 **If at any time you feel ill or need to isolate yourself due to close contact with someone who tests positive for COVID, please do NOT come to live lecture or discussion**. You can watch the lecture recordings and discussion walkthrough videos instead, and let us know promptly if you would like further support.
 
+## Assignments
+
+All assignments will be submitted through Gradescope. Students who join the class late will be expected to keep up with material and will not be provided extra accommodations for this reason alone.
 
 ## Homework
 
