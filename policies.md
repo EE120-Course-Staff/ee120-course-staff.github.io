@@ -135,7 +135,7 @@ To enhance and gauge your fluency with the course content, we will have two type
 
 ### Problem Set Logistics
 
-**Release**: Problem sets will typically be released on Fridays via bCourses. We will also announce on Ed when problem sets are released.
+**Release**: Problem sets will typically be released on Saturdays via bCourses. We will also announce on Ed when problem sets are released.
 
 **Submission**: Problem sets will be due the following **Friday at 11:59pm, with a two day grace period until Sunday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment).
 
@@ -151,7 +151,7 @@ You will submit your work through **Gradescope**. You have several options for s
 
 Labs are interactive assignments that utilize Jupyter notebooks, an interactive web-based tool for running Python code. Labs provide an opportunity to see real-world applications of EE 120 material.
 
-**Release**: Typically, labs will be released on **Fridays via Ed**. They will be released on **Datahub**, an online platform for running Jupyter notebooks; we will provide a Datahub link for each lab.
+**Release**: Typically, labs will be released on **Saturdays via Ed**. They will be released on **Datahub**, an online platform for running Jupyter notebooks; we will provide a Datahub link for each lab.
 
 We will also provide zip files of lab materials via bCourses if you want to work locally. Please note that we will have limited support for technical issues that arise while running labs locally.
 
