@@ -11,14 +11,14 @@ lectures:
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87936553'
   - # Mon Jan 22nd
     topic: 'Signal representations'
-    recording: 
-    edThread: 
-    slides: 
+    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4168317'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87977246'
   - # Wed Jan 24th
     topic: 'System representations'
-    recording: 
-    edThread: 
-    slides: 
+    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4181038'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87989923'
   - # Mon Jan 29th
     topic: 'System response'
     recording: 

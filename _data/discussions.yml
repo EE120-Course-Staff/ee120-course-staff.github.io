@@ -13,7 +13,7 @@ discussions:
   - rowspan: 1
     nonumber: True
   - # Discussion 1
-    worksheet: "https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions?preview=88003416"
+    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions?preview=88003416'
     solutions: 
     walkthrough: 
   - # Discussion 2
