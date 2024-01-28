@@ -16,9 +16,9 @@ homeworks:
     rowspan: 3
     override_color: dark
     due: Jan 24th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework?preview=87932746'
-    solutions: 
-    selfGrade: 
+    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%201?preview=87932746'
+    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%201?preview=88015132'
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-1'
   - # Homework 2
     due: # Feb 2nd
     homework: 
