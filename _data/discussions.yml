@@ -14,8 +14,8 @@ discussions:
     nonumber: True
   - # Discussion 1
     worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions?preview=88003416'
-    solutions: 
-    walkthrough: 
+    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%201?preview=88015170'
+    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
   - # Discussion 2
     worksheet: 
     solutions: 
