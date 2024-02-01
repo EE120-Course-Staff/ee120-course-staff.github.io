@@ -16,3 +16,8 @@ labs:
   #   lab: https://www.fotmob.com/
   #   solutions: https://github.com/
   #   selfGrade: https://ee120-course-staff.github.io/selfgrade-form/
+- rowspan: 5
+  due: 'never'
+  title: '(optional)'
+  lab: 'https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction&urlpath=tree%2Flab-0-introduction%2Flab0.ipynb&branch=main'
+  solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Labs/Lab%200?preview=88058266'
