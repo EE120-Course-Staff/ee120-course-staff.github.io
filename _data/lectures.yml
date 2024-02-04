@@ -20,15 +20,15 @@ lectures:
     edThread: 'https://edstem.org/us/courses/53669/discussion/4181038'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87989923'
   - # Mon Jan 29th
-    topic: 'System response'
-    recording: 
-    edThread: 
-    slides: 
+    topic: 'LTI systems and system response'
+    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4216885'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88033418'
   - # Wed Jan 31st
-    topic: 'LTI systems and impulse response'
-    recording: 
-    edThread: 
-    slides: 
+    topic: 'Convolution and correlation'
+    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4235108'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88074256'
   - # Mon Feb 5th
     topic: 'Convolution and correlation'
     recording: 
