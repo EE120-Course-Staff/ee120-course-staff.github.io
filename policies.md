@@ -241,8 +241,9 @@ Self grades will be released, along with assignment solutions, when the grace pe
 These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote (coming soon) options: each office hour will have a room number, Zoom link, or both listed.
 
 * Professor Liu: Tuesdays 1-2 PM @ Cory 505
-* Yajat: Mondays 5-6 PM @ Cory 367, Wednesdays 3-4 PM @ Cory 367 (starting Jan 31st)
-* SooHyuk: Tuesdays 12-1 PM @ Cory 367, Tuesdays 4-5 PM @ Cory 367
+* Yajat: Mondays 5-6 PM @ Cory 367, Wednesdays 3-4 PM @ Cory 367
+* Natalie: Tuesdays 10-11 AM @ Online, Thursdays 2-3 PM @ Cory 367
+* SooHyuk/Edward: Tuesdays 4-5 PM @ Cory 367
 * Jin/Mihai: Thursdays 10-11 AM @ Cory 367
 * Tanya: Thursdays 1-2 PM @ Cory 529
 * Tanya/Christine: 11 AM-12 PM @ Cory 504
