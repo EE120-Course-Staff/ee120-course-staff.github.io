@@ -22,8 +22,8 @@ homeworks:
   - # Homework 2
     due: Feb 2nd
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%202?preview=88015315'
-    solutions: 
-    selfGrade: 
+    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%202?preview=88101109'
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-2'
   - # Homework 3
     due: Feb 9th
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%202?preview=88058088'
