@@ -31,14 +31,14 @@ lectures:
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88074256'
   - # Mon Feb 5th
     topic: 'Convolution and correlation'
-    recording: 
-    edThread: 
-    slides: 
+    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4274563'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88102132'
   - # Wed Feb 7th
     topic: 'Continuous Fourier transform'
-    recording: 
-    edThread: 
-    slides: 
+    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4292384'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88124742'
   - # Mon Feb 12th
     topic: 'Discrete Fourier transform'
     recording: 
