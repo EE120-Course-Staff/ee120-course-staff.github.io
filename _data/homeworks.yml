@@ -27,10 +27,10 @@ homeworks:
   - # Homework 3
     due: Feb 9th
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%203?preview=88082391'
-    solutions: 
-    selfGrade: 
+    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%203?preview=88189175'
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-3'
   - # Homework 4
-    due: # Feb 16th
+    due: Feb 16th
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%204?preview=88158763'
     solutions: 
     selfGrade: 
