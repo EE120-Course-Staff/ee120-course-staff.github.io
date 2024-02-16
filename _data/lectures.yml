@@ -40,12 +40,12 @@ lectures:
     edThread: 'https://edstem.org/us/courses/53669/discussion/4292384'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88124742'
   - # Mon Feb 12th
-    topic: 'Discrete Fourier transform'
+    topic: 'Continuous Fourier transform'
     recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4274563'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88168402'
   - # Wed Feb 14th
-    topic: 'Fourier transforms continued'
+    topic: 'Discrete Fourier transform'
     recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4292384'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88192780'
