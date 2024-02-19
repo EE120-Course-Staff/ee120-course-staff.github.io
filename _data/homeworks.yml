@@ -33,12 +33,12 @@ homeworks:
     due: Feb 16th
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%204?preview=88158763'
     solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%204?preview=88227832'
-    selfGrade: 
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-4'
   - # Homework 5 -- Midterm 1
     due: Feb 23rd
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%205?preview=88221556'
     solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%205?preview=88227792'
-    selfGrade: 
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-5'
   - # Homework 6
     due: # Mar 1st
     homework: 
