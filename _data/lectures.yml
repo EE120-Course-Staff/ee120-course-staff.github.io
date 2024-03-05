@@ -6,47 +6,38 @@ lectures:
   #   slides: link to the slides
   - # Wed Jan 17th
     topic: 'Background'
-    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4136882'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87936553'
   - # Mon Jan 22nd
     topic: 'Signal representations'
-    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4168317'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87977246'
   - # Wed Jan 24th
     topic: 'System representations'
-    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4181038'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87989923'
   - # Mon Jan 29th
     topic: 'LTI systems and system response'
-    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4216885'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88033418'
   - # Wed Jan 31st
     topic: 'Convolution and correlation'
-    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4235108'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88074256'
   - # Mon Feb 5th
     topic: 'Convolution and correlation'
-    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4274563'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88102132'
   - # Wed Feb 7th
     topic: 'Continuous Fourier transform'
-    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4292384'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88124742'
   - # Mon Feb 12th
     topic: 'Continuous Fourier transform'
-    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4274563'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88168402'
   - # Wed Feb 14th
     topic: 'Discrete Fourier transform'
-    recording: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
     edThread: 'https://edstem.org/us/courses/53669/discussion/4292384'
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88192780'
   - nonumber: True # Mon Feb 19th -- President's Day
@@ -55,38 +46,31 @@ lectures:
     isExam: True
     title: 'Midterm 1'
   - # Mon Feb 26th
-    topic: 'Properties of Fourier transforms'
-    recording: 
-    edThread: 
-    slides: 
+    topic: 'Properties of CTFT'
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4442475'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88315243'
   - # Wed Feb 28th
-    topic: '2D Fourier transform'
-    recording: 
-    edThread: 
-    slides: 
+    topic: 'Properties of DTFT'
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4460156'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88324707'
   - # Mon Mar 4th
-    topic: 'Filtering'
-    recording: 
-    edThread: 
-    slides: 
+    topic: 'Properties of Fourier series'
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4498429'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88369108'
   - # Wed Mar 6th
-    topic: 'Sampling'
-    recording: 
+    topic: 'Filtering'
     edThread: 
     slides: 
   - # Mon Mar 11th
-    topic: 'Nyquist theorem'
-    recording: 
+    topic: 'Sampling CT'
     edThread: 
     slides: 
   - # Wed Mar 13th
-    topic: '2D Sampling'
-    recording: 
+    topic: 'Sampling DT'
     edThread: 
     slides: 
   - # Mon Mar 18th
-    topic: 'Interpolation'
-    recording: 
+    topic: '2D Fourier transform'
     edThread: 
     slides: 
   - nonumber: True # Wed Mar 20th -- Midterm 2
@@ -96,38 +80,31 @@ lectures:
     nonumber: 2
     title: 'No Lecture (Spring Break)'
   - # Mon Apr 1st
-    topic: 'Buffer'
-    recording: 
+    topic: 'Laplace transform'
     edThread: 
     slides: 
   - # Wed Apr 3rd
-    topic: 'Deconvolution'
-    recording: 
+    topic: 'Laplace transform'
     edThread: 
     slides: 
   - # Mon Apr 8th
-    topic: 'Image processing'
-    recording: 
+    topic: 'Z transform'
     edThread: 
     slides: 
   - # Wed Apr 10th
-    topic: 'Laplace transform'
-    recording: 
+    topic: 'Z transform'
     edThread: 
     slides: 
   - # Mon Apr 15th
-    topic: 'Laplace transform'
-    recording: 
+    topic: '2D sampling'
     edThread: 
     slides: 
   - # Wed Apr 17th
-    topic: 'Z transform'
-    recording: 
+    topic: 'Image processing'
     edThread: 
     slides: 
   - # Mon Apr 22nd
-    topic: 'Z transform'
-    recording: 
+    topic: 'Buffer'
     edThread: 
     slides: 
   - nonumber: True # Wed Apr 24th -- Midterm 3
