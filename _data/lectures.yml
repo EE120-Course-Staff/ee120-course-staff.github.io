@@ -59,8 +59,8 @@ lectures:
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88369108'
   - # Wed Mar 6th
     topic: 'Filtering'
-    edThread: 
-    slides: 
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4515090'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88403251'
   - # Mon Mar 11th
     topic: 'Sampling CT'
     edThread: 
