@@ -39,6 +39,7 @@ homeworks:
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%205?preview=88221556'
     solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%205?preview=88227792'
     selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-5'
+  - nonumber: True
   - # Homework 6
     due: Mar 8th
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%206?preview=88389181'
