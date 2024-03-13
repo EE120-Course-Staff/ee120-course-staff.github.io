@@ -63,8 +63,8 @@ lectures:
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88403251'
   - # Mon Mar 11th
     topic: 'Sampling CT'
-    edThread: 
-    slides: 
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4547299'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88444186'
   - # Wed Mar 13th
     topic: 'Sampling DT'
     edThread: 
