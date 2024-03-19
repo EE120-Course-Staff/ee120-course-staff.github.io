@@ -48,14 +48,14 @@ homeworks:
   - # Homework 7
     due: Mar 15th
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%207?preview=88469922'
-    solutions: 
-    selfGrade: 
-  - # Homework 8
-    due: # Mar 15th
-    homework: 
-    solutions: 
-    selfGrade: 
-  - # Homework 9 -- Midterm 2
+    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%207?preview=88494380'
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-7'
+  - # Homework 8 -- Midterm 2
+    due: Mar 22nd
+    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%208?preview=88463027'
+    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%208?preview=88481732'
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-8'
+  - # Homework 9
     due: # Mar 22nd
     homework: 
     solutions: 
