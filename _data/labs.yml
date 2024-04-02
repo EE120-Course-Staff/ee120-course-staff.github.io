@@ -35,3 +35,9 @@ labs:
   due: 'Mar 22'
   lab: 'https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-mri&urlpath=tree%2Flab-mri%2Flab3.ipynb&branch=main'
   solutions: 
+- rowspan: 2
+  nonumber: True
+- rowspan: 4
+  due: 'Apr 12'
+  lab: 'https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-deconvolution&urlpath=tree%2Flab-deconvolution%2Flab4.ipynb&branch=main'
+  solutions: 
