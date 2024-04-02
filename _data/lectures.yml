@@ -67,12 +67,12 @@ lectures:
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88444186'
   - # Wed Mar 13th
     topic: 'Sampling DT'
-    edThread: 
-    slides: 
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4562216'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88453817'
   - # Mon Mar 18th
     topic: '2D Fourier transform'
-    edThread: 
-    slides: 
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4591339'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88496291'
   - nonumber: True # Wed Mar 20th -- Midterm 2
     isExam: True
     title: 'Midterm 2'
