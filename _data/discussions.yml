@@ -38,13 +38,13 @@ discussions:
     solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%206?preview=88407371'
     walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
   - # Discussion 7
-    worksheet: 
-    solutions: 
-    walkthrough: 
+    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%207?preview=88465687'
+    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%207?preview=88509342'
+    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
   - nonumber: True # Midterm 2
   - nonumber: True # Spring Break
   - # Discussion 8
-    worksheet: 
+    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%208?preview=88585899'
     solutions: 
     walkthrough: 
   - # Discussion 9
