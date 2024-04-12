@@ -25,16 +25,19 @@ labs:
   due: 'Feb 16'
   lab: 'https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution.git&urlpath=tree%2Flab-tones-convolution.git%2Flab1.ipynb&branch=main'
   solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Labs/Lab%201?preview=88233771'
+  selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/lab-1'
 - rowspan: 2
   nonumber: True
 - rowspan: 4
   due: 'Mar 8'
   lab: 'https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab2.ipynb&branch=main'
   solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Labs/Lab%202?preview=88431532'
+  selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/lab-2'
 - rowspan: 4
   due: 'Mar 22'
   lab: 'https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-mri&urlpath=tree%2Flab-mri%2Flab3.ipynb&branch=main'
   solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Labs/Lab%203?preview=88578396'
+  selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/lab-3'
 - rowspan: 2
   nonumber: True
 - rowspan: 4
