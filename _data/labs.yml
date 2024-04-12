@@ -34,7 +34,7 @@ labs:
 - rowspan: 4
   due: 'Mar 22'
   lab: 'https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-mri&urlpath=tree%2Flab-mri%2Flab3.ipynb&branch=main'
-  solutions: 
+  solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Labs/Lab%203?preview=88578396'
 - rowspan: 2
   nonumber: True
 - rowspan: 4
