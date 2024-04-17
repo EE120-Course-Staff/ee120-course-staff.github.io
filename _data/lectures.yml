@@ -97,8 +97,8 @@ lectures:
     slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88649842'
   - # Mon Apr 15th
     topic: '2D sampling'
-    edThread: 
-    slides: 
+    edThread: 'https://edstem.org/us/courses/53669/discussion/4770096'
+    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88695621'
   - # Wed Apr 17th
     topic: 'Image processing'
     edThread: 
