@@ -64,9 +64,9 @@ homeworks:
     selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-9'
   - # Homework 10
     due: Apr 12th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2010?preview=88620888'
-    solutions: 
-    selfGrade: 
+    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2010?preview=88636749'
+    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2010?preview=88714702'
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-10'
   - # Homework 11
     due: Apr 19th
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2011?preview=88675930'
