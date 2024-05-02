@@ -70,8 +70,8 @@ homeworks:
   - # Homework 11
     due: Apr 19th
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2011?preview=88718882'
-    solutions: 
-    selfGrade: 
+    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2011?preview=88763774'
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-11'
   - # Homework 12
     due: Apr 26th
     homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2012?preview=88740454'
