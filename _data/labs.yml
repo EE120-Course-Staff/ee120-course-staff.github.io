@@ -48,5 +48,5 @@ labs:
 - rowspan: 4
   due: 'Apr 26'
   lab: 'https://edstem.org/us/courses/53669/discussion/4766620'
-  solutions: 
-  selfGrade: 
+  solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Labs/Lab%205'
+  selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/'
