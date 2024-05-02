@@ -43,8 +43,8 @@ labs:
 - rowspan: 4
   due: 'Apr 12'
   lab: 'https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-deconvolution&urlpath=tree%2Flab-deconvolution%2Flab4.ipynb&branch=main'
-  solutions: 
-  selfGrade: 
+  solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Labs/Lab%204?preview=88713555'
+  selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/lab-4'
 - rowspan: 4
   due: 'Apr 26'
   lab: 'https://edstem.org/us/courses/53669/discussion/4766620'
