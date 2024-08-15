@@ -12,7 +12,7 @@ This site is under construction. All dates and policies are tentative until this
 </p>
 {%- endif -%}
 
-# Policies
+# Policies [Warning: Not Updated For Fall 2024]
 {:.no_toc}
 
 ## Table of contents

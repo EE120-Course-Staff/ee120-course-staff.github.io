@@ -4,109 +4,94 @@ lectures:
   #   recording: link to the recording link
   #   edThread: link to the ed thread
   #   slides: link to the slides
-  - # Wed Jan 17th
-    topic: 'Background'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4136882'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87936553'
-  - # Mon Jan 22nd
-    topic: 'Signal representations'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4168317'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87977246'
-  - # Wed Jan 24th
-    topic: 'System representations'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4181038'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=87989923'
-  - # Mon Jan 29th
-    topic: 'LTI systems and system response'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4216885'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88033418'
-  - # Wed Jan 31st
-    topic: 'Convolution and correlation'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4235108'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88074256'
-  - # Mon Feb 5th
-    topic: 'Convolution and correlation'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4274563'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88102132'
-  - # Wed Feb 7th
-    topic: 'Continuous Fourier transform'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4292384'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88124742'
-  - # Mon Feb 12th
-    topic: 'Continuous Fourier transform'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4274563'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88168402'
-  - # Wed Feb 14th
-    topic: 'Discrete Fourier transform'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4292384'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88192780'
-  - nonumber: True # Mon Feb 19th -- President's Day
-    title: "No Lecture (President's Day)"
-  - nonumber: True # Wed Feb 21st -- Midterm 1
+  - # Wed Aug 28
+    topic: 
+    edThread: 
+  - # Mon Sep 2 -- Labor Day
+    title: "No Lecture (Labor Day)"
+    nonumber: True
+  - # Wed Sep 4
+    topic: 
+    edThread: 
+  - # Mon Sep 9
+    topic: 
+    edThread: 
+  - # Wed Sep 11
+    topic: 
+    edThread: 
+  - # Mon Sep 16
+    topic: 
+    edThread: 
+  - # Wed Sep 18
+    topic: 
+    edThread: 
+  - # Mon Sep 23
+    topic: 
+    edThread: 
+  - # Wed Sep 25
+    topic: 
+    edThread: 
+  - # Mon Sep 30
+    topic: 
+    edThread: 
+  - # Wed Oct 2
+    topic: 
+    edThread: 
+  - # Mon Oct 7
+    topic: 
+    edThread: 
+  - # Wed Oct 9
+    topic: 
+    edThread: 
+  - # Mon Oct 14
+    topic: 
+    edThread: 
+  - # Wed Oct 16
+    topic: 
+    edThread: 
+  - # Mon Oct 21
+    topic: 
+    edThread: 
+  - # Wed Oct 23
+    topic: 
+    edThread: 
+  - # Mon Oct 28
+    topic: 
+    edThread: 
+  - # Wed Oct 30
+    topic: 
+    edThread: 
+  - # Mon Nov 4
+    topic: 
+    edThread: 
+  - # Wed Nov 6
+    topic: 
+    edThread: 
+  - # Mon Nov 11 -- Veteran's Day
+    title: "No Lecture (Veteran's Day)"
+    nonumber: True
+  - # Wed Nov 13
+    topic: 
+    edThread: 
+  - # Mon Nov 18
+    topic: 
+    edThread: 
+  - # Wed Nov 20
+    topic: 
+    edThread: 
+  - # Mon Nov 25
+    topic: 
+    edThread: 
+  - # Wed Nov 27 -- Thanksgiving
+    title: "No Lecture (Thanksgiving)"
+    nonumber: True
+  - # Mon Dec 2
+    topic: 
+    edThread: 
+  - # Wed Dec 4
+    topic: 
+    edThread: 
+  - # Tue Dec 17 -- Final Exam
+    title: 'Final Exam'
+    nonumber: True
     isExam: True
-    title: 'Midterm 1'
-  - # Mon Feb 26th
-    topic: 'Properties of CTFT'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4442475'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88315243'
-  - # Wed Feb 28th
-    topic: 'Properties of DTFT'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4460156'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88324707'
-  - # Mon Mar 4th
-    topic: 'Properties of Fourier series'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4498429'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88369108'
-  - # Wed Mar 6th
-    topic: 'Filtering'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4515090'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88403251'
-  - # Mon Mar 11th
-    topic: 'Sampling CT'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4547299'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88444186'
-  - # Wed Mar 13th
-    topic: 'Sampling DT'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4562216'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88453817'
-  - # Mon Mar 18th
-    topic: '2D Fourier transform'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4591339'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88496291'
-  - nonumber: True # Wed Mar 20th -- Midterm 2
-    isExam: True
-    title: 'Midterm 2'
-  - rowspan: 2 # Spring Break
-    nonumber: 2
-    title: 'No Lecture (Spring Break)'
-  - # Mon Apr 1st
-    topic: 'Laplace transform'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4671553'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88569222'
-  - # Wed Apr 3rd
-    topic: 'Laplace transform'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4671553'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88599141'
-  - # Mon Apr 8th
-    topic: 'Z transform'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4719519'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88630749'
-  - # Wed Apr 10th
-    topic: 'Z transform'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4736013'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88649842'
-  - # Mon Apr 15th
-    topic: '2D sampling'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4770096'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88695621'
-  - # Wed Apr 17th
-    topic: 'Image processing'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4786581'
-    slides: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Lecture%20Notes?preview=88716859'
-  - # Mon Apr 22nd
-    topic: 'Image processing'
-    edThread: 'https://edstem.org/us/courses/53669/discussion/4820602'
-    slides: 
-  - nonumber: True # Wed Apr 24th -- Midterm 3
-    isExam: True
-    title: 'Midterm 3'

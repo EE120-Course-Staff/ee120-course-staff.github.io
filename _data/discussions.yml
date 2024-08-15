@@ -10,48 +10,9 @@ discussions:
   #   worksheet: link to the discusstion worksheet
   #   solutions: link to the discussion solutions link
   #   walkthrough: link to the walkthrough video
-  - rowspan: 1
-    nonumber: True
-  - # Discussion 1
-    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions?preview=88003416'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%201?preview=88015170'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
-  - # Discussion 2
-    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%202?preview=88070866'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%202?preview=88082447'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
-  - # Discussion 3
-    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%203?preview=88137048'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%203?preview=88156230'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
-  - # Discussion 4
-    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%204?preview=88197859'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%204?preview=88221311'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
-  - nonumber: True # Midterm 1
-  - # Discussion 5
-    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%205?preview=88330240'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%205?preview=88379092'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
-  - # Discussion 6
-    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%206?preview=88403275'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%206?preview=88407371'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
-  - # Discussion 7
-    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%207?preview=88465687'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%207?preview=88509342'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
-  - nonumber: True # Midterm 2
-  - nonumber: True # Spring Break
-  - # Discussion 8
-    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%208?preview=88585899'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%208?preview=88609739'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
-  - # Discussion 9
-    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%209?preview=88661845'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%209?preview=88697605'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
-  - # Discussion 10
-    worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%2010?preview=88732220'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%2010?preview=88766596'
-    walkthrough: 
+  # - rowspan: 1
+  #   nonumber: True
+  # - # Discussion 1
+  #   worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions?preview=88003416'
+  #   solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%201?preview=88015170'
+  #   walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'

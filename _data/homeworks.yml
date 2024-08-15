@@ -15,65 +15,12 @@ homeworks:
   - # Homework 1
     rowspan: 3
     override_color: dark
-    due: Jan 24th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%201?preview=87932746'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%201?preview=88015132'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-1'
-  - # Homework 2
-    due: Feb 2nd
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%202?preview=88015315'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%202?preview=88110466'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-2'
-  - # Homework 3
-    due: Feb 9th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%203?preview=88082391'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%203?preview=88189175'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-3'
-  - # Homework 4
-    due: Feb 16th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%204?preview=88158763'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%204?preview=88227832'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-4'
-  - # Homework 5 -- Midterm 1
-    due: Feb 23rd
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%205?preview=88221556'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%205?preview=88227792'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-5'
-  - nonumber: True
-  - # Homework 6
-    due: Mar 8th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%206?preview=88389181'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%206?preview=88438077'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-6'
-  - # Homework 7
-    due: Mar 15th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%207?preview=88469922'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%207?preview=88494380'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-7'
-  - # Homework 8 -- Midterm 2
-    due: Mar 22nd
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%208?preview=88463027'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%208?preview=88481732'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-8'
-  - nonumber: True # Spring Break
-    rowspan: 2
-  - # Homework 9
-    due: Apr 5th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%209?preview=88596457'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%209?preview=88621052'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-9'
-  - # Homework 10
-    due: Apr 12th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2010?preview=88636749'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2010?preview=88714702'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-10'
-  - # Homework 11
-    due: Apr 19th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2011?preview=88718882'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2011?preview=88763774'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-11'
-  - # Homework 12
-    due: Apr 26th
-    homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2012?preview=88740454'
-    solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%2012?preview=88757846'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-12'
+    due: Sept 4th
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-1'
+  # - # Homework 2
+  #   due: Feb 2nd
+  #   homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%202?preview=88015315'
+  #   solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%202?preview=88110466'
+  #   selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-2'
