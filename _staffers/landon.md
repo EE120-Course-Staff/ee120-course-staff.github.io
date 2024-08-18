@@ -1,7 +1,7 @@
 ---
 role: Head TA
 name: Landon Bulter
-photo: placeholder.png
+photo: landon.png
 email: landonb@
 tags:
  - Head TA
