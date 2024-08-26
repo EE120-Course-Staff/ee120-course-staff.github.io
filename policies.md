@@ -270,8 +270,8 @@ Please submit your DSP letters of accommodation through email to [ee120-fa24-adm
 There is no official textbook or set of course notes for EE 120. EE 120 is a self-contained course in that the lecture notes, lectures, discussions, and labs contain all of the material you are responsible for knowing. However, if you would like additional information beyond what is covered in lectures, homeworks, and labs, you can look at these two textbooks:
 
 
-* [Signals and Systems by Oppenheim and Willsky](https://eee.guc.edu.eg/Courses/Communications/COMM401%20Signal%20&%20System%20Theory/Alan%20V.%20Oppenheim,%20Alan%20S.%20Willsky,%20with%20S.%20Hamid-Signals%20and%20Systems-Prentice%20Hall%20(1996).pdf)
-* [Signals and Systems, Theory and Applications by Fawwaz T. Ulaby, Andrew E. Yagle](https://ss2.eecs.umich.edu)
+* [Signals and Systems by Oppenheim and Willsky](https://github.com/gigahidjrikaaa/Engineering-Books/blob/main/Signals%20and%20Systems/Oppenheim%2C%20Willsky%2C%20Nawab%20-%20Signals%20%26%20Systems%20%5B2nd%20Edition%5D.pdf)
+* [Signals and Systems, Theory and Applications by Fawwaz T. Ulaby, Andrew E. Yagle](https://ss2-2e.eecs.umich.edu)
 * [Signals and Systems by Hwei P Hsu](https://electronicsbookcafe.files.wordpress.com/2015/08/signals-and-systems-2nd-edition-schaums-outline-series-hwei-hsu.pdf)
 
 As a disclaimer, EE 120 does not directly follow these textbooks, so they will differ from the course material in terms of content, emphasis, notation, scope, and order. We may provide associated readings for each lecture, but these do not necessarily directly correspond to the topic being taught. Nothing is a substitute for attending lecture and discussion, and watching (and rewatching) the videos. 
