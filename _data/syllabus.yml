@@ -18,6 +18,8 @@ end_date: 2024-12-06
 # dates reflected on the production build, double check that these dates are
 # correct on the syllabus on the production build.
 extra_days:
+ - date: 2024-10-04 # 2024-10-03 in Unix time
+ - date: 2024-11-08 # 2024-11-07 in Unix time
  - date: 2024-12-18 # 2024-12-17 in Unix time
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.

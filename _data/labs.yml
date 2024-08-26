@@ -16,33 +16,41 @@ labs:
   #   lab: https://www.fotmob.com/
   #   solutions: https://github.com/
   #   selfGrade: https://ee120-course-staff.github.io/selfgrade-form/
-- rowspan: 5
-  due: # 'never'
-  title: # '(optional)'
+- # Lab 0
+  rowspan: 5
+  due: # never
+  title: # (optional)
   lab: 
   solutions: 
-- rowspan: 4
-  due: 
+- # Lab 1
+  rowspan: 4
+  due: # Sep 26th
   lab: 
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-1'
-- rowspan: 4
-  due: 
+- # Lab 2
+  rowspan: 5
+  due: # Oct 10th
   lab: 
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-2'
-- rowspan: 4
-  due: 
+- rowspan: 2
+  nonumber: true
+- # Lab 3
+  rowspan: 4
+  due: # Oct 31st
   lab: 
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-3'
-- rowspan: 4
-  due: 
+- # Lab 4
+  rowspan: 5
+  due: # Nov 21st
   lab: 
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-4'
-- rowspan: 4
-  due: 
-  lab: 
+- # Lab 5
+  rowspan: 6
+  due: # Dec 12th
+  lab: # Should be an EdStem link
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/'

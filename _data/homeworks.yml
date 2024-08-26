@@ -13,14 +13,67 @@ homeworks:
   #   solutions: link to the solutions pdf
   #   selfGrade: link to self grade form
   - # Homework 1
-    rowspan: 3
-    override_color: dark
-    due: Sept 4th
+    due: Sep 4th
     homework: 
     solutions: 
     selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-1'
-  # - # Homework 2
-  #   due: Feb 2nd
-  #   homework: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%202?preview=88015315'
-  #   solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Homework/Homework%202?preview=88110466'
-  #   selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-2'
+  - # Homework 2
+    due: # Sep 9th
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-2'
+  - # Homework 3
+    due: # Sep 16th
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-3'
+  - # Homework 4
+    due: # Sep 23rd
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-4'
+  - # Homework 5
+    due: # Sep 30th
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-5'
+  - rowspan: 3
+    nonumber: True
+  - # Homework 6
+    due: # Oct 14th
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-6'
+  - # Homework 7
+    due: # Oct 21st
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-7'
+  - # Homework 8
+    due: # Oct 28th
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-8'
+  - # Homework 9
+    due: # Nov 4th
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-9'
+  - rowspan: 3
+    nonumber: True
+  - # Homework 10
+    due: # Nov 18th
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-10'
+  - # Homework 11
+    due: # Nov 25th
+    homework: 
+    solutions: 
+    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-11'
+  - rowspan: 2
+    nonumber: True
+  - # Practice Problems
+    due: # never
+    homework: 
+    solutions: 

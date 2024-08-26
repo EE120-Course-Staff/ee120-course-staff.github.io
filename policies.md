@@ -12,7 +12,7 @@ This site is under construction. All dates and policies are tentative until this
 </p>
 {%- endif -%}
 
-# Policies [Warning: Not Updated For Fall 2024]
+# Policies
 {:.no_toc}
 
 ## Table of contents
@@ -50,16 +50,8 @@ for others.”
 
 ## Tentative List of Topics
 
-Over the course of the semester, we plan to cover the following topics (in this general order):
-1. Signal and system representations
-2. LTI systems, convolution, correlation
-3. Continous and Discrete Fourier Transforms
-4. 2D Fourier Transform and filtering
-5. Sampling in 1D and 2D, the Nyquist Sampling Theorem, and interpolation
-6. Deconvolution and image processing
-7. Laplace and Z Transform
-
-<!-- 1. DT signals: Impulse and step functions in discrete time
+Over the course of the semester, we tentatively plan to cover the following topics (in this general order):
+1. DT signals: Impulse and step functions in discrete time
 2. Linearity, time-invariance, DT-LTI properties, convolution, LCCDE and block diagrams:
 Delay-Adder-Gain (DAG) blocks
 3. Complex exponentials, eigenfunctions of LTI systems, frequency response, plots of
@@ -73,30 +65,30 @@ space viewpoint, FFT and time-frequency uncertainty theorem
 8. Sampling theorem: bridging CT and DT; reconstruction, interpolation, oversampling,
 subsampling, gentle introduction to multi-rate processing systems
 9. Z transform
-10. Laplace transform -->
+10. Laplace transform
 
 
 ## Communication
 
-All official course communication will be through Ed and bCourses. We will also maintain the course website for your convenience.
+All official course communication will be through Ed and email. BCourses and Gradescope are for resource storage and assignment submission. We will also maintain the course website for your convenience.
 
-To contact staff admin directly, please send an email through bCourses to Professor Liu and both head TAs.
+To contact staff admin directly (Professor Ramchandran, Landon, and Edward), please send an email to [ee120-fa24-admin@lists.berkeley.edu](mailto:ee120-fa24-admin@lists.berkeley.edu).
 
 
 ## Lecture
 
-**Time**: Mon/Wed 12:00pm - 2:00pm
+**Time**: Mon/Wed 3 PM - 5 PM
 
-**Location**: Genetics and Plant Biology 100
+**Location**: Valley Life Sciences 2060
 
-**Recordings**: Lecture recordings will be posted to bCourses and the individual lecture threads on Ed.
+**Recordings**: Lecture recordings will be posted to a Youtube playlist. However, we reserve the right to withold recordings if attendance drops too low. If you are unable to attend lecture due to circumstances outside of your control and the recording is unavaliable, please contact the admin staff.
 
 **Lecture Threads**: There will be an Ed thread for each lecture where you can ask questions about lecture topics.
 
 
 ## Discussion
 
-There are four discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**
+There are three discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**
 
 Discussions will be in-person, but we will post worksheet walkthrough videos after the discussion. Walkthrough videos will be available in the Media Gallery on bCourses. The videos are not a substitute for the active learning that takes place in class. 
 
@@ -104,20 +96,19 @@ We will post the worksheet to bCourses and Ed on Friday mornings.
 
 ### Times and Locations
 
-* Hearst Mining 310 @ 11:00am - 12:00pm
-* Dwinelle 182 @ 12:00pm - 1:00pm
-* Dwinelle 182 @ 1:00pm - 2:00pm
-* Cory 289 @ 2:00pm - 3:00pm
+* Cory 540AB @ 1:00pm - 2:00pm
+* Dwinelle 182 @ 2:00pm - 3:00pm
+* Dwinelle 182 @ 3:00pm - 4:00pm
 
 
 ### Attendance
 
-Attendance for lecture and discussion is not required. However, you will receive one bonus point (on the scale of 100) if you attend at least one of Professor Liu’s office hours and at least 7 discussions. At Professor Liu’s office hours, you don’t need to ask any technical questions if you don’t have any -- if you wish, you can just simply tell Professor Liu something about yourself and course feedback. If you wish to talk to Professor Liu privately, please schedule separately.
+Attendance for discussion is not required. However, you will receive one bonus point (on the scale of 100) if you attend at least 7 discussions.
 
 Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance.
 
 
-**The first discussion is Friday January 26th**.
+**The first discussion is Friday September 6th**.
 
 
 ### COVID Reminder
@@ -126,7 +117,7 @@ Nevertheless, we highly recommend that you attend lecture and discussion as freq
 
 ## Assignments
 
-All assignments will be submitted through Gradescope. Students who join the class late will be expected to keep up with material and will not be provided extra accommodations for this reason alone.
+All assignments will be submitted through Gradescope. **Students who enroll or join the class late will be expected to keep up with material and will not be provided extra accommodations for this reason alone.**
 
 ## Homework
 
@@ -135,9 +126,9 @@ To enhance and gauge your fluency with the course content, we will have two type
 
 ### Problem Set Logistics
 
-**Release**: Problem sets will typically be released on Saturdays via bCourses. We will also announce on Ed when problem sets are released.
+**Release**: Problem sets will typically be released on Wednesday via bCourses. We will also announce on Ed when problem sets are released.
 
-**Submission**: Problem sets will be due the following **Friday at 11:59pm, with a two day grace period until Sunday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment).
+**Submission**: Problem sets will be due the following **Monday at 11:59pm, with a one day grace period until Tuesday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment).
 
 You will submit your work through **Gradescope**. You have several options for scanning and submitting your work:
 
@@ -145,13 +136,13 @@ You will submit your work through **Gradescope**. You have several options for s
 2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
 3. Use your own sheets of paper, but demarcate clearly the space for each problem, part, and subpart. You must not exceed the amount of space allotted in this official problem set document. Then upload a PDF file.
 
-**The first problem set will be released on Wednesday Jan 17th and will be due on Wednesday Jan 24th at 11:59pm, with a two day grace period until Friday at 11:59pm**
+**The first problem set will be released on Wednesday Aug 28th and will be due on Wednesday Sep 4th at 11:59pm, with no grace period.**
 
 ### Lab Logistics
 
 Labs are interactive assignments that utilize Jupyter notebooks, an interactive web-based tool for running Python code. Labs provide an opportunity to see real-world applications of EE 120 material.
 
-**Release**: Typically, labs will be released on **Saturdays via Ed**. They will be released on **Datahub**, an online platform for running Jupyter notebooks; we will provide a Datahub link for each lab.
+**Release**: Typically, labs will be released on **Fridays via Ed**. They will be released on **Datahub**, an online platform for running Jupyter notebooks; we will provide a Datahub link for each lab.
 
 We will also provide zip files of lab materials via bCourses if you want to work locally. Please note that we will have limited support for technical issues that arise while running labs locally.
 
@@ -163,7 +154,7 @@ We will also provide zip files of lab materials via bCourses if you want to work
 4. Download the zip file produced by grader.export()
 5. Upload the zip file to the Gradescope.
 
-As we cannot avoid releasing problem sets and labs in concurrent weeks, labs will be due **two weeks after they are released, on Friday at 11:59pm, with a two day grace period until Sunday at 11:59pm.**
+As we cannot avoid releasing problem sets and labs in concurrent weeks, labs will be due **two weeks after they are released, on Thursday at 11:59pm, with a one day grace period until Friday at 11:59pm.**
 
 
 **Notes on Autograding**:
@@ -176,23 +167,17 @@ As we cannot avoid releasing problem sets and labs in concurrent weeks, labs wil
 * There may be private tests. You will not see your grade for the private tests until after scores are released. _We will, however, do our best to make public tests comprehensive._
 * We'll release full autograder scores during the week after the lab is due.
 
-### Weekly Check-ins
-
-Each week, we will release a Gradescope assignment with five multiple choice or True-False questions covering the content for the week. You are responsible for filling out the check-in form by the end of the weekend. These check-in forms will be autograded, and you will receive immediate feedback. While these will not count for course points, they are an important way for course staff to gauge how well the material is being understood, and they give us a chance to catch misconceptions early. Participation in these check-ins may be taken into consideration when bumping students on grade boundaries.
-
-
 ### Drops
 
 **We will automatically drop the lowest problem set score and the lowest lab score from your final grade**. We will also drop an additional problem set score if you fill out the midsemester feedback form. Note that these drops are provided in case of emergencies such as illnesses.
 
-
 ### Grace Period
 
-Although problem sets and labs are due on Fridays, **you can submit, with no penalty, each of your assignments (problem sets and labs) until the following Sunday at 11:59pm, two days after the official due date of that assignment**. This comes with two important caveats:
+Although problem sets and labs are due on Mondays and Thursdays respectively, **you can submit, with no penalty, each of your assignments (problem sets and labs) one day after the official due date of that assignment at 11:59 PM**. This comes with three important caveats:
 
 1. Staff support will be limited during the grace period.
 2. Barring exceptional circumstances and DSP accommodations, we will not be accepting any late assignments (_i.e._, they will automatically earn a 0).
-
+3. There will be no extensions on deadlines outside of DSP-related reasons -- these are meant to be covered by the drop policy.
 
 ### Collaboration
 
@@ -201,7 +186,7 @@ We encourage you to collaborate with up to five other current EE 120 students on
 
 ## Self-Grades
 
-You will self-grade your problem sets. Labs will have both autograded and self-graded components. **_Warning: Not submitting a self-grade will result in a 0 on the corresponding self-graded portion of the assignment._**
+You will self-grade your problem sets. Labs will have both autograded and self-graded components. **Warning: Not submitting a self-grade will result in a 0 on the corresponding self-graded portion of the assignment. Self-grades will not be accepted after the due date except as provided by disability accommodations, and you will likely have to use a drop in these circumstances.**
 
 As assignments exist to encourage learning, not to punish small mistakes, the self-graded portion of each assignment will be scaled up by 1.25 and capped out at full credit. This means an 8/10 on a self-grade will be scaled up to a 10/10.
 
@@ -209,11 +194,9 @@ We do accept late self-grades for up to two days after grace period. However, fo
 
 The purpose of the self-grade assignments strategy is to encourage you to look over the solutions and use it to check your answers.  We hope it offers a chance to self-assess your understanding of the class content to prepare better for exams. As an oversight measure against inflationary self-grading, we conduct random checks at our discretion, and without notice.
 
-
 ### Timeline
 
-Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self grades will be due typically one week after the assignment was due on the following Friday at 11:59pm, with a two day grace period until the following Sunday at 11:59pm.**
-
+Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self-grades for both homeworks and labs will be due the following Friday after the assignment is due.** This means there are **three days** to complete the homework self-grades, and **one week** to complete the lab self-grades.
 
 ### Instructions
 
@@ -226,7 +209,6 @@ Self grades will be released, along with assignment solutions, when the grace pe
 4. In the week after self grades are due, we will check a subset of self-graded problems.
     4. If there is a **large discrepancy** found between your self grade and the course staff-determined score, you run the risk of having that homework rescored, and having your other self grades reviewed as well.
 
-
 ### Rubric
 
 * 0: Didn't attempt or very wrong
@@ -237,45 +219,55 @@ Self grades will be released, along with assignment solutions, when the grace pe
 
 **Note: If you give yourself a 2, 5, or 8 for any subpart, provide reasoning why you gave yourself that score.**
 
-## Office Hours
-These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote (coming soon) options: each office hour will have a room number, Zoom link, or both listed.
-
-* Professor Liu: Tuesdays 1-2 PM @ Cory 505
-* Yajat: Mondays 5-6 PM @ Cory 367, Wednesdays 3-4 PM @ Cory 367
-* Natalie: Tuesdays 10-11 AM @ Online, Thursdays 2-3 PM @ Cory 367
-* SooHyuk/Edward: Tuesdays 4-5 PM @ Cory 367
-* Jin/Mihai: Thursdays 10-11 AM @ Cory 367
-* Tanya: Thursdays 1-2 PM @ Cory 529
-* Tanya/Christine: 11 AM-12 PM @ Cory 504
-* Trinity: 2-3 PM @ Soda 320
-
-## Homework Party
-We offer homework party on Wednesdays 5-8 PM where you can ask questions about the problem sets and labs. The location and Zoom information is listed on the Calendar page of the website (Soda 373 until Feb 7th, Cory 293 starting Feb 14th). Typically, two TAs will staff homework party each week.
-
-
 ## Exams
 
-We will have 3 midterms and no final this semester. These midterms will be held **in-person** in lecture on the following dates:
+We will have 2 midterms and a final this semester. These midterms will be held **in-person** on the following dates:
 
-**Midterm 1 Exam Date:** Wednesday February 21st
+**Midterm 1 Exam Time:** Thursday October 3rd 7 - 9 PM @ TBD
 
-**Midterm 2 Exam Date:** Wednesday March 20th
+**Midterm 2 Exam Time:** Thursday November 7th 7 - 9 PM @ TBD
 
-**Midterm 3 Exam Date:** Wednesday April 24th
+**Final Exam Time:** Tuesday December 17th 7 PM - 10 PM @ TBD
 
 We will release more exam logistics in Ed posts before each exam.
 
+### Clobber Policy
+
+We have a clobber policy where your final can replace your grade for either MT1 or MT2, but not both. Your lower midterm score in terms of z-score will be clobbered by the final based on z-score, allowing you to miss a midterm. This policy is meant to cover conflicts such as medical emergencies or exam conflicts.
+
+You will be eligible for the clobber policy if you complete the both clobber assignments, which entails completing missed questions on each exam a week after grades are released. More information will be provided on Ed on its release.
+
+## Office Hours
+These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
+
+* Homework Party: Mondays 5 PM - 7 PM @ Cory 400
+* Professor Ramchandran: Wednesdays 5 PM - 6 PM @ Cory 258
+* Landon: Thursdays 11 AM - 12 PM @ Cory 504
+* Sid: Thursdays 1 PM - 2 PM @ Cory 529
+* Sid: Fridays 2 PM - 3 PM @ Cory 504
+* Edward: Fridays 4 PM - 5 PM @ Cory 504
+
+
+## Homework Party
+We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week. Homework party will start on September 9th.
+
+
 ## Grading
 
-* **Midterms**: 25% each (75% total)
+* **Midterms**: 20% each (40% total)
+* **Final**: 35%
 * **Problem Sets**: 15% (We drop the lowest score + another for filling out the midsemester feedback form)
 * **Labs**: 10% (We drop the lowest score)
+
+## DSP
+UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns by emailing [ee120-fa24-admin@lists.berkeley.edu](mailto:ee120-fa24-admin@lists.berkeley.edu). If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about the DSP application process(link is external). We are available if you have any questions or concerns about your accommodations, but in the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with us toward a resolution.
+
+Please submit your DSP letters of accommodation through email to [ee120-fa24-admin@lists.berkeley.edu](mailto:ee120-fa24-admin@lists.berkeley.edu) as soon as possible. If you are uncertain as to whether you will use the accommodation, it is much better to have the accommodation in place than to scramble at the last minute should you need it. Accommodations are not retroactive, so course staff is not responsible for providing accommodations prior to the receipt of an accommodation letter (although if you have extenuating circumstances, we may be able to make temporary adjustments). The more lead time that you provide admin staff, the easier it is for us to arrange your accommodations. Contact us through the admin email for any DSP-related concerns, including but not limited to assignments and exams. Be mindful that it might not be possible to accommodate last-minute requests, depending on your accommodation needs.
 
 
 ## Optional Course Materials
 
 There is no official textbook or set of course notes for EE 120. EE 120 is a self-contained course in that the lecture notes, lectures, discussions, and labs contain all of the material you are responsible for knowing. However, if you would like additional information beyond what is covered in lectures, homeworks, and labs, you can look at these two textbooks:
-
 
 
 * [Signals and Systems by Oppenheim and Willsky](https://eee.guc.edu.eg/Courses/Communications/COMM401%20Signal%20&%20System%20Theory/Alan%20V.%20Oppenheim,%20Alan%20S.%20Willsky,%20with%20S.%20Hamid-Signals%20and%20Systems-Prentice%20Hall%20(1996).pdf)

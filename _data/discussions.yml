@@ -10,9 +10,49 @@ discussions:
   #   worksheet: link to the discusstion worksheet
   #   solutions: link to the discussion solutions link
   #   walkthrough: link to the walkthrough video
-  # - rowspan: 1
-  #   nonumber: True
-  # - # Discussion 1
-  #   worksheet: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions?preview=88003416'
-  #   solutions: 'https://bcourses.berkeley.edu/courses/1532904/files/folder/Discussions/Discussion%201?preview=88015170'
-  #   walkthrough: 'https://bcourses.berkeley.edu/courses/1532904/external_tools/90481'
+  - rowspan: 1
+    nonumber: True
+  - # Discussion 1 -- Friday Sep 6
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 2 -- Friday Sep 13
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 3 -- Friday Sep 20
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 4 -- Friday Sep 27
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - rowspan: 3
+    nonumber: True
+  - # Discussion 5 -- Friday Oct 11
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 6 -- Friday Oct 18
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 7 -- Friday Oct 25
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 8 -- Friday Nov 1
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - rowspan: 3
+    nonumber: True
+  - # Discussion 9 -- Friday Nov 22
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 10 -- Friday Dec 6
+    worksheet: 
+    solutions: 
+    walkthrough: 

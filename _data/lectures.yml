@@ -37,6 +37,10 @@ lectures:
   - # Wed Oct 2
     topic: 
     edThread: 
+  - # Thu Oct 3 -- Midterm 1
+    title: 'Midterm 1'
+    nonumber: True
+    isExam: True
   - # Mon Oct 7
     topic: 
     edThread: 
@@ -67,6 +71,10 @@ lectures:
   - # Wed Nov 6
     topic: 
     edThread: 
+  - # Thu Nov 7 -- Midterm 2
+    title: 'Midterm 2'
+    nonumber: True
+    isExam: True
   - # Mon Nov 11 -- Veteran's Day
     title: "No Lecture (Veteran's Day)"
     nonumber: True
