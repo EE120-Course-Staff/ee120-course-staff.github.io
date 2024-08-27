@@ -81,7 +81,7 @@ To contact staff admin directly (Professor Ramchandran, Landon, and Edward), ple
 
 **Location**: Valley Life Sciences 2060
 
-**Recordings**: Lecture recordings will be posted to a Youtube playlist. However, we reserve the right to withold recordings if attendance drops too low. If you are unable to attend lecture due to circumstances outside of your control and the recording is unavaliable, please contact the admin staff.
+**Recordings**: Lecture recordings will be posted to a Youtube playlist. However, we reserve the right to withold recordings if attendance drops too low.
 
 **Lecture Threads**: There will be an Ed thread for each lecture where you can ask questions about lecture topics.
 
