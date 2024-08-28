@@ -14,7 +14,7 @@ homeworks:
   #   selfGrade: link to self grade form
   - # Homework 1
     due: Sep 4th
-    homework: https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89490188
+    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89490188'
     solutions: 
     selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-1'
   - # Homework 2
