@@ -243,8 +243,8 @@ These hours are subject to change. The most up-to-date office hour times and loc
 * Homework Party: Mondays 5 PM - 7 PM @ Cory 400
 * Professor Ramchandran: Wednesdays 5 PM - 6 PM @ Cory 258
 * Landon: Thursdays 11 AM - 12 PM @ Cory 504
-* Sid: Thursdays 1 PM - 2 PM @ Cory 529
-* Sid: Fridays 2 PM - 3 PM @ Cory 504
+* Sidd: Thursdays 1 PM - 2 PM @ Cory 529
+* Sidd: Fridays 2 PM - 3 PM @ Cory 504
 * Edward: Fridays 4 PM - 5 PM @ Cory 504
 
 
