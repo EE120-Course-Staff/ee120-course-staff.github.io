@@ -28,6 +28,8 @@ permalink: pretty
 aux_links:
   Dark Mode:
     - '#'
+  Lecture Playlist:
+    - 'https://www.youtube.com/playlist?list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE'
   Self-Grade Form:
     - 'https://ee120-course-staff.github.io/selfgrade-form/'
 footer_content:
