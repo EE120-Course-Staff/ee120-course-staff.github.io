@@ -5,37 +5,47 @@ lectures:
   #   edThread: link to the ed thread
   #   slides: link to the slides
   - # Wed Aug 28
-    topic: 
-    edThread: 
+    topic: Signals, DT systems, DT LTI
+    recording: "https://www.youtube.com/watch?v=St1Ol8io3z0&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=1"
+    edThread: "https://edstem.org/us/courses/62328/discussion/5190528"
   - # Mon Sep 2 -- Labor Day
     title: "No Lecture (Labor Day)"
     nonumber: True
   - # Wed Sep 4
     topic: 
+    recording: 
     edThread: 
   - # Mon Sep 9
     topic: 
+    recording: 
     edThread: 
   - # Wed Sep 11
     topic: 
+    recording: 
     edThread: 
   - # Mon Sep 16
     topic: 
+    recording: 
     edThread: 
   - # Wed Sep 18
     topic: 
+    recording: 
     edThread: 
   - # Mon Sep 23
     topic: 
+    recording: 
     edThread: 
   - # Wed Sep 25
     topic: 
+    recording: 
     edThread: 
   - # Mon Sep 30
     topic: 
+    recording: 
     edThread: 
   - # Wed Oct 2
     topic: 
+    recording: 
     edThread: 
   - # Thu Oct 3 -- Midterm 1
     title: 'Midterm 1'
@@ -43,33 +53,43 @@ lectures:
     isExam: True
   - # Mon Oct 7
     topic: 
+    recording: 
     edThread: 
   - # Wed Oct 9
     topic: 
+    recording: 
     edThread: 
   - # Mon Oct 14
     topic: 
+    recording: 
     edThread: 
   - # Wed Oct 16
     topic: 
+    recording: 
     edThread: 
   - # Mon Oct 21
     topic: 
+    recording: 
     edThread: 
   - # Wed Oct 23
     topic: 
+    recording: 
     edThread: 
   - # Mon Oct 28
     topic: 
+    recording: 
     edThread: 
   - # Wed Oct 30
     topic: 
+    recording: 
     edThread: 
   - # Mon Nov 4
     topic: 
+    recording: 
     edThread: 
   - # Wed Nov 6
     topic: 
+    recording: 
     edThread: 
   - # Thu Nov 7 -- Midterm 2
     title: 'Midterm 2'
@@ -80,24 +100,30 @@ lectures:
     nonumber: True
   - # Wed Nov 13
     topic: 
+    recording: 
     edThread: 
   - # Mon Nov 18
     topic: 
+    recording: 
     edThread: 
   - # Wed Nov 20
     topic: 
+    recording: 
     edThread: 
   - # Mon Nov 25
     topic: 
+    recording: 
     edThread: 
   - # Wed Nov 27 -- Thanksgiving
     title: "No Lecture (Thanksgiving)"
     nonumber: True
   - # Mon Dec 2
     topic: 
+    recording: 
     edThread: 
   - # Wed Dec 4
     topic: 
+    recording: 
     edThread: 
   - # Tue Dec 17 -- Final Exam
     title: 'Final Exam'
