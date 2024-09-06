@@ -15,8 +15,8 @@ homeworks:
   - # Homework 1
     due: Sep 4th
     homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89494048'
-    solutions: 
-    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-1'
+    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89558295'
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-1'
   - # Homework 2
     due: Sep 9th
     homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89570680'
