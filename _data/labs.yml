@@ -21,7 +21,7 @@ labs:
   due: "never"
   title: "(optional)"# (optional)
   lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction.git&urlpath=tree%2Flab-0-introduction.git%2Flab0.ipynb&branch=main"
-  solutions: 
+  solutions: "https://bcourses.berkeley.edu/courses/1537177/files/folder/labs/Lab%200?preview=89604138"
 - # Lab 1
   rowspan: 4
   due: # Sep 26th
