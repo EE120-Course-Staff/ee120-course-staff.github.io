@@ -18,9 +18,9 @@ labs:
   #   selfGrade: https://ee120-course-staff.github.io/selfgrade-form/
 - # Lab 0
   rowspan: 5
-  due: # never
-  title: # (optional)
-  lab: 
+  due: "never"
+  title: "(optional)"# (optional)
+  lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction.git&urlpath=tree%2Flab-0-introduction.git%2Flab0.ipynb&branch=main"
   solutions: 
 - # Lab 1
   rowspan: 4
