@@ -46,9 +46,10 @@ lectures:
     recording: 
     edThread: 
   - # Wed Oct 2
-    topic: Review Session
+    title: Review Session
     recording: 
     edThread: 
+    nonumber: True
   - # Thu Oct 3 -- Midterm 1
     title: 'Midterm 1'
     nonumber: True
@@ -90,9 +91,10 @@ lectures:
     recording: 
     edThread: 
   - # Wed Nov 6
-    topic: 
+    title: Review Session
     recording: 
     edThread: 
+    nonumber: True
   - # Thu Nov 7 -- Midterm 2
     title: 'Midterm 2'
     nonumber: True
