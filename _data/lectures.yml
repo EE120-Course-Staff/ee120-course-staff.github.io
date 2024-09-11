@@ -8,7 +8,7 @@ lectures:
     topic: Signals, DT systems, DT LTI
     recording: https://www.youtube.com/watch?v=St1Ol8io3z0&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=1
     edThread: https://edstem.org/us/courses/62328/discussion/5190528
-    reading: Oppenheim and Willsky 1.1, 1.4.1, 1.6.5, 2.1.1, 1.6.5-6
+    reading: Oppenheim 1.1, 1.4.1, 1.6.5, 2.1.1, 1.6.5-6
   - # Mon Sep 2 -- Labor Day
     title: "No Lecture (Labor Day)"
     nonumber: True
@@ -16,17 +16,18 @@ lectures:
     topic: LTI, DT impulse response, DT convolution
     recording: https://www.youtube.com/watch?v=Q55psWgX4e4&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=2
     edThread: https://edstem.org/us/courses/62328/discussion/5231321
-    reading: Oppenheim and Willsky 1.6.5-6, 2.1, 2.3.1-3
+    reading: Oppenheim 1.6.5-6, 2.1, 2.3.1-3
   - # Mon Sep 9
-    topic: DT convolution, DT frequency response
-    recording: 
+    topic: DT convolution, DT frequency response, Eigenfunction property
+    recording: https://www.youtube.com/watch?v=e1FxcSmPchs&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=3
     edThread: https://edstem.org/us/courses/62328/discussion/5248708
+    reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
   - # Wed Sep 11
-    topic: Complex exponential, DAGs, periodicity
+    topic: DAGs, periodicity
     recording: 
     edThread: 
   - # Mon Sep 16
-    topic: Eigenfunction property, BIBO stability, causality
+    topic: BIBO stability, causality
     recording: 
     edThread: 
   - # Wed Sep 18
