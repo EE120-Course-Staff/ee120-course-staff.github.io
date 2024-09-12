@@ -46,12 +46,7 @@ lectures:
     topic: CT LCCDE, feedback
     recording: 
     edThread: 
-  - # Wed Oct 2
-    title: Review Session
-    recording: 
-    edThread: 
-    nonumber: True
-  - # Thu Oct 3 -- Midterm 1
+  - # Wed Oct 2 -- Midterm 1
     title: 'Midterm 1'
     nonumber: True
     isExam: True
