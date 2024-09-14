@@ -24,8 +24,9 @@ lectures:
     reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
   - # Wed Sep 11
     topic: DAGs, periodicity
-    recording: 
-    edThread: 
+    recording: https://www.youtube.com/watch?v=cTHE52iUjGk&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=4
+    edThread: https://edstem.org/us/courses/62328/discussion/5260229
+    reading: Oppenheim 3.2, 2.4.3, 1.2.2, Hsu 6.5
   - # Mon Sep 16
     topic: BIBO stability, causality
     recording: 
