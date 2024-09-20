@@ -19,18 +19,18 @@ labs:
 - # Lab 0
   rowspan: 5
   due: "never"
-  title: "(optional)"# (optional)
+  title: "(optional)"
   lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction.git&urlpath=tree%2Flab-0-introduction.git%2Flab0.ipynb&branch=main"
   solutions: "https://bcourses.berkeley.edu/courses/1537177/files/folder/labs/Lab%200?preview=89604138"
 - # Lab 1
   rowspan: 4
-  due: "Thur, Sep 26"# Sep 26th
+  due: "Thu Sep 26"
   lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution.git&urlpath=tree%2Flab-tones-convolution.git%2Flab1.ipynb&branch=main"
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-1'
 - # Lab 2
   rowspan: 5
-  due: # Oct 10th
+  due: # Thu Oct 10th
   lab: 
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-2'
@@ -38,19 +38,19 @@ labs:
   nonumber: true
 - # Lab 3
   rowspan: 4
-  due: # Oct 31st
+  due: # Thu Oct 31st
   lab: 
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-3'
 - # Lab 4
   rowspan: 5
-  due: # Nov 21st
+  due: # Thu Nov 21st
   lab: 
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-4'
 - # Lab 5
   rowspan: 6
-  due: # Dec 12th
+  due: # Thu Dec 12th
   lab: # Should be an EdStem link
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/'

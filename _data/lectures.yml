@@ -28,13 +28,15 @@ lectures:
     edThread: https://edstem.org/us/courses/62328/discussion/5260229
     reading: Oppenheim 3.2, 2.4.3, 1.2.2, Hsu 6.5
   - # Mon Sep 16
-    topic: BIBO stability, causality
-    recording: 
-    edThread: 
+    topic: Periodicity, DT systems, DT frequency response, BIBO stability
+    recording: https://www.youtube.com/watch?v=85-nz3q3AT8&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=5
+    edThread: https://edstem.org/us/courses/62328/discussion/5291287
+    reading: Oppenheim 1.2.2, 3.2, 1.6.4, Hsu 6.5
   - # Wed Sep 18
-    topic: Stability, DT LCCDE, DT magnitude and phase plots
-    recording: 
-    edThread: 
+    topic: BIBO stability, causality, DT LCCDE
+    recording: https://www.youtube.com/watch?v=CHdegHE_M20&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=6
+    edThread: https://edstem.org/us/courses/62328/discussion/5305869
+    reading: Oppenheim 1.6.4, 2.4, 5.8
   - # Mon Sep 23
     topic: DT state space, Dirac delta, CT convolution, CT impulse/frequency response
     recording: 
