@@ -33,8 +33,8 @@ homeworks:
     solutions: 
     selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-4'
   - # Homework 5
-    due: # Sep 30th
-    homework: 
+    due: Sep 30th
+    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89760785'
     solutions: 
     selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-5'
   - rowspan: 3
