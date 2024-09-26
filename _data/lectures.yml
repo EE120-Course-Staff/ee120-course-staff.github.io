@@ -38,9 +38,10 @@ lectures:
     edThread: https://edstem.org/us/courses/62328/discussion/5305869
     reading: Oppenheim 1.6.4, 2.4, 5.8
   - # Mon Sep 23
-    topic: DT state space, Dirac delta, CT convolution, CT impulse/frequency response
-    recording: 
-    edThread: 
+    topic: DT state space
+    recording: 'https://www.youtube.com/watch?v=wyIVivljaAQ&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=7'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5336580'
+    reading: Hsu 7.1, 7.2, 7.3, 7.5
   - # Wed Sep 25
     topic: IAGs, CT state space
     recording: 
