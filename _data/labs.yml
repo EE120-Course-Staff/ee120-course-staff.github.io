@@ -30,8 +30,8 @@ labs:
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-1'
 - # Lab 2
   rowspan: 5
-  due: # Thu Oct 10th
-  lab: 
+  due: "Thu Oct 10th"
+  lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks&urlpath=tree%2Flab-filters-for-stocks%2Flab2.ipynb&branch=main"
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-2'
 - rowspan: 2
