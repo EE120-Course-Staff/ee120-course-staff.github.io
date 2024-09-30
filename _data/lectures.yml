@@ -41,11 +41,12 @@ lectures:
     topic: DT state space
     recording: 'https://www.youtube.com/watch?v=wyIVivljaAQ&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=7'
     edThread: 'https://edstem.org/us/courses/62328/discussion/5336580'
-    reading: Hsu 7.1, 7.2, 7.3, 7.5
+    reading: Hsu 7.1-3, 7.5
   - # Wed Sep 25
-    topic: IAGs, CT state space
-    recording: 
-    edThread: 
+    topic: DT state space, CT systems, CT convolution CT frequency response
+    recording: 'https://www.youtube.com/watch?v=Kn1wNasSANM&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=8'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5352107'
+    reading: Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4
   - # Mon Sep 30
     topic: CT LCCDE, feedback
     recording: 
