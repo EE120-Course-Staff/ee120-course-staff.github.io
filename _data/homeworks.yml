@@ -37,7 +37,7 @@ homeworks:
     homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89760785'
     solutions: 
     selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-5'
-  - rowspan: 3
+  - rowspan: 2
     nonumber: True
   - # Homework 6
     due: # Oct 14th
