@@ -33,10 +33,10 @@ lectures:
     edThread: https://edstem.org/us/courses/62328/discussion/5291287
     reading: Oppenheim 1.2.2, 3.2, 1.6.4, Hsu 6.5
   - # Wed Sep 18
-    topic: BIBO stability, causality, DT LCCDE
+    topic: DT BIBO stability, DT causality, DT LCCDE
     recording: https://www.youtube.com/watch?v=CHdegHE_M20&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=6
     edThread: https://edstem.org/us/courses/62328/discussion/5305869
-    reading: Oppenheim 1.6.4, 2.4, 5.8
+    reading: Oppenheim 1.6.3-4, 2.4.2, 5.8
   - # Mon Sep 23
     topic: DT state space
     recording: 'https://www.youtube.com/watch?v=wyIVivljaAQ&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=7'
@@ -48,21 +48,24 @@ lectures:
     edThread: 'https://edstem.org/us/courses/62328/discussion/5352107'
     reading: Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4
   - # Mon Sep 30
-    topic: CT LCCDE, feedback
-    recording: 
-    edThread: 
+    topic: CT frequency response, CT BIBO stability, CT causality, IAG
+    recording: 'https://www.youtube.com/watch?v=iPCQTPFNiJo&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=9'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5386546'
+    reading: Hsu 2.4, Oppenheim 1.6.3-4, 4.7, 2.4.1, 2.4.3
   - # Wed Oct 2 -- Midterm 1
     title: 'Midterm 1'
     nonumber: True
     isExam: True
   - # Mon Oct 7
-    topic: Feedback, vector spaces
-    recording: 
-    edThread: 
+    topic: CT state space, Feedback
+    recording: 'https://www.youtube.com/watch?v=4D0N22GKVpQ&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=10'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5440424'
+    reading: Hsu 7.1-2, 7.4, 7.6, Oppeheim 11.0-1
   - # Wed Oct 9
-    topic: DTFS
-    recording: 
-    edThread: 
+    topic: Feedback, DTFS
+    recording: 'https://www.youtube.com/watch?v=7uE8D0ohPPE&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=11'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5458712'
+    reading: Oppenheim 11.0-1, 3.0-2, 3.6
   - # Mon Oct 14
     topic: DTFS
     recording: 
