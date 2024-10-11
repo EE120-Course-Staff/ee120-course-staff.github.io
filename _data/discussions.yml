@@ -31,7 +31,7 @@ discussions:
   - rowspan: 2
     nonumber: True
   - # Discussion 5 -- Friday Oct 11
-    worksheet: 
+    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/DIsc05?preview=89921062'
     solutions: 
     walkthrough: 
   - # Discussion 6 -- Friday Oct 18
