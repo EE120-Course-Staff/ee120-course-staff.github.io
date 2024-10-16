@@ -42,11 +42,11 @@ homeworks:
   - # Homework 6
     due: Oct 14th
     homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89957924'
-    solutions: 
-    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-6'
+    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89973471'
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-6'
   - # Homework 7
-    due: # Oct 21st
-    homework: 
+    due: Oct 21st
+    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89973472'
     solutions: 
     selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-7'
   - # Homework 8
