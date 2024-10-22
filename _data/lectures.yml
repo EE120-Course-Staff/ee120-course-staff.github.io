@@ -77,11 +77,12 @@ lectures:
     edThread: 'https://edstem.org/us/courses/62328/discussion/5508866'
     reading: Oppenheim 3.0-2, 3.6-7
   - # Mon Oct 21
-    topic: CTFS
-    recording: 
-    edThread: 
+    topic: DTFS, DFT, FFT
+    recording: 'https://www.youtube.com/watch?v=OweZuPpclH8&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=14'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5544467'
+    reading: Oppenheim 3.0-2, 3.6-7
   - # Wed Oct 23
-    topic: DTFT
+    topic: CTFS
     recording: 
     edThread: 
   - # Mon Oct 28
