@@ -83,8 +83,9 @@ lectures:
     reading: Oppenheim 3.0-2, 3.6-7
   - # Wed Oct 23
     topic: CTFS
-    recording: 
-    edThread: 
+    recording: 'https://www.youtube.com/watch?v=1nLHLpnx4X4&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=15'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5561650'
+    reading: Oppenheim 3.3-5
   - # Mon Oct 28
     topic: DTFT
     recording: 
