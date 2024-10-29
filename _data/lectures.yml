@@ -88,10 +88,11 @@ lectures:
     reading: Oppenheim 3.3-5
   - # Mon Oct 28
     topic: DTFT
-    recording: 
-    edThread: 
+    recording: 'https://www.youtube.com/watch?v=NdSncPSFEls&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=16'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5596069'
+    reading: Oppenheim 5.0-6, 5.7.1
   - # Wed Oct 30
-    topic: 
+    topic: DTFT
     recording: 
     edThread: 
   - # Mon Nov 4
