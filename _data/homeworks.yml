@@ -55,8 +55,8 @@ homeworks:
     solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90115207'
     selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-8'
   - # Homework 9
-    due: # Nov 4th
-    homework: 
+    due: Nov 4th
+    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90115519'
     solutions: 
     selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-9'
   - rowspan: 3
