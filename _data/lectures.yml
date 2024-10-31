@@ -87,14 +87,15 @@ lectures:
     edThread: 'https://edstem.org/us/courses/62328/discussion/5561650'
     reading: Oppenheim 3.3-5
   - # Mon Oct 28
-    topic: DTFT
+    topic: CTFS, DTFT
     recording: 'https://www.youtube.com/watch?v=NdSncPSFEls&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=16'
     edThread: 'https://edstem.org/us/courses/62328/discussion/5596069'
-    reading: Oppenheim 5.0-6, 5.7.1
+    reading: Oppenheim 3.3-5, 5.0-6, 5.7.1
   - # Wed Oct 30
     topic: DTFT
-    recording: 
-    edThread: 
+    recording: 'https://www.youtube.com/watch?v=y0dUcZxXTuc&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=17'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5612476'
+    reading: Oppenheim 5.0-6, 5.7.1
   - # Mon Nov 4
     topic: 
     recording: 
