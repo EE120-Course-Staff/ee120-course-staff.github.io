@@ -225,9 +225,9 @@ We will have 2 midterms and a final this semester. These midterms will be held *
 
 **Midterm 1 Exam Time:** Wednesday October 2nd 3 - 5 PM @ VLSB 2060
 
-**Midterm 2 Exam Time:** Thursday November 7th 7 - 9 PM @ TBD
+**Midterm 2 Exam Time:** Thursday November 7th 7 - 9 PM @ Multiple Locations (Assigned rooms)
 
-**Final Exam Time:** Tuesday December 17th 7 PM - 10 PM @ TBD
+**Final Exam Time:** Tuesday December 17th 7 PM - 10 PM @ VLSB 2060 or Physics Building 3 (Assigned rooms)
 
 We will release more exam logistics in Ed posts before each exam.
 
