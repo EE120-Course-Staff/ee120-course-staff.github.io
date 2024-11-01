@@ -44,8 +44,8 @@ labs:
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-3'
 - # Lab 4
   rowspan: 5
-  due: # Thu Nov 21st
-  lab: 
+  due: "Thu Nov 21st"
+  lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis&urlpath=tree%2Flab-fft-heart-rate-analysis%2Flab4.ipynb&branch=main"
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-4'
 - # Lab 5
