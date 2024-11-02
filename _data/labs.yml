@@ -40,8 +40,8 @@ labs:
   rowspan: 4
   due: "Thu Oct 31st"
   lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main"
-  solutions: 
-  selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-3'
+  solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/labs/Lab%203?preview=90144205'
+  selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/lab-3'
 - # Lab 4
   rowspan: 5
   due: "Thu Nov 21st"
