@@ -190,8 +190,6 @@ You will self-grade your problem sets. Labs will have both autograded and self-g
 
 As assignments exist to encourage learning, not to punish small mistakes, the self-graded portion of each assignment will be scaled up by 1.25 and capped out at full credit. This means an 8/10 on a self-grade will be scaled up to a 10/10.
 
-We do accept late self-grades for up to two days after grace period. However, for each day past the grace period, 10% will be deducted from the self-grade after the 1.25 scaling, up to two days. Barring exceptional circumstances and DSP accommodations, self-grades will not be accepted past that point.
-
 The purpose of the self-grade assignments strategy is to encourage you to look over the solutions and use it to check your answers.  We hope it offers a chance to self-assess your understanding of the class content to prepare better for exams. As an oversight measure against inflationary self-grading, we conduct random checks at our discretion, and without notice.
 
 ### Timeline
