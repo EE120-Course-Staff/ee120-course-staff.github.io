@@ -62,8 +62,8 @@ homeworks:
   - rowspan: 3
     nonumber: True
   - # Homework 10
-    due: # Nov 18th
-    homework: 
+    due: Nov 18th
+    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90237010'
     solutions: 
     selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-10'
   - # Homework 11
