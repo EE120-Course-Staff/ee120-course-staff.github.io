@@ -90,20 +90,21 @@ lectures:
     topic: CTFS, DTFT
     recording: 'https://www.youtube.com/watch?v=NdSncPSFEls&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=16'
     edThread: 'https://edstem.org/us/courses/62328/discussion/5596069'
-    reading: Oppenheim 3.3-5, 5.0-6, 5.7.1
+    reading: Oppenheim 3.3-5, 5.0-7
   - # Wed Oct 30
     topic: DTFT
     recording: 'https://www.youtube.com/watch?v=y0dUcZxXTuc&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=17'
     edThread: 'https://edstem.org/us/courses/62328/discussion/5612476'
-    reading: Oppenheim 5.0-6, 5.7.1
+    reading: Oppenheim 5.0-7
   - # Mon Nov 4
-    topic: 
-    recording: 
-    edThread: 
+    topic: DTFT, CTFT
+    recording: 'https://www.youtube.com/watch?v=eQgkZIIVXhk&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=18'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5644239'
+    reading: Oppenheim 5.0-7, 4.0-6
   - # Wed Nov 6
     title: Exam Walkthrough
-    recording: 
-    edThread: 
+    recording: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5659604'
     nonumber: True
   - # Thu Nov 7 -- Midterm 2
     title: 'Midterm 2'
@@ -113,7 +114,7 @@ lectures:
     title: "No Lecture (Veteran's Day)"
     nonumber: True
   - # Wed Nov 13
-    topic: 
+    topic: CTFT, Modulation
     recording: 
     edThread: 
   - # Mon Nov 18
