@@ -238,7 +238,9 @@ You will be eligible for the clobber policy if you complete the both clobber ass
 ## Office Hours
 These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
+* Yajat: Mondays 12 PM - 1 PM @ Cory 504
 * Homework Party: Mondays 5 PM - 7 PM @ Cory 400
+* Yajat: Wednesdays 12 PM - 1 PM @ Cory 504
 * Professor Ramchandran: Wednesdays 5 PM - 6 PM @ Cory 258
 * Landon: Thursdays 11 AM - 12 PM @ Cory 504
 * Sidd: Thursdays 1 PM - 2 PM @ Cory 529
