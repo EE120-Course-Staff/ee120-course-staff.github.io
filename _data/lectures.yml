@@ -114,9 +114,10 @@ lectures:
     title: "No Lecture (Veteran's Day)"
     nonumber: True
   - # Wed Nov 13
-    topic: CTFT, Modulation
-    recording: 
-    edThread: 
+    topic: CTFT, Modulation, Sampling
+    recording: 'https://www.youtube.com/watch?v=Nd7EcBM5O1s&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=19'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5708899'
+    reading: Oppenheim 4.0-6, 8.0-8.1, 8.2.1, 7.0-7.6
   - # Mon Nov 18
     topic: 
     recording: 
