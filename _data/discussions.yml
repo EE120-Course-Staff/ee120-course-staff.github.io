@@ -48,11 +48,15 @@ discussions:
     walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
   - rowspan: 3
     nonumber: True
-  - # Discussion 9 -- Friday Nov 22
+  - # Discussion 9 -- Friday Nov 15
     worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc09?preview=90255688'
+    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc09?preview=90279369'
+    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
+  - # Discussion 10 -- Friday Nov 22
+    worksheet: 
     solutions: 
     walkthrough: 
-  - # Discussion 10 -- Friday Dec 6
+  - # Discussion 11 -- Friday Dec 6
     worksheet: 
     solutions: 
     walkthrough: 
