@@ -46,11 +46,11 @@ labs:
   rowspan: 5
   due: "Thu Nov 14th"
   lab: "https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis&urlpath=tree%2Flab-fft-heart-rate-analysis%2Flab4.ipynb&branch=main"
-  solutions: 
-  selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/lab-4'
+  solutions: "https://bcourses.berkeley.edu/courses/1537177/files/folder/labs/Lab%204?preview=90285630"
+  selfGrade: "https://ee120-course-staff.github.io/selfgrade-form/lab-4"
 - # Lab 5
   rowspan: 6
-  due: # Thu Dec 12th
-  lab: # Should be an EdStem link
+  due: "Thu Dec 12th"
+  lab: "Linked in EdStem"
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/'
