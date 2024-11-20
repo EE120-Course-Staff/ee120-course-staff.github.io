@@ -50,7 +50,7 @@ labs:
   selfGrade: "https://ee120-course-staff.github.io/selfgrade-form/lab-4"
 - # Lab 5
   rowspan: 6
-  due: "Thu Dec 12th"
-  lab: # "Linked in EdStem"
+  due: "Thu Dec 5th"
+  lab: "Linked in EdStem"
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/'
