@@ -69,8 +69,8 @@ homeworks:
   - # Homework 11
     due: Nov 25th
     homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90304907'
-    solutions: 
-    selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/homework-11'
+    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90368951'
+    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-11'
   - rowspan: 2
     nonumber: True
   - # Practice Problems
