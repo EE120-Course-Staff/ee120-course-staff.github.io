@@ -119,17 +119,20 @@ lectures:
     edThread: 'https://edstem.org/us/courses/62328/discussion/5708899'
     reading: Oppenheim 4.0-6, 8.0-8.1, 8.2.1, 7.0-7.6
   - # Mon Nov 18
-    topic: 
-    recording: 
-    edThread: 
+    topic: Sampling
+    recording: 'https://www.youtube.com/watch?v=F4tSAFSorWY&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=20'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5740844'
+    reading: Oppenheim 7.0-4
   - # Wed Nov 20
-    topic: 
-    recording: 
-    edThread: 
+    topic: Sampling
+    recording: 'https://www.youtube.com/watch?v=533gyM70_wE&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=21'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5756479'
+    reading: Oppenheim 7.0-4
   - # Mon Nov 25
-    topic: 
-    recording: 
-    edThread: 
+    topic: Sampling, Z-Transform
+    recording: 'https://www.youtube.com/watch?v=VckC_1drshE&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=22'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5785019'
+    reading: Oppenheim 7.0-4, 10.0-8
   - # Wed Nov 27 -- Thanksgiving
     title: "No Lecture (Thanksgiving)"
     nonumber: True
