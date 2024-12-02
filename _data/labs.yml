@@ -51,6 +51,6 @@ labs:
 - # Lab 5
   rowspan: 6
   due: "Thu Dec 5th"
-  lab: "Linked in EdStem"
+  lab: "https://edstem.org/us/courses/62328/discussion/5740188"
   solutions: 
   selfGrade: # 'https://ee120-course-staff.github.io/selfgrade-form/'
