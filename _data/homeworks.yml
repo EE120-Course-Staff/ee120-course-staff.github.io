@@ -75,5 +75,6 @@ homeworks:
     nonumber: True
   - # Practice Problems
     due: 'never'
+    title: "(optional)"
     homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90413651'
     solutions: 
