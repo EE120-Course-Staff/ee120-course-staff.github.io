@@ -74,6 +74,6 @@ homeworks:
   - rowspan: 2
     nonumber: True
   - # Practice Problems
-    due: # never
-    homework: 
+    due: 'never'
+    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90413651'
     solutions: 
