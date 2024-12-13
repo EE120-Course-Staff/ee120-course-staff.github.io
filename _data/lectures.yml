@@ -137,13 +137,15 @@ lectures:
     title: "No Lecture (Thanksgiving)"
     nonumber: True
   - # Mon Dec 2
-    topic: 
-    recording: 
-    edThread: 
+    topic: Z-Transform
+    recording: 'https://www.youtube.com/watch?v=A36qFqAshb0&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=23'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5816213'
+    reading: Oppenheim 10.0-8
   - # Wed Dec 4
-    topic: 
-    recording: 
-    edThread: 
+    topic: Z-Transform, Laplace Transform
+    recording: 'https://www.youtube.com/watch?v=ZLPR6YH7Zn8&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=24'
+    edThread: 'https://edstem.org/us/courses/62328/discussion/5834843'
+    reading: Oppenheim 10.0-8, 9.0-7, 9.9
   - # Tue Dec 17 -- Final Exam
     title: 'Final Exam'
     nonumber: True
