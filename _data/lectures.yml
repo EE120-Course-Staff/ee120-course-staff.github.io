@@ -1,152 +1,157 @@
 lectures:
   # - topic:
-  #   reading: Name of textbook and chapters to read
   #   recording: link to the recording link
   #   edThread: link to the ed thread
   #   slides: link to the slides
-  - # Wed Aug 28
-    topic: Signals, DT systems, DT LTI
-    recording: https://www.youtube.com/watch?v=St1Ol8io3z0&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=1
-    edThread: https://edstem.org/us/courses/62328/discussion/5190528
-    reading: Oppenheim 1.1, 1.4.1, 1.6.5, 2.1.1, 1.6.5-6
-  - # Mon Sep 2 -- Labor Day
-    title: "No Lecture (Labor Day)"
+  #   reading: Name of textbook and chapters to read
+  - # Wed Jan 22
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Jan 27
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Jan 29
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Feb 3
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Feb 5
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Feb 10
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Feb 12
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Feb 17
+    title: "No Lecture (Presidents' Day)"
     nonumber: True
-  - # Wed Sep 4
-    topic: LTI, DT impulse response, DT convolution
-    recording: https://www.youtube.com/watch?v=Q55psWgX4e4&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=2
-    edThread: https://edstem.org/us/courses/62328/discussion/5231321
-    reading: Oppenheim 1.6.5-6, 2.1, 2.3.1-3
-  - # Mon Sep 9
-    topic: DT convolution, DT frequency response, Eigenfunction property
-    recording: https://www.youtube.com/watch?v=e1FxcSmPchs&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=3
-    edThread: https://edstem.org/us/courses/62328/discussion/5248708
-    reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
-  - # Wed Sep 11
-    topic: DAGs, periodicity
-    recording: https://www.youtube.com/watch?v=cTHE52iUjGk&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=4
-    edThread: https://edstem.org/us/courses/62328/discussion/5260229
-    reading: Oppenheim 3.2, 2.4.3, 1.2.2, Hsu 6.5
-  - # Mon Sep 16
-    topic: Periodicity, DT systems, DT frequency response, BIBO stability
-    recording: https://www.youtube.com/watch?v=85-nz3q3AT8&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=5
-    edThread: https://edstem.org/us/courses/62328/discussion/5291287
-    reading: Oppenheim 1.2.2, 3.2, 1.6.4, Hsu 6.5
-  - # Wed Sep 18
-    topic: DT BIBO stability, DT causality, DT LCCDE
-    recording: https://www.youtube.com/watch?v=CHdegHE_M20&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=6
-    edThread: https://edstem.org/us/courses/62328/discussion/5305869
-    reading: Oppenheim 1.6.3-4, 2.4.2, 5.8
-  - # Mon Sep 23
-    topic: DT state space
-    recording: 'https://www.youtube.com/watch?v=wyIVivljaAQ&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=7'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5336580'
-    reading: Hsu 7.1-3, 7.5
-  - # Wed Sep 25
-    topic: DT state space, CT systems, CT convolution, CT frequency response
-    recording: 'https://www.youtube.com/watch?v=Kn1wNasSANM&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=8'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5352107'
-    reading: Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4
-  - # Mon Sep 30
-    topic: CT frequency response, CT BIBO stability, CT causality, IAG
-    recording: 'https://www.youtube.com/watch?v=iPCQTPFNiJo&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=9'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5386546'
-    reading: Hsu 2.4, Oppenheim 1.6.3-4, 4.7, 2.4.1, 2.4.3, 3.10
-  - # Wed Oct 2 -- Midterm 1
+  - # Wed Feb 19
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Feb 24
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Feb 26
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Thu Feb 27
     title: 'Midterm 1'
     nonumber: True
     isExam: True
-  - # Mon Oct 7
-    topic: CT state space, Feedback
-    recording: 'https://www.youtube.com/watch?v=4D0N22GKVpQ&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=10'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5440424'
-    reading: Hsu 7.1-2, 7.4, 7.6, Oppeheim 11.0-1
-  - # Wed Oct 9
-    topic: Feedback, DTFS
-    recording: 'https://www.youtube.com/watch?v=7uE8D0ohPPE&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=11'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5458712'
-    reading: Oppenheim 11.0-1, 3.0-2, 3.6
-  - # Mon Oct 14
-    topic: DTFS, Hilbert spaces
-    recording: 'https://www.youtube.com/watch?v=qP59R-h2dAc&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=12'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5492369'
-    reading: Oppenheim 3.0-2, 3.6-7
-  - # Wed Oct 16
-    topic: DTFS
-    recording: 'https://www.youtube.com/watch?v=yczQp4EeTT4&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=13'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5508866'
-    reading: Oppenheim 3.0-2, 3.6-7
-  - # Mon Oct 21
-    topic: DTFS, DFT, FFT
-    recording: 'https://www.youtube.com/watch?v=OweZuPpclH8&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=14'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5544467'
-    reading: Oppenheim 3.0-2, 3.6-7
-  - # Wed Oct 23
-    topic: CTFS
-    recording: 'https://www.youtube.com/watch?v=1nLHLpnx4X4&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=15'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5561650'
-    reading: Oppenheim 3.3-5
-  - # Mon Oct 28
-    topic: CTFS, DTFT
-    recording: 'https://www.youtube.com/watch?v=NdSncPSFEls&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=16'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5596069'
-    reading: Oppenheim 3.3-5, 5.0-7
-  - # Wed Oct 30
-    topic: DTFT
-    recording: 'https://www.youtube.com/watch?v=y0dUcZxXTuc&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=17'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5612476'
-    reading: Oppenheim 5.0-7
-  - # Mon Nov 4
-    topic: DTFT, CTFT
-    recording: 'https://www.youtube.com/watch?v=eQgkZIIVXhk&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=18'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5644239'
-    reading: Oppenheim 5.0-7, 4.0-6
-  - # Wed Nov 6
-    title: Exam Walkthrough
-    recording: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5659604'
+  - # Mon Mar 3
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Mar 5
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Mar 10
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Mar 12
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Mar 17
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Mar 19
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Mar 24
+    title: "No Lecture (Spring Break)"
     nonumber: True
-  - # Thu Nov 7 -- Midterm 2
+  - # Wed Mar 26
+    title: "No Lecture (Spring Break)"
+    nonumber: True
+  - # Mon Mar 31
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Apr 2
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Apr 7
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Apr 9
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Thu Apr 10
     title: 'Midterm 2'
     nonumber: True
     isExam: True
-  - # Mon Nov 11 -- Veteran's Day
-    title: "No Lecture (Veteran's Day)"
-    nonumber: True
-  - # Wed Nov 13
-    topic: CTFT, Modulation, Sampling
-    recording: 'https://www.youtube.com/watch?v=Nd7EcBM5O1s&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=19'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5708899'
-    reading: Oppenheim 4.0-6, 8.0-8.1, 8.2.1, 7.0-7.6
-  - # Mon Nov 18
-    topic: Sampling
-    recording: 'https://www.youtube.com/watch?v=F4tSAFSorWY&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=20'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5740844'
-    reading: Oppenheim 7.0-4
-  - # Wed Nov 20
-    topic: Sampling
-    recording: 'https://www.youtube.com/watch?v=533gyM70_wE&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=21'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5756479'
-    reading: Oppenheim 7.0-4
-  - # Mon Nov 25
-    topic: Sampling, Z-Transform
-    recording: 'https://www.youtube.com/watch?v=VckC_1drshE&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=22'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5785019'
-    reading: Oppenheim 7.0-4, 10.0-8
-  - # Wed Nov 27 -- Thanksgiving
-    title: "No Lecture (Thanksgiving)"
-    nonumber: True
-  - # Mon Dec 2
-    topic: Z-Transform
-    recording: 'https://www.youtube.com/watch?v=A36qFqAshb0&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=23'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5816213'
-    reading: Oppenheim 10.0-8
-  - # Wed Dec 4
-    topic: Z-Transform, Laplace Transform
-    recording: 'https://www.youtube.com/watch?v=ZLPR6YH7Zn8&list=PLnocShPlK-Fs3bN1GOVwTZ6CTSqawY8QE&index=24'
-    edThread: 'https://edstem.org/us/courses/62328/discussion/5834843'
-    reading: Oppenheim 10.0-8, 9.0-7, 9.9
-  - # Tue Dec 17 -- Final Exam
+  - # Mon Apr 14
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Apr 16
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Apr 21
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Apr 23
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Mon Apr 28
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Wed Apr 30
+    topic: 
+    recording: 
+    edThread: 
+    reading: 
+  - # Tue May 13
     title: 'Final Exam'
     nonumber: True
     isExam: True

@@ -12,51 +12,53 @@ discussions:
   #   walkthrough: link to the walkthrough video
   - rowspan: 1
     nonumber: True
-  - # Discussion 1 -- Friday Sep 6
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc01?preview=89560625'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc01?preview=89578132'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
-  - # Discussion 2 -- Friday Sep 13
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc02?preview=89632687'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc02?preview=89657855'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
-  - # Discussion 3 -- Friday Sep 20
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc03?preview=89703740'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc03?preview=89736920'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
-  - # Discussion 4 -- Friday Sep 27
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc04?preview=89779650'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc04?preview=89786713'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
-  - rowspan: 2
-    nonumber: True
-  - # Discussion 5 -- Friday Oct 11
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc05?preview=89921062'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc05?preview=89938464'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
-  - # Discussion 6 -- Friday Oct 18
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc06?preview=89992098'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc06?preview=90011106'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
-  - # Discussion 7 -- Friday Oct 25
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc07?preview=90124874'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc07?preview=90124873'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
-  - # Discussion 8 -- Friday Nov 1
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc08?preview=90147492'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc08?preview=90147493'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
+  - # Discussion 1 -- Friday Jan 31
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 2 -- Friday Feb 7
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 3 -- Friday Feb 14
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 4 -- Friday Feb 21
+    worksheet: 
+    solutions: 
+    walkthrough: 
   - rowspan: 3
     nonumber: True
-  - # Discussion 9 -- Friday Nov 15
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc09?preview=90255688'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc09?preview=90279369'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
-  - # Discussion 10 -- Friday Nov 22
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc10?preview=90327108'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc10?preview=90353916'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
-  - # Discussion 11 -- Friday Dec 6
-    worksheet: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc11?preview=90433581'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/Discussions/Disc11?preview=90448942'
-    walkthrough: 'https://bcourses.berkeley.edu/courses/1537177/external_tools/90481'
+  - # Discussion 5 -- Friday Mar 7
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 6 -- Friday Mar 14
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 7 -- Friday Mar 21
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - rowspan: 2
+    nonumber: True
+  - # Discussion 8 -- Friday Apr 4
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - rowspan: 3
+    nonumber: True
+  - # Discussion 9 -- Friday Apr 18
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 10 -- Friday Apr 25
+    worksheet: 
+    solutions: 
+    walkthrough: 
+  - # Discussion 11 -- Friday May 2
+    worksheet: 
+    solutions: 
+    walkthrough: 

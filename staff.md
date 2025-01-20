@@ -36,12 +36,12 @@ description: A listing of all the course staff members.
 {% endfor %}
 {% endif %}
 
-{% assign readers = site.staffers | where: 'role', 'Reader' %}
-{% assign num_readers = readers | size %}
+{% assign ucs1s = site.staffers | where: 'role', 'UCS1' %}
+{% assign num_ucs1s = ucs1s | size %}
 {% if num_readers != 0 %}
-## Readers
+## UCS1s
 
-{% for staffer in readers %}
+{% for staffer in ucs1s %}
 {{ staffer }}
 {% endfor %}
 {% endif %}

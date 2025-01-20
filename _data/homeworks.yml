@@ -13,68 +13,49 @@ homeworks:
   #   solutions: link to the solutions pdf
   #   selfGrade: link to self grade form
   - # Homework 1
-    due: Sep 4th
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89494048'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89558295'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-1'
+    due: # Jan 27th
+    homework: 
+    solutions: 
   - # Homework 2
-    due: Sep 9th
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89570680'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89613139'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-2'
+    due: # Feb 3rd
+    homework: 
+    solutions: 
   - # Homework 3
-    due: Sep 16th
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89635120'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89684084'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-3'
+    due: # Feb 10th
+    homework: 
+    solutions: 
   - # Homework 4
-    due: Sep 23rd
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89683546'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89761023'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-4'
+    due: # Feb 18th
+    homework: 
+    solutions: 
   - # Homework 5
-    due: Sep 30th
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89760785'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89833983'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-5'
-  - rowspan: 2
-    nonumber: True
-  - # Homework 6
-    due: Oct 14th
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89957924'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89973471'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-6'
-  - # Homework 7
-    due: Oct 21st
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90014163'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90042520'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-7'
-  - # Homework 8
-    due: Oct 28th
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90041720'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90115207'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-8'
-  - # Homework 9
-    due: Nov 4th
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90146635'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90178703'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-9'
+    due: # Feb 24th
+    homework: 
+    solutions: 
   - rowspan: 3
     nonumber: True
-  - # Homework 10
-    due: Nov 18th
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90237010'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90305079'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-10'
-  - # Homework 11
-    due: Nov 25th
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90304907'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90421275'
-    selfGrade: 'https://ee120-course-staff.github.io/selfgrade-form/homework-11'
-  - rowspan: 2
+  - # Homework 6
+    due: # Mar 10th
+    homework: 
+    solutions: 
+  - # Homework 7
+    due: # Mar 17th
+    homework: 
+    solutions: 
+  - # Homework 8
+    rowspan: 6
+    due: # Apr 7th
+    homework: 
+    solutions: 
+  - rowspan: 3
     nonumber: True
-  - # Practice Problems
-    due: 'never'
+  - # Homework 9
+    due: # Apr 21st
+    homework: 
+    solutions: 
+  - # Homework 10
+    rowspan: 4
+    due: # 'never'
     title: "(optional)"
-    homework: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90496574'
-    solutions: 'https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90501773'
+    homework: 
+    solutions: 

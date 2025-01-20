@@ -72,14 +72,14 @@ subsampling, gentle introduction to multi-rate processing systems
 
 All official course communication will be through Ed and email. BCourses and Gradescope are for resource storage and assignment submission. We will also maintain the course website for your convenience.
 
-To contact staff admin directly (Professor Ramchandran, Landon, and Edward), please send an email to [ee120-fa24-admin@lists.berkeley.edu](mailto:ee120-fa24-admin@lists.berkeley.edu).
+To contact staff admin directly (Professor Waller, Edward, and Chaoying), please send an email to [ee120-sp25-admin@lists.berkeley.edu](mailto:ee120-sp25-admin@lists.berkeley.edu).
 
 
 ## Lecture
 
-**Time**: Mon/Wed 3 PM - 5 PM
+**Time**: Mon/Wed 2 PM - 4 PM
 
-**Location**: Valley Life Sciences 2060
+**Location**: Dwinelle 145
 
 **Recordings**: Lecture recordings will be posted to a Youtube playlist. However, we reserve the right to withold recordings if attendance drops too low.
 
@@ -96,9 +96,9 @@ We will post the worksheet to bCourses and Ed on Friday mornings.
 
 ### Times and Locations
 
-* Cory 540AB @ 1:00pm - 2:00pm
-* Dwinelle 182 @ 2:00pm - 3:00pm
-* Dwinelle 182 @ 3:00pm - 4:00pm
+* Dwinelle 182 @ 11:00am - 12:00pm
+* Hearst Mining 310 @ 12:00pm - 1:00pm
+* Dwinelle 182 @ 1:00pm - 2:00pm
 
 
 ### Attendance
@@ -108,7 +108,7 @@ Attendance for discussion is not required. However, you will receive one bonus p
 Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance.
 
 
-**The first discussion is Friday September 6th**.
+**The first discussion is Friday Jan 31st**.
 
 
 ### COVID Reminder
@@ -136,13 +136,13 @@ You will submit your work through **Gradescope**. You have several options for s
 2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
 3. Use your own sheets of paper, but demarcate clearly the space for each problem, part, and subpart. You must not exceed the amount of space allotted in this official problem set document. Then upload a PDF file.
 
-**The first problem set will be released on Wednesday Aug 28th and will be due on Wednesday Sep 4th at 11:59pm, with no grace period.**
+**The first problem set will be released on Wednesday Jan 22nd and will be due on Monday Jan 27th at 11:59pm, with grace period until Tuesday Jan 28th at 11:59pm.**
 
 ### Lab Logistics
 
 Labs are interactive assignments that utilize Jupyter notebooks, an interactive web-based tool for running Python code. Labs provide an opportunity to see real-world applications of EE 120 material.
 
-**Release**: Typically, labs will be released on **Fridays via Ed**. They will be released on **Datahub**, an online platform for running Jupyter notebooks; we will provide a Datahub link for each lab.
+**Release**: Typically, labs will be released on Saturdays via Ed. They will be released on **Datahub**, an online platform for running Jupyter notebooks; we will provide a Datahub link for each lab.
 
 We will also provide zip files of lab materials via bCourses if you want to work locally. Please note that we will have limited support for technical issues that arise while running labs locally.
 
@@ -173,11 +173,12 @@ As we cannot avoid releasing problem sets and labs in concurrent weeks, labs wil
 
 ### Grace Period
 
-Although problem sets and labs are due on Mondays and Thursdays respectively, **you can submit, with no penalty, each of your assignments (problem sets and labs) one day after the official due date of that assignment at 11:59 PM**. This comes with three important caveats:
+Although problem sets and labs are due on Mondays and Thursdays respectively, **you can submit, with no penalty, each of your assignments (problem sets and labs) one day after the official due date of that assignment at 11:59 PM**. This comes with four important caveats:
 
+1. This grace period is meant to account for technical issues.
 1. Staff support will be limited during the grace period.
-2. Barring exceptional circumstances and DSP accommodations, we will not be accepting any late assignments (_i.e._, they will automatically earn a 0).
-3. There will be no extensions on deadlines outside of DSP-related reasons -- these are meant to be covered by the drop policy.
+1. Barring exceptional circumstances and DSP accommodations, we will not be accepting any late assignments (_i.e._, they will automatically earn a 0). 
+1. There will be no extensions on deadlines outside of DSP-related reasons -- these are meant to be covered by the drop policy.
 
 ### Collaboration
 
@@ -186,15 +187,17 @@ We encourage you to collaborate with up to five other current EE 120 students on
 
 ## Self-Grades
 
-You will self-grade your problem sets. Labs will have both autograded and self-graded components. **Warning: Not submitting a self-grade will result in a 0 on the corresponding self-graded portion of the assignment. Self-grades will not be accepted after the due date except as provided by disability accommodations, and you will likely have to use a drop in these circumstances.**
+You will self-grade your problem sets. Labs will have both autograded and self-graded components. **Warning: Not submitting a self-grade will result in a 0 on the corresponding self-graded portion of the assignment.**
 
 As assignments exist to encourage learning, not to punish small mistakes, the self-graded portion of each assignment will be scaled up by 1.25 and capped out at full credit. This means an 8/10 on a self-grade will be scaled up to a 10/10.
+
+You may submit a self-grade up to **three days** late for **50% credit**. **No self-grades will be accepted after this late deadline (outside of DSP-related accommodations).**
 
 The purpose of the self-grade assignments strategy is to encourage you to look over the solutions and use it to check your answers.  We hope it offers a chance to self-assess your understanding of the class content to prepare better for exams. As an oversight measure against inflationary self-grading, we conduct random checks at our discretion, and without notice.
 
 ### Timeline
 
-Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self-grades for both homeworks and labs will be due the following Friday after the assignment is due.** This means there are **three days** to complete the homework self-grades, and **one week** to complete the lab self-grades.
+Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self-grades for both homeworks and labs will be due a week after the end after the corresponding assignment grace period.** Homework self-grades will usually be due on Tuesdays and lab self-grades will usually be due on Fridays. Self-grades will be accepted up to **three days** after this deadline for **50% credit**.
 
 ### Instructions
 
@@ -221,11 +224,11 @@ Self grades will be released, along with assignment solutions, when the grace pe
 
 We will have 2 midterms and a final this semester. These midterms will be held **in-person** on the following dates:
 
-**Midterm 1 Exam Time:** Wednesday October 2nd 3 - 5 PM @ VLSB 2060
+**Midterm 1 Exam Time:** Thursday February 27th 7 - 9 PM @ Multiple Locations (Assigned rooms)
 
-**Midterm 2 Exam Time:** Thursday November 7th 7 - 9 PM @ Multiple Locations (Assigned rooms)
+**Midterm 2 Exam Time:** Thursday April 10th 7 - 9 PM @ TBA
 
-**Final Exam Time:** Tuesday December 17th 7 PM - 10 PM @ VLSB 2060 or Physics Building 3 (Assigned rooms)
+**Final Exam Time:** Tuesday May 13th 11:30 AM - 2:30 PM @ TBA
 
 We will release more exam logistics in Ed posts before each exam.
 
@@ -233,23 +236,17 @@ We will release more exam logistics in Ed posts before each exam.
 
 We have a clobber policy where your final can replace your grade for either MT1 or MT2, but not both. Your lower midterm score in terms of z-score will be clobbered by the final based on z-score, allowing you to miss a midterm. This policy is meant to cover conflicts such as medical emergencies or exam conflicts.
 
-You will be eligible for the clobber policy if you complete the both clobber assignments, which entails completing missed questions on each exam a week after grades are released. More information will be provided on Ed on its release.
+You will be eligible for the clobber policy if you complete both of the clobber assignments, which entails completing the exam again without time constraint. More information will be provided on Ed on its release.
 
 ## Office Hours
 These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
-* Yajat: Mondays 12 PM - 1 PM @ Cory 504
 * Homework Party: Mondays 5 PM - 7 PM @ Cory 400
-* Yajat: Wednesdays 12 PM - 1 PM @ Cory 504
-* Professor Ramchandran: Wednesdays 5 PM - 6 PM @ Cory 258
-* Landon: Thursdays 11 AM - 12 PM @ Cory 504
-* Sidd: Thursdays 1 PM - 2 PM @ Cory 529
-* Sidd: Fridays 2 PM - 3 PM @ Cory 504
-* Edward: Fridays 4 PM - 5 PM @ Cory 504
+* Professor Waller: Wednesdays 4 PM - 5 PM @ TBA
 
 
 ## Homework Party
-We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week. Homework party will start on September 9th.
+We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week. Homework party will start on January 27th.
 
 
 ## Grading
@@ -260,9 +257,9 @@ We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask que
 * **Labs**: 10% (We drop the lowest score)
 
 ## DSP
-UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns by emailing [ee120-fa24-admin@lists.berkeley.edu](mailto:ee120-fa24-admin@lists.berkeley.edu). If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about the DSP application process [here](https://dsp.berkeley.edu/students/new-students/application-process). We are available if you have any questions or concerns about your accommodations, but in the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with us toward a resolution.
+UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns by emailing [ee120-sp25-admin@lists.berkeley.edu](mailto:ee120-sp25-admin@lists.berkeley.edu). If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about the DSP application process [here](https://dsp.berkeley.edu/students/new-students/application-process). We are available if you have any questions or concerns about your accommodations, but in the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with us toward a resolution.
 
-Please submit your DSP letters of accommodation through email to [ee120-fa24-admin@lists.berkeley.edu](mailto:ee120-fa24-admin@lists.berkeley.edu) as soon as possible. If you are uncertain as to whether you will use the accommodation, it is much better to have the accommodation in place than to scramble at the last minute should you need it. Accommodations are not retroactive, so course staff is not responsible for providing accommodations prior to the receipt of an accommodation letter (although if you have extenuating circumstances, we may be able to make temporary adjustments). The more lead time that you provide admin staff, the easier it is for us to arrange your accommodations. Contact us through the admin email for any DSP-related concerns, including but not limited to assignments and exams. Be mindful that it might not be possible to accommodate last-minute requests, depending on your accommodation needs.
+Please submit your DSP letters of accommodation through email to [ee120-sp25-admin@lists.berkeley.edu](mailto:ee120-sp25-admin@lists.berkeley.edu) as soon as possible. If you are uncertain as to whether you will use the accommodation, it is much better to have the accommodation in place than to scramble at the last minute should you need it. Accommodations are not retroactive, so course staff is not responsible for providing accommodations prior to the receipt of an accommodation letter (although if you have extenuating circumstances, we may be able to make temporary adjustments). The more lead time that you provide admin staff, the easier it is for us to arrange your accommodations. Contact us through the admin email for any DSP-related concerns, including but not limited to assignments and exams. Be mindful that it might not be possible to accommodate last-minute requests, depending on your accommodation needs.
 
 
 ## Optional Course Materials
