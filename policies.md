@@ -81,7 +81,7 @@ To contact staff admin directly (Professor Waller, Edward, and Chaoying), please
 
 **Location**: Dwinelle 145
 
-**Recordings**: Lecture recordings will be posted to a Youtube playlist. However, we reserve the right to withold recordings if attendance drops too low.
+**Recordings**: Lecture recordings will be posted to the Media Gallery on bCourses. However, we reserve the right to withold recordings if attendance drops too low.
 
 **Lecture Threads**: There will be an Ed thread for each lecture where you can ask questions about lecture topics.
 
@@ -264,7 +264,7 @@ Please submit your DSP letters of accommodation through email to [ee120-sp25-adm
 
 ## Optional Course Materials
 
-There is no official textbook or set of course notes for EE 120. EE 120 is a self-contained course in that the lecture notes, lectures, discussions, and labs contain all of the material you are responsible for knowing. However, if you would like additional information beyond what is covered in lectures, homeworks, and labs, you can look at these two textbooks:
+There is no official textbook or set of course notes for EE 120. EE 120 is a self-contained course in that the lectures, discussions, and labs contain all of the material you are responsible for knowing. However, if you would like additional information beyond what is covered in lectures, homeworks, and labs, you can look at these two textbooks:
 
 
 * [Signals and Systems by Oppenheim and Willsky](https://github.com/gigahidjrikaaa/Engineering-Books/blob/main/Signals%20and%20Systems/Oppenheim%2C%20Willsky%2C%20Nawab%20-%20Signals%20%26%20Systems%20%5B2nd%20Edition%5D.pdf)
