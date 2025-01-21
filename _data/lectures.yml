@@ -6,37 +6,30 @@ lectures:
   #   reading: Name of textbook and chapters to read
   - # Wed Jan 22
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Jan 27
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Jan 29
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Feb 3
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Feb 5
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Feb 10
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Feb 12
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Feb 17
@@ -44,17 +37,14 @@ lectures:
     nonumber: True
   - # Wed Feb 19
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Feb 24
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Feb 26
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Thu Feb 27
@@ -63,32 +53,26 @@ lectures:
     isExam: True
   - # Mon Mar 3
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Mar 5
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Mar 10
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Mar 12
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Mar 17
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Mar 19
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Mar 24
@@ -99,22 +83,18 @@ lectures:
     nonumber: True
   - # Mon Mar 31
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Apr 2
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Apr 7
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Apr 9
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Thu Apr 10
@@ -123,32 +103,26 @@ lectures:
     isExam: True
   - # Mon Apr 14
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Apr 16
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Apr 21
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Apr 23
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Mon Apr 28
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Wed Apr 30
     topic: 
-    recording: 
     edThread: 
     reading: 
   - # Tue May 13
