@@ -242,7 +242,7 @@ You will be eligible for the clobber policy if you complete both of the clobber 
 These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
 * Homework Party: Mondays 5 PM - 7 PM @ Cory 400
-* Professor Waller: Wednesdays 4 PM - 5 PM @ TBA
+* Professor Waller: Monday 9 AM - 10 AM @ Cory 514
 
 
 ## Homework Party
