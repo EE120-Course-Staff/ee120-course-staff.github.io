@@ -18,9 +18,9 @@ end_date: 2025-05-02
 # dates reflected on the production build, double check that these dates are
 # correct on the syllabus on the production build.
 extra_days:
- - date: 2025-02-28 # 2025-02-27 in Unix time
- - date: 2025-04-11 # 2025-04-10 in Unix time
- - date: 2025-05-14 # 2025-05-13 in Unix time
+ - date: 2025-02-27 # 2025-02-27 in Unix time
+ - date: 2025-04-10 # 2025-04-10 in Unix time
+ - date: 2025-05-13 # 2025-05-13 in Unix time
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
 # For example, for a semester with Tu/Th lectures, put ['2', '4'].
