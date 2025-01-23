@@ -14,7 +14,7 @@ homeworks:
   #   selfGrade: link to self grade form
   - # Homework 1
     due: # Jan 27th
-    homework: 
+    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/HW%201?preview=90780031
     solutions: 
   - # Homework 2
     due: # Feb 3rd
