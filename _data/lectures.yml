@@ -1,4 +1,4 @@
-lctures:
+lectures:
   # - topic:
   #   recording: link to the recording link
   #   edThread: link to the ed thread
@@ -6,35 +6,40 @@ lctures:
   #   reading: Name of textbook and chapters to read
   - # Wed Jan 22
     topic: Introduction
-    recording: https://bcourses.berkeley.edu/courses/1542501/external_tools/90481  
-    edThread: 
+    recording: https://bcourses.berkeley.edu/courses/1542501/external_tools/90481
+    edThread: https://edstem.org/us/courses/74275/discussion/6045089
     slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=90783180
     reading: Oppenheim 1.1, 1.4.1, 1.6.5-6, 2.1.1
   - # Mon Jan 27
     topic: LTI, DT Impulse Response
     edThread: 
     reading: Oppenheim 1.6.5-6, 2.1, 2.3.1
-    slides:
+    slides: 
   - # Wed Jan 29
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Mon Feb 3
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Feb 5
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Mon Feb 10
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Feb 12
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Mon Feb 17
     title: "No Lecture (Presidents' Day)"
     nonumber: True
@@ -42,14 +47,17 @@ lctures:
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Mon Feb 24
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Feb 26
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Thu Feb 27
     title: 'Midterm 1'
     nonumber: True
@@ -58,26 +66,32 @@ lctures:
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Mar 5
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Mon Mar 10
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Mar 12
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Mon Mar 17
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Mar 19
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Mon Mar 24
     title: "No Lecture (Spring Break)"
     nonumber: True
@@ -88,18 +102,22 @@ lctures:
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Apr 2
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Mon Apr 7
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Apr 9
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Thu Apr 10
     title: 'Midterm 2'
     nonumber: True
@@ -108,26 +126,32 @@ lctures:
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Apr 16
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Mon Apr 21
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Apr 23
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Mon Apr 28
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Wed Apr 30
     topic: 
     edThread: 
     reading: 
+    slides: 
   - # Tue May 13
     title: 'Final Exam'
     nonumber: True
