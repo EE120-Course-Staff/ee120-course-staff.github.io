@@ -6,7 +6,7 @@ lectures:
   #   reading: Name of textbook and chapters to read
   - # Wed Jan 22
     topic: Introduction
-    recording: 
+    recording: https://bcourses.berkeley.edu/courses/1542501/external_tools/90481 
     edThread: 
     slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=90783180
     reading: Oppenheim 1.1, 1.4.1, 1.6.5-6, 2.1.1
