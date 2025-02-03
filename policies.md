@@ -226,7 +226,7 @@ We will have 2 midterms and a final this semester. These midterms will be held *
 
 **Midterm 1 Exam Time:** Thursday February 27th 7 - 9 PM @ Multiple Locations (Assigned rooms)
 
-**Midterm 2 Exam Time:** Thursday April 10th 7 - 9 PM @ TBA
+**Midterm 2 Exam Time:** Thursday April 10th 7 - 9 PM @ Genetics & Plant Biology Building 100
 
 **Final Exam Time:** Tuesday May 13th 11:30 AM - 2:30 PM @ TBA
 
