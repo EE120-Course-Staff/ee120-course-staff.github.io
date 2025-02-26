@@ -53,10 +53,9 @@ lectures:
     reading: 
     slides: 
   - # Wed Feb 26
-    topic: 
-    edThread: 
-    reading: 
-    slides: 
+    title: 'Review Session'
+    edThread: https://edstem.org/us/courses/74275/discussion/6259046
+    nonumber: True
   - # Thu Feb 27
     title: 'Midterm 1'
     nonumber: True
@@ -113,10 +112,8 @@ lectures:
     reading: 
     slides: 
   - # Wed Apr 9
-    topic: 
-    edThread: 
-    reading: 
-    slides: 
+    title: "No Lecture"
+    nonumber: True
   - # Thu Apr 10
     title: 'Midterm 2'
     nonumber: True
