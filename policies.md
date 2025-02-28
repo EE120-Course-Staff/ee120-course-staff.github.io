@@ -191,13 +191,13 @@ You will self-grade your problem sets. Labs will have both autograded and self-g
 
 As assignments exist to encourage learning, not to punish small mistakes, the self-graded portion of each assignment will be scaled up by 1.25 and capped out at full credit. This means an 8/10 on a self-grade will be scaled up to a 10/10.
 
-You may submit a self-grade up to **three days** late for **50% credit**. **No self-grades will be accepted after this late deadline (outside of DSP-related accommodations).**
+You may submit a self-grade up to **two days** late for **50% credit**. **No self-grades will be accepted after this late deadline (outside of DSP-related accommodations).**
 
 The purpose of the self-grade assignments strategy is to encourage you to look over the solutions and use it to check your answers.  We hope it offers a chance to self-assess your understanding of the class content to prepare better for exams. As an oversight measure against inflationary self-grading, we conduct random checks at our discretion, and without notice.
 
 ### Timeline
 
-Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self-grades for both homeworks and labs will be due a week after the end after the corresponding assignment grace period.** Homework self-grades will usually be due on Tuesdays and lab self-grades will usually be due on Fridays. Self-grades will be accepted up to **three days** after this deadline for **50% credit**.
+Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self-grades for both homeworks and labs will be due a week after the end after the corresponding assignment grace period.** Homework self-grades will usually be due on Tuesdays and lab self-grades will usually be due on Fridays. Self-grades will be accepted up to **two days** after this deadline for **50% credit**.
 
 ### Instructions
 
