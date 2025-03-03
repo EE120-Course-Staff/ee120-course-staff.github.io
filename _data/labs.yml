@@ -29,8 +29,8 @@ labs:
   solutions: 
 - # Lab 2
   rowspan: 5
-  due: # "Thu Feb 6th"
-  lab: 
+  due: "Thu Mar 6"
+  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks.git&urlpath=tree%2Flab-filters-for-stocks.git%2Flab2.ipynb&branch=main
   solutions: 
 - # Lab 3
   rowspan: 4
