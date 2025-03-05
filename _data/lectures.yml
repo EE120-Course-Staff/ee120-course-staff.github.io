@@ -61,14 +61,14 @@ lectures:
     nonumber: True
     isExam: True
   - # Mon Mar 3
-    topic: 
-    edThread: 
-    reading: 
-    slides: 
+    topic: CT State Space, IAG, Feedback
+    edThread: https://edstem.org/us/courses/74275/discussion/6300071
+    reading: Hsu 7.1-2, 7.4, 7.6, Oppenheim 11.0-1
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91142473
   - # Wed Mar 5
-    topic: 
+    topic: Feedback, DTFS
     edThread: 
-    reading: 
+    reading: Oppenheim 11.0-1, 3.0-2, 3.6
     slides: 
   - # Mon Mar 10
     topic: 
