@@ -35,8 +35,8 @@ homeworks:
   - rowspan: 3
     nonumber: True
   - # Homework 6
-    due: # Mar 10th
-    homework: 
+    due: Mar 10th
+    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%206?preview=91168495
     solutions: 
   - # Homework 7
     due: # Mar 17th
