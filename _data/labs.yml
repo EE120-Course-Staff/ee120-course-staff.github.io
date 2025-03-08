@@ -34,18 +34,18 @@ labs:
   solutions: 
 - # Lab 3
   rowspan: 4
-  due: # "Thu Mar 20th"
-  lab: 
+  due: "Thu Mar 20"
+  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main
   solutions: 
 - nonumber: True
   rowspan: 2
 - # Lab 4
   rowspan: 5
-  due: # "Thu Apr 17th"
+  due: # "Thu Apr 17"
   lab: 
   solutions: 
 - # Lab 5
   rowspan: 6
-  due: # "Thu May 1st"
+  due: # "Thu May 1"
   lab: 
   solutions: 
