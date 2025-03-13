@@ -31,7 +31,7 @@ labs:
   rowspan: 5
   due: "Thu Mar 6"
   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks.git&urlpath=tree%2Flab-filters-for-stocks.git%2Flab2.ipynb&branch=main
-  solutions: 
+  solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Labs/Lab%202?preview=91195950
 - # Lab 3
   rowspan: 4
   due: "Thu Mar 20"
