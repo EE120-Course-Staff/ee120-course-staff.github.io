@@ -72,23 +72,23 @@ lectures:
     slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91169439
   - # Mon Mar 10
     topic: DTFS
-    edThread: 
+    edThread: https://edstem.org/us/courses/74275/discussion/6344826
     reading: Oppenheim 3.0-2, 3.6-7
-    slides: 
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91223248 
   - # Wed Mar 12
     topic: DTFS, DFT, FFT
-    edThread: 
-    reading: 
+    edThread: https://edstem.org/us/courses/74275/discussion/6359751
+    reading: Oppenheim 3.0-2, 3.6-7
     slides: 
   - # Mon Mar 17
-    topic: 
+    topic: CTFS
     edThread: 
-    reading: 
+    reading: Oppenheim 3.3-5
     slides: 
   - # Wed Mar 19
-    topic: 
+    topic: CTFS, DTFT
     edThread: 
-    reading: 
+    reading: Oppenheim 3.3-5, 5.0-7
     slides: 
   - # Mon Mar 24
     title: "No Lecture (Spring Break)"
@@ -97,14 +97,14 @@ lectures:
     title: "No Lecture (Spring Break)"
     nonumber: True
   - # Mon Mar 31
-    topic: 
+    topic: DTFT
     edThread: 
-    reading: 
+    reading: Oppenheim 5.0-7
     slides: 
   - # Wed Apr 2
-    topic: 
+    topic: DTFT, CTFT
     edThread: 
-    reading: 
+    reading: Oppenheim 5.0-7, 4.0-6
     slides: 
   - # Mon Apr 7
     topic: 
