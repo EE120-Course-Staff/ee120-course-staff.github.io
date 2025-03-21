@@ -40,12 +40,12 @@ homeworks:
     solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%206?preview=91235833
   - # Homework 7
     due: Mar 18th
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%207?preview=91236503
-    solutions: 
+    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%207?preview=91280142
+    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%207?preview=91315045
   - # Homework 8
     rowspan: 6
-    due: # Apr 7th
-    homework: 
+    due: Apr 7th
+    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%208?preview=91315213
     solutions: 
   - rowspan: 3
     nonumber: True
