@@ -36,13 +36,13 @@ labs:
   rowspan: 4
   due: "Thu Mar 20"
   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main
-  solutions: 
+  solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Labs/Lab%203?preview=91365243
 - nonumber: True
   rowspan: 2
 - # Lab 4
   rowspan: 5
-  due: # "Thu Apr 17"
-  lab: 
+  due: "Thu Apr 17"
+  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis.git&urlpath=tree%2Flab-fft-heart-rate-analysis.git%2Flab4.ipynb&branch=main
   solutions: 
 - # Lab 5
   rowspan: 6
