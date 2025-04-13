@@ -79,17 +79,17 @@ lectures:
     topic: DTFS, DFT, FFT
     edThread: https://edstem.org/us/courses/74275/discussion/6359751
     reading: Oppenheim 3.0-2, 3.6-7
-    slides: 
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91276458
   - # Mon Mar 17
     topic: CTFS
     edThread: 
     reading: Oppenheim 3.3-5
-    slides: 
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91289632
   - # Wed Mar 19
     topic: CTFS, DTFT
-    edThread: 
+    edThread: https://edstem.org/us/courses/74275/discussion/6400130
     reading: Oppenheim 3.3-5, 5.0-7
-    slides: 
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91307906
   - # Mon Mar 24
     title: "No Lecture (Spring Break)"
     nonumber: True
@@ -98,19 +98,19 @@ lectures:
     nonumber: True
   - # Mon Mar 31
     topic: DTFT
-    edThread: 
+    edThread: https://edstem.org/us/courses/74275/discussion/6454070
     reading: Oppenheim 5.0-7
-    slides: 
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91364042
   - # Wed Apr 2
     topic: DTFT, CTFT
     edThread: 
     reading: Oppenheim 5.0-7, 4.0-6
-    slides: 
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91413055
   - # Mon Apr 7
-    topic: 
-    edThread: 
-    reading: 
-    slides: 
+    topic: CTFT
+    edThread: https://edstem.org/us/courses/74275/discussion/6494735
+    reading: Oppenheim 4.0-6
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91428748
   - # Wed Apr 9
     title: "No Lecture"
     nonumber: True
@@ -119,12 +119,12 @@ lectures:
     nonumber: True
     isExam: True
   - # Mon Apr 14
-    topic: 
+    topic: CTFT, Modulation, Sampling
     edThread: 
-    reading: 
+    reading: Oppenheim 4.0-6, 8.0-8.1, 8.2.1, 7.0-7.6
     slides: 
   - # Wed Apr 16
-    topic: 
+    topic: Sampling
     edThread: 
     reading: 
     slides: 
