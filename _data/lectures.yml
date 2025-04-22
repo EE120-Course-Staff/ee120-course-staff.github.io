@@ -120,28 +120,28 @@ lectures:
     isExam: True
   - # Mon Apr 14
     topic: CTFT, Modulation, Sampling
-    edThread: 
+    edThread: https://edstem.org/us/courses/74275/discussion/6536937
     reading: Oppenheim 4.0-6, 8.0-8.1, 8.2.1, 7.0-7.6
-    slides: 
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91485928
   - # Wed Apr 16
     topic: Sampling
-    edThread: 
-    reading: 
-    slides: 
+    edThread: https://edstem.org/us/courses/74275/discussion/6550961
+    reading: Oppenheim 7.0-4
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91515756
   - # Mon Apr 21
-    topic: 
-    edThread: 
-    reading: 
-    slides: 
+    topic: Sampling, Z-transform
+    edThread: https://edstem.org/us/courses/74275/discussion/6579588
+    reading: Oppenheim 7.0-4, 10.0-8
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91546867
   - # Wed Apr 23
-    topic: 
+    topic: Z-transform
     edThread: 
-    reading: 
+    reading: Oppenheim 10.0-8
     slides: 
   - # Mon Apr 28
-    topic: 
+    topic: Z-transform, Laplace Transform
     edThread: 
-    reading: 
+    reading: Oppenheim 10.0-8, 9.0-7, 9.9
     slides: 
   - # Wed Apr 30
     topic: 
