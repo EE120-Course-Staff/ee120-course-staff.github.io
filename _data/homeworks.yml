@@ -52,10 +52,15 @@ homeworks:
   - # Homework 9
     due: Apr 21st
     homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%209?preview=91512121
-    solutions: 
+    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%209?preview=91571613
   - # Homework 10
+    rowspan: 2
+    due: # 'Apr 28'
+    homework: 
+    solutions: 
+  - # Homework 11
     rowspan: 4
-    due: # 'never'
+    due: # '(never)'
     title: "(optional)"
     homework: 
     solutions: 
