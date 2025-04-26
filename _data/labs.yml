@@ -43,9 +43,9 @@ labs:
   rowspan: 5
   due: "Thu Apr 17"
   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis.git&urlpath=tree%2Flab-fft-heart-rate-analysis.git%2Flab4.ipynb&branch=main
-  solutions: 
+  solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Labs/Lab%204?
 - # Lab 5
   rowspan: 6
-  due: # "Thu May 1"
-  lab: 
+  due: "Sat May 3"
+  lab: https://edstem.org/us/courses/74275/discussion/6590326
   solutions: 
