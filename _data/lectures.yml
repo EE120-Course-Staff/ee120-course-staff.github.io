@@ -129,25 +129,22 @@ lectures:
     reading: Oppenheim 7.0-4
     slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91515756
   - # Mon Apr 21
-    topic: Sampling, Z-transform
+    topic: Sampling, Z-Transform
     edThread: https://edstem.org/us/courses/74275/discussion/6579588
     reading: Oppenheim 7.0-4, 10.0-8
     slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91546867
   - # Wed Apr 23
-    topic: Z-transform
-    edThread: 
-    reading: Oppenheim 10.0-8
-    slides: 
+    topic: Laplace Transform
+    edThread: https://edstem.org/us/courses/74275/discussion/6594154
+    reading: Oppenheim 9.0-7, 9.9
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91572633
   - # Mon Apr 28
-    topic: Z-transform, Laplace Transform
-    edThread: 
-    reading: Oppenheim 10.0-8, 9.0-7, 9.9
-    slides: 
+    topic: 2D Fourier Transform
+    edThread: https://edstem.org/us/courses/74275/discussion/6623232
+    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91623370
   - # Wed Apr 30
-    topic: 
-    edThread: 
-    reading: 
-    slides: 
+    topic: "Guest Lecture: Professor Alex Dimakis"
+    edThread: https://edstem.org/us/courses/74275/discussion/6636278
   - # Tue May 13
     title: 'Final Exam'
     nonumber: True
