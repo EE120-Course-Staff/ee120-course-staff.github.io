@@ -20,32 +20,32 @@ labs:
   rowspan: 5
   due: "never"
   title: "(optional)"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction&urlpath=tree%2Flab-0-introduction%2Flab0.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Labs/Lab%200?preview=90865280
+  lab:
+  solutions:
 - # Lab 1
   rowspan: 4
-  due: "Thu Feb 20"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Labs/Lab%201?preview=91057430
+  due: "Fri Sep 26"
+  lab:
+  solutions:
 - # Lab 2
   rowspan: 5
-  due: "Thu Mar 6"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks.git&urlpath=tree%2Flab-filters-for-stocks.git%2Flab2.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Labs/Lab%202?preview=91195950
+  due: "Fri Oct 10"
+  lab:
+  solutions:
 - # Lab 3
   rowspan: 4
-  due: "Thu Mar 20"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Labs/Lab%203?preview=91365243
+  due: "Fri Oct 24"
+  lab:
+  solutions:
 - nonumber: True
   rowspan: 2
 - # Lab 4
   rowspan: 5
-  due: "Thu Apr 17"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis.git&urlpath=tree%2Flab-fft-heart-rate-analysis.git%2Flab4.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Labs/Lab%204?
+  due: "Fri Nov 21"
+  lab:
+  solutions:
 - # Lab 5
   rowspan: 6
-  due: "Sat May 3"
-  lab: https://edstem.org/us/courses/74275/discussion/6590326
-  solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Labs/Lab%205
+  due: "Fri Dec 5"
+  lab:
+  solutions:

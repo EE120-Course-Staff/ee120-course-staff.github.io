@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EE 120 Spring 2025
+title: EE 120 Fall 2025
 description: Signals and Systems at UC Berkeley
 baseurl: # '/~ee120/sp23' # (temporary) the subpath of your site, e.g. /blog
 url: https://ee120-course-staff.github.io # https://inst.eecs.berkeley.edu
@@ -28,8 +28,8 @@ permalink: pretty
 aux_links:
   Dark Mode:
     - '#'
-  Lecture/Discussion Playlist:
-    - 'https://bcourses.berkeley.edu/courses/1542501/external_tools/90481'
+  # Lecture/Discussion Playlist:
+  #   - 'https://bcourses.berkeley.edu/courses/1542501/external_tools/90481'
   # Self-Grade Form:
   #   - 'https://ee120-course-staff.github.io/selfgrade-form/'
   Discussion Attendance Form:
@@ -86,4 +86,4 @@ callouts:
 
 # CS 188 custom config variable
 # Set this to true at the start of semesters to show a warning on the homepage
-under_construction: false
+under_construction: true

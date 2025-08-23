@@ -13,54 +13,54 @@ homeworks:
   #   solutions: link to the solutions pdf
   #   selfGrade: link to self grade form
   - # Homework 1
-    due: Jan 27th
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%201?preview=90780031
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%201?preview=90838463
+    due: # Sep 2
+    homework:
+    solutions:
   - # Homework 2
-    due: Feb 3rd
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%202?preview=90838546
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%202?preview=90897427
+    due: # Sep 9
+    homework:
+    solutions:
   - # Homework 3
-    due: Feb 10th
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%203?preview=90897400
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%203?preview=90963590
+    due: # Sep 16
+    homework:
+    solutions:
   - # Homework 4
-    due: Feb 18th
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%204?preview=90963595
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%204?preview=91034765
+    due: # Sep 24
+    homework:
+    solutions:
   - # Homework 5
-    due: Feb 24th
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%205?preview=91025889
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%205?preview=91090506
+    due: # Sep 30
+    homework:
+    solutions:
   - rowspan: 3
     nonumber: True
   - # Homework 6
-    due: Mar 10th
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%206?preview=91168495
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%206?preview=91235833
+    due: # Oct 14
+    homework:
+    solutions:
   - # Homework 7
-    due: Mar 18th
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%207?preview=91280142
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%207?preview=91315045
+    due: # Oct 22
+    homework:
+    solutions:
   - # Homework 8
     rowspan: 6
-    due: Apr 7th
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%208?preview=91315213
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%208?preview=91449694
+    due: # Nov 11
+    homework:
+    solutions:
   - rowspan: 3
     nonumber: True
   - # Homework 9
-    due: Apr 21st
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%209?preview=91512121
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%209?preview=91571613
+    due: # Nov 25
+    homework:
+    solutions:
   - # Homework 10
     rowspan: 2
-    due: Apr 28th
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%2010?preview=91571551
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%2010?preview=91642420
+    due: # Dec 2
+    homework:
+    solutions:
   - # Homework 11
     rowspan: 4
-    due: # '(never)'
+    due: # (never)
     title: "(optional)"
-    homework: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%2011?preview=91642453
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Homeworks/Homework%2011?preview=91685233
+    homework:
+    solutions:

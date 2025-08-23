@@ -4,148 +4,164 @@ lectures:
   #   edThread: link to the ed thread
   #   slides: link to the slides
   #   reading: Name of textbook and chapters to read
-  - # Wed Jan 22
-    topic: Introduction
-    edThread: https://edstem.org/us/courses/74275/discussion/6045089
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=90783180
-    reading: Oppenheim 1.1, 1.4.1, 1.6.5-6, 2.1.1
-  - # Mon Jan 27
-    topic: LTI, DT Impulse Response
-    edThread: https://edstem.org/us/courses/74275/discussion/6045779 
-    reading: Oppenheim 1.6.5-6, 2.1, 2.3.1
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=90840550
-  - # Wed Jan 29
-    topic: DT Convolution, DT Frequency Response, Eigenfunction Property
-    edThread: https://edstem.org/us/courses/74275/discussion/6061585
-    reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=90840539
-  - # Mon Feb 3
-    topic: DAGs, Periodicity
-    edThread: https://edstem.org/us/courses/74275/discussion/6096528 
-    reading: Oppenheim 3.2, 2.4.3, 1.2.2, Hsu 6.5
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=90907461
-  - # Wed Feb 5
-    topic: Periodicity, DT systems, DT Frequency Response, BIBO Stability
-    edThread: https://edstem.org/us/courses/74275/discussion/6113345 
-    reading: Oppenheim 1.2.2, 3.2, 1.6.4, Hsu 6.5
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=90907463 
-  - # Mon Feb 10
-    topic: DT BIBO Stabiity, DT Causality, DT LCCDE
-    edThread: https://edstem.org/us/courses/74275/discussion/6148197 
-    reading: Oppenheim 1.6.3-4, 2.4.2, 5.8
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=90959872 
-  - # Wed Feb 12
-    topic: DT State Space
-    edThread: https://edstem.org/us/courses/74275/discussion/6165149 
-    reading: Hsu 7.1-3, 7.5
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=90968500
-  - # Mon Feb 17
-    title: "No Lecture (Presidents' Day)"
-    nonumber: True
-  - # Wed Feb 19
-    topic: Continuous-Time Systems, CT Convolution
-    edThread: https://edstem.org/us/courses/74275/discussion/6213125 
-    reading: Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4 
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91029171
-  - # Mon Feb 24
-    topic: CT Frequency Response, CT BIBO Stability, CT Causality
-    edThread: https://edstem.org/us/courses/74275/discussion/6247222
-    reading: Hsu 2.4, Oppenheim 1.6.3-4, 4.7, 2.4.1, 2.4.3, 3.10
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91073064
-  - # Wed Feb 26
-    title: 'Review Session'
-    edThread: https://edstem.org/us/courses/74275/discussion/6259046
-    nonumber: True
-  - # Thu Feb 27
-    title: 'Midterm 1'
-    nonumber: True
-    isExam: True
-  - # Mon Mar 3
-    topic: CT State Space, IAG, Feedback
-    edThread: https://edstem.org/us/courses/74275/discussion/6300071
-    reading: Hsu 7.1-2, 7.4, 7.6, Oppenheim 11.0-1
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91142473
-  - # Wed Mar 5
-    topic: Feedback, DTFS
-    edThread: https://edstem.org/us/courses/74275/discussion/6315762
-    reading: Oppenheim 11.0-1, 3.0-2, 3.6
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91169439
-  - # Mon Mar 10
-    topic: DTFS
-    edThread: https://edstem.org/us/courses/74275/discussion/6344826
-    reading: Oppenheim 3.0-2, 3.6-7
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91223248 
-  - # Wed Mar 12
-    topic: DTFS, DFT, FFT
-    edThread: https://edstem.org/us/courses/74275/discussion/6359751
-    reading: Oppenheim 3.0-2, 3.6-7
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91276458
-  - # Mon Mar 17
-    topic: CTFS
-    edThread: 
-    reading: Oppenheim 3.3-5
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91289632
-  - # Wed Mar 19
-    topic: CTFS, DTFT
-    edThread: https://edstem.org/us/courses/74275/discussion/6400130
-    reading: Oppenheim 3.3-5, 5.0-7
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91307906
-  - # Mon Mar 24
-    title: "No Lecture (Spring Break)"
-    nonumber: True
-  - # Wed Mar 26
-    title: "No Lecture (Spring Break)"
-    nonumber: True
-  - # Mon Mar 31
-    topic: DTFT
-    edThread: https://edstem.org/us/courses/74275/discussion/6454070
-    reading: Oppenheim 5.0-7
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91364042
-  - # Wed Apr 2
-    topic: DTFT, CTFT
-    edThread: 
-    reading: Oppenheim 5.0-7, 4.0-6
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91413055
-  - # Mon Apr 7
-    topic: CTFT
-    edThread: https://edstem.org/us/courses/74275/discussion/6494735
-    reading: Oppenheim 4.0-6
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91428748
-  - # Wed Apr 9
-    title: "No Lecture"
-    nonumber: True
-  - # Thu Apr 10
-    title: 'Midterm 2'
-    nonumber: True
-    isExam: True
-  - # Mon Apr 14
-    topic: CTFT, Modulation, Sampling
-    edThread: https://edstem.org/us/courses/74275/discussion/6536937
-    reading: Oppenheim 4.0-6, 8.0-8.1, 8.2.1, 7.0-7.6
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91485928
-  - # Wed Apr 16
-    topic: Sampling
-    edThread: https://edstem.org/us/courses/74275/discussion/6550961
-    reading: Oppenheim 7.0-4
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91515756
-  - # Mon Apr 21
-    topic: Sampling, Z-Transform
-    edThread: https://edstem.org/us/courses/74275/discussion/6579588
-    reading: Oppenheim 7.0-4, 10.0-8
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91546867
-  - # Wed Apr 23
-    topic: Laplace Transform
-    edThread: https://edstem.org/us/courses/74275/discussion/6594154
-    reading: Oppenheim 9.0-7, 9.9
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91572633
-  - # Mon Apr 28
-    topic: 2D Fourier Transform
-    edThread: https://edstem.org/us/courses/74275/discussion/6623232
-    slides: https://bcourses.berkeley.edu/courses/1542501/files/folder/Lecture%20Notes?preview=91623370
-  - # Wed Apr 30
-    topic: "Guest Lecture: Professor Alex Dimakis"
-    edThread: https://edstem.org/us/courses/74275/discussion/6636278
-  - # Tue May 13
-    title: 'Final Exam'
-    nonumber: True
-    isExam: True
+  - # Wed Aug 27
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Sep 1
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Sep 3
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Sep 8
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Sep 10
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Sep 15
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Sep 17
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Sep 22
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Sep 24
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Sep 29
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Oct 1
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Thu Oct 2
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Oct 6
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Oct 8
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Oct 13
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Oct 15
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Oct 20
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Oct 22
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Oct 27
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Oct 29
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Nov 3
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Nov 5
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Nov 10
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Nov 12
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Thu Nov 13
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Nov 17
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Nov 19
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Nov 24
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Nov 26
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Mon Dec 1
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Dec 3
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Tue Dec 16
+    topic:
+    recording:
+    edThread:
+    reading:
+

@@ -12,42 +12,42 @@ discussions:
   #   walkthrough: link to the walkthrough video
   - rowspan: 1
     nonumber: True
-  - # Discussion 1 -- Friday Jan 31
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%201?preview=90846920
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%201?preview=90857662
-  - # Discussion 2 -- Friday Feb 7
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%202?preview=90919822
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%202?preview=90921688
-  - # Discussion 3 -- Friday Feb 14
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%203?preview=90981158
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%203?preview=90988639
-  - # Discussion 4 -- Friday Feb 21
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%204?preview=91038923
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%204?preview=91050735
+  - # Discussion 1 -- Friday Sep 5
+    worksheet:
+    solutions:
+  - # Discussion 2 -- Friday Sep 12
+    worksheet:
+    solutions:
+  - # Discussion 3 -- Friday Sep 19
+    worksheet:
+    solutions:
+  - # Discussion 4 -- Friday Sep 26
+    worksheet:
+    solutions:
   - rowspan: 3
     nonumber: True
-  - # Discussion 5 -- Friday Mar 7
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%205?preview=91181687
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%205?preview=91186896
-  - # Discussion 6 -- Friday Mar 14
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%206?preview=91250284
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%206?preview=91260231
-  - # Discussion 7 -- Friday Mar 21
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%207?preview=91304914
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%207?preview=91331823
+  - # Discussion 5 -- Friday Oct 10
+    worksheet:
+    solutions:
+  - # Discussion 6 -- Friday Oct 17
+    worksheet:
+    solutions:
+  - # Discussion 7 -- Friday Oct 24
+    worksheet:
+    solutions:
   - rowspan: 2
     nonumber: True
-  - # Discussion 8 -- Friday Apr 4
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%208?preview=91394978
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%208?preview=91398387
+  - # Discussion 8 -- Friday Nov 7
+    worksheet:
+    solutions:
   - rowspan: 3
     nonumber: True
-  - # Discussion 9 -- Friday Apr 18
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%209?preview=91510805
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%209?preview=91561138
-  - # Discussion 10 -- Friday Apr 25
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%2010?preview=91585334
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%2010?preview=91593413
-  - # Discussion 11 -- Friday May 2
-    worksheet: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%2011?preview=91658033
-    solutions: https://bcourses.berkeley.edu/courses/1542501/files/folder/Discussions/Discussion%2011?preview=91665742
+  - # Discussion 9 -- Friday Nov 21
+    worksheet:
+    solutions:
+  - # Discussion 10 -- Friday Nov 28
+    worksheet:
+    solutions:
+  - # Discussion 11 -- Friday Dec 5
+    worksheet:
+    solutions:
