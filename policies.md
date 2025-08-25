@@ -72,14 +72,14 @@ subsampling, gentle introduction to multi-rate processing systems
 
 All official course communication will be through Ed and email. BCourses and Gradescope are for resource storage and assignment submission. We will also maintain the course website for your convenience.
 
-To contact staff admin directly (Professor Waller, Edward, and Chaoying), please send an email to [ee120-sp25-admin@lists.berkeley.edu](mailto:ee120-sp25-admin@lists.berkeley.edu).
+To contact staff admin directly (Professor Dimakis and Chaoying), please send an email to [ee120-fa25-admin@lists.berkeley.edu](mailto:ee120-fa25-admin@lists.berkeley.edu).
 
 
 ## Lecture
 
 **Time**: Mon/Wed 2 PM - 4 PM
 
-**Location**: Dwinelle 145
+**Location**: Physics Building 4
 
 **Recordings**: Lecture recordings will be posted to the Media Gallery on bCourses. However, we reserve the right to withold recordings if attendance drops too low.
 
@@ -96,8 +96,8 @@ We will post the worksheet to bCourses and Ed on Friday mornings.
 
 ### Times and Locations
 
-* Dwinelle 182 @ 11:00am - 12:00pm
-* Hearst Mining 310 @ 12:00pm - 1:00pm
+* Cory 540AB @ 11:00am - 12:00pm
+* Cory 540AB @ 12:00pm - 1:00pm
 * Dwinelle 182 @ 1:00pm - 2:00pm
 
 
@@ -136,7 +136,7 @@ You will submit your work through **Gradescope**. You have several options for s
 2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
 3. Use your own sheets of paper, but demarcate clearly the space for each problem, part, and subpart. You must not exceed the amount of space allotted in this official problem set document. Then upload a PDF file.
 
-**The first problem set will be released on Wednesday Jan 22nd and will be due on Monday Jan 27th at 11:59pm, with grace period until Tuesday Jan 28th at 11:59pm.**
+**The first problem set will be released on Wednesday Aug 27th and will be due on Monday Sep 1st at 11:59pm, with grace period until Tuesday Sep 2nd at 11:59pm.**
 
 ### Lab Logistics
 
@@ -224,11 +224,11 @@ Self grades will be released, along with assignment solutions, when the grace pe
 
 We will have 2 midterms and a final this semester. These midterms will be held **in-person** on the following dates:
 
-**Midterm 1 Exam Time:** Thursday February 27th 7 - 9 PM @ Multiple Locations (Assigned rooms)
+**Midterm 1 Exam Time:** Wednesday October 1st 2 - 4 PM @ TBA
 
-**Midterm 2 Exam Time:** Thursday April 10th 7 - 9 PM @ Genetics & Plant Biology Building 100
+**Midterm 2 Exam Time:** Wednesday November 12th 2 - 4 PM @ TBA
 
-**Final Exam Time:** Tuesday May 13th 11:30 AM - 2:30 PM @ TBA
+**Final Exam Time:** Tuesday December 18th 3 - 6 PM @ TBA
 
 We will release more exam logistics in Ed posts before each exam.
 
@@ -242,11 +242,11 @@ You will be eligible for the clobber policy if you complete both of the clobber 
 These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
 * Homework Party: Mondays 5 PM - 7 PM @ Cory 400
-* Professor Waller: Monday 9 AM - 10 AM @ Cory 514
+* Professor Dimakis: 
 
 
 ## Homework Party
-We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week. Homework party will start on January 27th.
+We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week. Homework party will start on September 1st.
 
 
 ## Grading
@@ -257,9 +257,9 @@ We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask que
 * **Labs**: 10% (We drop the lowest score)
 
 ## DSP
-UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns by emailing [ee120-sp25-admin@lists.berkeley.edu](mailto:ee120-sp25-admin@lists.berkeley.edu). If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about the DSP application process [here](https://dsp.berkeley.edu/students/new-students/application-process). We are available if you have any questions or concerns about your accommodations, but in the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with us toward a resolution.
+UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns by emailing [ee120-fa25-admin@lists.berkeley.edu](mailto:ee120-fa25-admin@lists.berkeley.edu). If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about the DSP application process [here](https://dsp.berkeley.edu/students/new-students/application-process). We are available if you have any questions or concerns about your accommodations, but in the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with us toward a resolution.
 
-Please submit your DSP letters of accommodation through email to [ee120-sp25-admin@lists.berkeley.edu](mailto:ee120-sp25-admin@lists.berkeley.edu) as soon as possible. If you are uncertain as to whether you will use the accommodation, it is much better to have the accommodation in place than to scramble at the last minute should you need it. Accommodations are not retroactive, so course staff is not responsible for providing accommodations prior to the receipt of an accommodation letter (although if you have extenuating circumstances, we may be able to make temporary adjustments). The more lead time that you provide admin staff, the easier it is for us to arrange your accommodations. Contact us through the admin email for any DSP-related concerns, including but not limited to assignments and exams. Be mindful that it might not be possible to accommodate last-minute requests, depending on your accommodation needs.
+Please submit your DSP letters of accommodation through email to [ee120-fa25-admin@lists.berkeley.edu](mailto:ee120-fa25-admin@lists.berkeley.edu) as soon as possible. If you are uncertain as to whether you will use the accommodation, it is much better to have the accommodation in place than to scramble at the last minute should you need it. Accommodations are not retroactive, so course staff is not responsible for providing accommodations prior to the receipt of an accommodation letter (although if you have extenuating circumstances, we may be able to make temporary adjustments). The more lead time that you provide admin staff, the easier it is for us to arrange your accommodations. Contact us through the admin email for any DSP-related concerns, including but not limited to assignments and exams. Be mindful that it might not be possible to accommodate last-minute requests, depending on your accommodation needs.
 
 
 ## Optional Course Materials
