@@ -25,7 +25,7 @@ description: A listing of all the course staff members.
 {% endfor %}
 {% endif %}
 
-<!-- ## UCS2s -->
+## UCS2s
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'TA' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
