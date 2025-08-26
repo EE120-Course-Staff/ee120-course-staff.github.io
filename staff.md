@@ -25,6 +25,8 @@ description: A listing of all the course staff members.
 {% endfor %}
 {% endif %}
 
+<!-- ## UCS2s -->
+
 {% assign teaching_assistants = site.staffers | where: 'role', 'TA' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
@@ -34,11 +36,11 @@ description: A listing of all the course staff members.
 {% endfor %}
 {% endif %}
 
-## UCS2s
 
 {% assign ucs2s = site.staffers | where: 'role', 'UCS2' %}
 {% assign num_ucs2s = ucs2s | size %}
-{% if num_ucs2s != 0 %}
+{% if num_ucs2 != 0 %}
+## UCS2s
 
 {% for staffer in ucs2s %}
 {{ staffer }}
@@ -46,6 +48,10 @@ description: A listing of all the course staff members.
 {% endif %}
 
 
+
+{% assign ucs1s = site.staffers | where: 'role', 'UCS1' %}
+{% assign num_ucs1s = ucs1s | size %}
+{% if num_readers != 0 %}
 ## UCS1s
 
 {% for staffer in ucs1s %}
