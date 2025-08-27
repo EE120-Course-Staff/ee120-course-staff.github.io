@@ -63,10 +63,8 @@ lectures:
     edThread:
     reading:
   - # Wed Oct 8
-    topic: Midterm 1 (tentative)
-    recording:
-    edThread:
-    reading:
+    title: "Midterm 1 (tentative)"
+    nonumber: True
   - # Mon Oct 13
     topic:
     recording:
@@ -113,10 +111,8 @@ lectures:
     edThread:
     reading:
   - # Wed Nov 12
-    topic: Midterm 2 (tentative)
-    recording:
-    edThread:
-    reading:
+    title: "Midterm 2 (tentative)"
+    nonumber: True
   - # Mon Nov 17
     topic:
     recording:
