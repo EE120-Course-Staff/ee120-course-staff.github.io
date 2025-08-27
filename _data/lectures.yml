@@ -53,19 +53,19 @@ lectures:
     edThread:
     reading:
   - # Wed Oct 1
-    title: 'Midterm 1 (tentative)'
-    nonumber: True
-    isExam: True
+    topic:
+    recording:
+    edThread:
+    reading:
   - # Mon Oct 6
     topic:
     recording:
     edThread:
     reading:
   - # Wed Oct 8
-    topic:
-    recording:
-    edThread:
-    reading:
+    title: 'Midterm 1 (tentative)'
+    nonumber: True
+    isExam: True
   - # Mon Oct 13
     topic:
     recording:
