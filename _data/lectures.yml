@@ -10,10 +10,8 @@ lectures:
     edThread:
     reading:
   - # Mon Sep 1
-    topic:
-    recording:
-    edThread:
-    reading:
+    title: "No Lecture (Labor Day)"
+    nonumber: True
   - # Wed Sep 3
     topic:
     recording:
@@ -55,7 +53,7 @@ lectures:
     edThread:
     reading:
   - # Wed Oct 1
-    title: 'Midterm 1'
+    title: 'Midterm 1 (tentative)'
     nonumber: True
     isExam: True
   - # Mon Oct 6
@@ -114,7 +112,7 @@ lectures:
     edThread:
     reading:
   - # Wed Nov 12
-    title: 'Midterm 2'
+    title: 'Midterm 2 (tentative)'
     nonumber: True
     isExam: True
   - # Mon Nov 17
@@ -133,10 +131,8 @@ lectures:
     edThread:
     reading:
   - # Wed Nov 26
-    topic:
-    recording:
-    edThread:
-    reading:
+    title: "No Lecture (Thanksgiving)"
+    nonumber: True
   - # Mon Dec 1
     topic:
     recording:
