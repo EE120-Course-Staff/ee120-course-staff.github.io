@@ -1,43 +1,60 @@
 <td class="{{ include.is_even }}" rowspan="{{ include.rowspan }}">
 
-{%- if include.element.nonumber and include.element.isExam-%}
-  <b>{{ include.element.title | markdownify }}</b>
-{%- elsif include.element.title and include.element.isExam -%}
-  <b>{{ include.number }}. {{ include.element.title }}</b>
-{%- elsif include.element.nonumber -%}
-  {{ include.element.title | markdownify }}
-{%- else -%}
-  <div class="lecture-title">Lecture {{ include.number }}</div>
-{%- endif -%}
-
-{%- if include.element.topic -%}
-  {{ include.element.topic }}
-{%- endif -%}
-
-{%- if include.element.reading -%}
+  {%- comment -%}
+    Title / numbering block
+  {%- endcomment -%}
+  {%- if include.element.nonumber and include.element.isExam -%}
+    <b>{{ include.element.title | markdownify }}</b>
+  {%- elsif include.element.title and include.element.isExam -%}
+    <b>{{ include.number }}. {{ include.element.title }}</b>
+  {%- elsif include.element.nonumber -%}
+    {{ include.element.title | markdownify }}
+  {%- else -%}
+    <div class="lecture-title">Lecture {{ include.number }}</div>
+  {%- endif -%}
+  
   {%- if include.element.topic -%}
+    {{ include.element.topic }}
+  {%- endif -%}
+  
+  {%- if include.element.reading -%}
+    {%- if include.element.topic -%}<br>{%- endif -%}
+    {{ include.element.reading }}
+  {%- endif -%}
+  
+  {%- if (include.element.topic or include.element.reading) and (include.element.recording or include.element.slides or include.element.edThread) -%}
     <br>
   {%- endif -%}
-  {{ include.element.reading }}
-{%- endif -%}
-
-{%- if (include.element.topic or include.element.reading) and (include.element.recording or include.element.slides or include.element.edThread) -%}
-  <br>
-{%- endif -%}
-
-{%- if include.element.recording and include.element.slides and include.element.edThread -%}
-  <a href="{{ include.element.recording }}">Recording</a> / <a href="{{ include.element.slides }}">Slides</a> / <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
-{%- elsif include.element.recording and include.element.slides -%}
-  <a href="{{ include.element.recording }}">Recording</a>/ <a href="{{ include.element.slides }}">Slides</a>
-{%- elsif include.element.recording and include.element.edThread -%}
-  <a href="{{ include.element.recording }}">Recording</a> / <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a> 
-{%- elsif include.element.slides and include.element.edThread -%}
-  <a href="{{ include.element.slides }}">Slides</a> / <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
-{%- elsif include.element.recording -%}
-  <a href="{{ include.element.recording }}">Recording</a>
-{%- elsif include.element.slides -%}
-  <a href="{{ include.element.slides }}">Slides</a>
-{%- elsif include.element.edThread -%}
-  <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
-{%- endif -%}
-</td>
+  
+  {%- if include.element.recording and include.element.slides and include.element.edThread -%}
+    <a href="{{ include.element.recording }}">Recording</a> / <a href="{{ include.element.slides }}">Slides</a> / <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
+  {%- elsif include.element.recording and include.element.slides -%}
+    <a href="{{ include.element.recording }}">Recording</a> / <a href="{{ include.element.slides }}">Slides</a>
+  {%- elsif include.element.recording and include.element.edThread -%}
+    <a href="{{ include.element.recording }}">Recording</a> / <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
+  {%- elsif include.element.slides and include.element.edThread -%}
+    <a href="{{ include.element.slides }}">Slides</a> / <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
+  {%- elsif include.element.recording -%}
+    <a href="{{ include.element.recording }}">Recording</a>
+  {%- elsif include.element.slides -%}
+    <a href="{{ include.element.slides }}">Slides</a>
+  {%- elsif include.element.edThread -%}
+    <a href="{{ include.element.edThread | relative_url }}">Ed Thread</a>
+  {%- endif -%}
+  
+  {%- comment -%}
+    SLOT CONSUMPTION / DATE ADVANCE
+    Anything with a title/topic/exam is a real meeting slot.
+    If a date counter (e.g., `date_i`) exists in the parent scope, advance it.
+    This prevents duplicates like two "Wed Oct 01" when a nonumber exam appears.
+  {%- endcomment -%}
+  {%- assign _consumes_slot = false -%}
+  {%- if include.element.isExam or include.element.topic or include.element.title -%}
+    {%- assign _consumes_slot = true -%}
+  {%- endif -%}
+  {%- if _consumes_slot and date_i -%}
+    {%- assign date_i = date_i | plus: 1 -%}
+  {%- endif -%}
+  
+  </td>
+  
