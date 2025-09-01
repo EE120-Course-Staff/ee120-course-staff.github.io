@@ -246,7 +246,7 @@ These hours are subject to change. The most up-to-date office hour times and loc
 
 
 ## Homework Party
-We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week. Homework party will start on September 1st.
+We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week. Homework parties will start on September 8th.
 
 
 ## Grading
