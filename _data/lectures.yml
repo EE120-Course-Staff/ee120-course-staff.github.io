@@ -5,15 +5,13 @@ lectures:
   #   slides: link to the slides
   #   reading: Name of textbook and chapters to read
   - # Wed Aug 27
-    topic:
+    topic: Introduction
     recording:
-    edThread:
-    reading:
+    edThread: https://edstem.org/us/courses/84089/discussion/6883643
+    reading: Oppenheim 1.1, 1.4.1, 1.6.5-6, 2.1.1
   - # Mon Sep 1
-    topic:
-    recording:
-    edThread:
-    reading:
+    title: "No Lecture (Labor Day)"
+    nonumber: True
   - # Wed Sep 3
     topic:
     recording:
@@ -55,19 +53,18 @@ lectures:
     edThread:
     reading:
   - # Wed Oct 1
-    title: 'Midterm 1'
-    nonumber: True
-    isExam: True
+    topic:
+    recording:
+    edThread:
+    reading:
   - # Mon Oct 6
     topic:
     recording:
     edThread:
     reading:
   - # Wed Oct 8
-    topic:
-    recording:
-    edThread:
-    reading:
+    title: "Midterm 1 (tentative)"
+    nonumber: True
   - # Mon Oct 13
     topic:
     recording:
@@ -114,9 +111,8 @@ lectures:
     edThread:
     reading:
   - # Wed Nov 12
-    title: 'Midterm 2'
+    title: "Midterm 2 (tentative)"
     nonumber: True
-    isExam: True
   - # Mon Nov 17
     topic:
     recording:
@@ -133,10 +129,8 @@ lectures:
     edThread:
     reading:
   - # Wed Nov 26
-    topic:
-    recording:
-    edThread:
-    reading:
+    title: "No Lecture (Thanksgiving)"
+    nonumber: True
   - # Mon Dec 1
     topic:
     recording:
@@ -147,9 +141,6 @@ lectures:
     recording:
     edThread:
     reading:
-  - # Tue Dec 16
-    topic:
-    recording:
-    edThread:
-    reading:
-
+  - # Thu Dec 18
+    title: "Final exam"
+    nonumber: True

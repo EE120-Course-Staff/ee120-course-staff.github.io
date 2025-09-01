@@ -99,6 +99,7 @@ We will post the worksheet to bCourses and Ed on Friday mornings.
 * Cory 540AB @ 11:00am - 12:00pm
 * Cory 540AB @ 12:00pm - 1:00pm
 * Dwinelle 182 @ 1:00pm - 2:00pm
+* Dwinelle 182 @ 2:00pm - 3:00pm
 
 
 ### Attendance
@@ -108,7 +109,7 @@ Attendance for discussion is not required. However, you will receive one bonus p
 Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance.
 
 
-**The first discussion is Friday Jan 31st**.
+**The first discussion is Friday Sep 4th**.
 
 
 ### COVID Reminder
@@ -130,13 +131,13 @@ To enhance and gauge your fluency with the course content, we will have two type
 
 **Submission**: Problem sets will be due the following **Monday at 11:59pm, with a one day grace period until Tuesday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment).
 
-You will submit your work through **Gradescope**. You have several options for scanning and submitting your work:
+You will submit your work through **Gradescope** (use bCourse navigation to access). You have several options for scanning and submitting your work:
 
 1. Print out the homework document and write your solutions on the printout. Then upload a PDF file of the scan.
 2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
 3. Use your own sheets of paper, but demarcate clearly the space for each problem, part, and subpart. You must not exceed the amount of space allotted in this official problem set document. Then upload a PDF file.
 
-**The first problem set will be released on Wednesday Aug 27th and will be due on Monday Sep 1st at 11:59pm, with grace period until Tuesday Sep 2nd at 11:59pm.**
+**The first problem set will be released on Wednesday Aug 27th and will be due on Tuesday Sep 2nd at 11:59pm, with grace period until Wednesday Sep 3rd at 11:59pm (extended due to Labor Day).**
 
 ### Lab Logistics
 
@@ -222,11 +223,11 @@ Self grades will be released, along with assignment solutions, when the grace pe
 
 ## Exams
 
-We will have 2 midterms and a final this semester. These midterms will be held **in-person** on the following dates:
+We will have 2 midterms and a final this semester. These midterms will be held **in-person** and **during lecture time** on the following dates:
 
-**Midterm 1 Exam Time:** Wednesday October 1st 2 - 4 PM @ TBA
+**Midterm 1 Exam Time:** Wednesday October 8th (tentative) 2 - 4 PM @ TBA
 
-**Midterm 2 Exam Time:** Wednesday November 12th 2 - 4 PM @ TBA
+**Midterm 2 Exam Time:** Wednesday November 12th (tentative) 2 - 4 PM @ TBA
 
 **Final Exam Time:** Tuesday December 18th 3 - 6 PM @ TBA
 
