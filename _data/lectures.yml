@@ -6,7 +6,7 @@ lectures:
   #   reading: Name of textbook and chapters to read
   - # Wed Aug 27
     topic: Introduction
-    recording:
+    recording: 
     edThread: https://edstem.org/us/courses/84089/discussion/6883643
     reading: Oppenheim 1.1, 1.4.1, 1.6.5-6, 2.1.1
   - # Mon Sep 1
@@ -141,6 +141,17 @@ lectures:
     recording:
     edThread:
     reading:
+  - # Wed Dec 8
+    topic:
+    recording:
+    edThread:
+    reading:
+  - # Wed Dec 10
+    topic:
+    recording:
+    edThread:
+    reading:
   - # Thu Dec 18
     title: "Final exam"
     nonumber: True
+    isExam: True
