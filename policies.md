@@ -229,7 +229,7 @@ We will have 2 midterms and a final this semester. These midterms will be held *
 
 **Midterm 2 Exam Time:** Wednesday November 12th (tentative) 2 - 4 PM @ TBA
 
-**Final Exam Time:** Tuesday December 18th 3 - 6 PM @ TBA
+**Final Exam Time:** Thursday December 18th 3 - 6 PM @ TBA
 
 We will release more exam logistics in Ed posts before each exam.
 

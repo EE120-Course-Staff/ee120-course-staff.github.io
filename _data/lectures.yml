@@ -6,17 +6,17 @@ lectures:
   #   reading: Name of textbook and chapters to read
   - # Wed Aug 27
     topic: Introduction
-    recording: 
+    recording: https://bcourses.berkeley.edu/courses/1547623/external_tools/90481
     edThread: https://edstem.org/us/courses/84089/discussion/6883643
     reading: Oppenheim 1.1, 1.4.1, 1.6.5-6, 2.1.1
   - # Mon Sep 1
     title: "No Lecture (Labor Day)"
     nonumber: True
   - # Wed Sep 3
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: LTI, DT Impulse Response, DT convolution
+    recording: https://bcourses.berkeley.edu/courses/1547623/external_tools/90481
+    edThread: https://edstem.org/us/courses/84089/discussion/6909466
+    reading: Oppenheim 1.6.5-6, 2.1, 2.3.1
   - # Mon Sep 8
     topic:
     recording:

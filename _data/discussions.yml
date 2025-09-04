@@ -13,7 +13,7 @@ discussions:
   - rowspan: 1
     nonumber: True
   - # Discussion 1 -- Friday Sep 5
-    worksheet:
+    worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%201?preview=92417999
     solutions:
   - # Discussion 2 -- Friday Sep 12
     worksheet:
