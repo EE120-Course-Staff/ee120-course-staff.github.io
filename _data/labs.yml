@@ -20,8 +20,8 @@ labs:
   rowspan: 5
   due: "never"
   title: "(optional)"
-  lab:
-  solutions:
+  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction&urlpath=tree%2Flab-0-introduction%2Flab0.ipynb&branch=main
+  solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Labs/Lab%200?preview=92421605
 - # Lab 1
   rowspan: 4
   due: "Fri Sep 26"

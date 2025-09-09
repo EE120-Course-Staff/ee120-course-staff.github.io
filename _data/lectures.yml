@@ -14,14 +14,12 @@ lectures:
     nonumber: True
   - # Wed Sep 3
     topic: LTI, DT Impulse Response, DT convolution
-    recording: https://bcourses.berkeley.edu/courses/1547623/external_tools/90481
     edThread: https://edstem.org/us/courses/84089/discussion/6909466
     reading: Oppenheim 1.6.5-6, 2.1, 2.3.1
   - # Mon Sep 8
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: DT Convolution, DT Frequency Response, Eigenfunction Property
+    edThread: https://edstem.org/us/courses/84089/discussion/6931059
+    reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
   - # Wed Sep 10
     topic:
     recording:
