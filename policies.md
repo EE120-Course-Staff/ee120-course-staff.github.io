@@ -231,6 +231,8 @@ We will have 2 midterms and a final this semester. These midterms will be held *
 
 **Final Exam Time:** Thursday December 18th 3 - 6 PM @ TBA
 
+You will be allowed one handwritten, double-sided cheatsheet for MT1, two for MT2, and three for the final. You may print a cheatsheet if it is handwritten on a tablet.
+
 We will release more exam logistics in Ed posts before each exam.
 
 ### Clobber Policy
