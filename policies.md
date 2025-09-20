@@ -198,7 +198,7 @@ The purpose of the self-grade assignments strategy is to encourage you to look o
 
 ### Timeline
 
-Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self-grades for both homeworks and labs will be due a week after the end after the corresponding assignment grace period.** Homework self-grades will usually be due on Tuesdays and lab self-grades will usually be due on Fridays. Self-grades will be accepted up to **two days** after this deadline for **50% credit**.
+Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self-grades for both homeworks and labs will be due a week after the end after the corresponding assignment grace period.** Homework self-grades will usually be due on Wednesdays and lab self-grades will usually be due on Fridays. Self-grades will be accepted up to **two days** after this deadline for **50% credit**.
 
 ### Instructions
 
