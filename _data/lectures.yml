@@ -33,15 +33,13 @@ lectures:
     edThread: https://edstem.org/us/courses/84089/discussion/6977850
     reading: Oppenheim 1.6.3-4, 2.4.2, 5.8
   - # Mon Sep 22
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic:  DT State Space
+    edThread: https://edstem.org/us/courses/84089/discussion/7012853
+    reading: Hsu 7.1-3, 7.5
   - # Wed Sep 24
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: Continuous-Time Systems, CT Convolution
+    edThread: https://edstem.org/us/courses/84089/discussion/7012857
+    reading: Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4 
   - # Mon Sep 29
     topic:
     recording:
