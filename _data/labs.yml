@@ -26,7 +26,7 @@ labs:
   rowspan: 4
   due: "Thu Sep 25"
   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main
-  solutions:
+  solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Labs/Lab%201?preview=92675031
 - # Lab 2
   rowspan: 5
   due: "Fri Oct 10"
