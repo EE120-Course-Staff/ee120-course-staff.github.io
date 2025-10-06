@@ -27,8 +27,8 @@ discussions:
   - rowspan: 3
     nonumber: True
   - # Discussion 5 -- Friday Oct 10
-    worksheet:
-    solutions:
+    worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%205?preview=92709642
+    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%205?preview=92721746
   - # Discussion 6 -- Friday Oct 17
     worksheet:
     solutions:
