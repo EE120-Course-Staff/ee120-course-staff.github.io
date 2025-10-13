@@ -41,20 +41,12 @@ lectures:
     edThread: https://edstem.org/us/courses/84089/discussion/7012857
     reading: Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4 
   - # Mon Sep 29
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: CT Frequency Response, CT BIBO Stability, CT Causality
+    reading: Hsu 2.4, Oppenheim 1.6.3-4, 4.7, 2.4.1, 2.4.3, 3.10
   - # Wed Oct 1
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: Review
   - # Mon Oct 6
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: Review
   - # Wed Oct 8
     title: "Midterm 1 (tentative)"
     nonumber: True

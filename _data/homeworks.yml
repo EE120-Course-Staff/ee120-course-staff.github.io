@@ -27,11 +27,11 @@ homeworks:
   - # Homework 4
     due: Sep 29th
     homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%204?preview=92597059
-    solutions:
+    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%204?preview=92697097
   - # Homework 5
-    due: # Sep 30
-    homework:
-    solutions:
+    due: Oct 6
+    homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%205?preview=92686912
+    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%205?preview=92776510
   - rowspan: 3
     nonumber: True
   - # Homework 6
