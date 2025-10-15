@@ -24,12 +24,12 @@ discussions:
   - # Discussion 4 -- Friday Sep 26
     worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%204?preview=92630184
     solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%204?preview=92651409
-  - rowspan: 3
-    nonumber: True
   - # Discussion 5 -- Friday Oct 10
     worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%205?preview=92709642
     solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%205?preview=92721746
-  - # Discussion 6 -- Friday Oct 17
+  - rowspan: 2 
+    nonumber: True
+  # Discussion 6 -- Friday Oct 17
     worksheet:
     solutions:
   - # Discussion 7 -- Friday Oct 24
