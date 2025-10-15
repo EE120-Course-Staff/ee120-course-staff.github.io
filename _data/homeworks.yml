@@ -34,10 +34,10 @@ homeworks:
     due: Oct 6
     homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%205?preview=92686912
     solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%205?preview=92776510
-  - rowspan: 3
+  - rowspan: 2
     nonumber: True
   - # Homework 6
-    due: # Oct 14
+    due: Oct 20
     homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%206?preview=92827380
     solutions:
   - # Homework 7
