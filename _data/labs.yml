@@ -35,7 +35,7 @@ labs:
 - # Lab 3
   rowspan: 4
   due: "Fri Oct 24"
-  lab:
+  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main
   solutions:
 - nonumber: True
   rowspan: 2

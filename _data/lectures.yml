@@ -54,15 +54,11 @@ lectures:
     topic: DTFS
     reading: Oppenheim 11.0-1, 3.0-2, 3.6
   - # Wed Oct 15
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: DTFS, DFT
+    reading: Oppenheim 3.0-2, 3.6-7
   - # Mon Oct 20
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: DTFS, DFT
+    reading: Oppenheim 3.0-2, 3.6-7
   - # Wed Oct 22
     topic:
     recording:
