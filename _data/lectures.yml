@@ -60,20 +60,14 @@ lectures:
     topic: DTFS, DFT
     reading: Oppenheim 3.0-2, 3.6-7
   - # Wed Oct 22
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: DTFS Properties, FFT
+    reading: Oppenheim 3.0-2, 3.6-7
   - # Mon Oct 27
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: CTFS
+    reading: Oppenheim 3.3-5
   - # Wed Oct 29
-    topic:
-    recording:
-    edThread:
-    reading:
+    topic: DTFT
+    reading: Oppenheim 5.0-7
   - # Mon Nov 3
     topic:
     recording:
@@ -90,7 +84,7 @@ lectures:
     edThread:
     reading:
   - # Wed Nov 12
-    title: "Midterm 2 (tentative)"
+    title: "Midterm 2"
     nonumber: True
   - # Mon Nov 17
     topic:

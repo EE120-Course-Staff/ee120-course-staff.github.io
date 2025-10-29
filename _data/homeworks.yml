@@ -43,11 +43,11 @@ homeworks:
   - # Homework 7
     due: Oct 27
     homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%207?preview=92899505
-    solutions:
+    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%207?preview=92983654
   - # Homework 8
     rowspan: 6
-    due: # Nov 11
-    homework:
+    due: Nov 3
+    homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%208?preview=92972885
     solutions:
   - rowspan: 3
     nonumber: True
