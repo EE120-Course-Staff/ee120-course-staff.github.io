@@ -49,12 +49,12 @@ homeworks:
     due: Nov 3
     homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%208?preview=92972885
     solutions:
-  - rowspan: 3
-    nonumber: True
   - # Homework 9
     due: # Nov 25
     homework:
     solutions:
+  - rowspan: 3
+    nonumber: True
   - # Homework 10
     rowspan: 2
     due: # Dec 2
