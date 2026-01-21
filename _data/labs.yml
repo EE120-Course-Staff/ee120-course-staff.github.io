@@ -20,32 +20,32 @@ labs:
   rowspan: 5
   due: "never"
   title: "(optional)"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction&urlpath=tree%2Flab-0-introduction%2Flab0.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Labs/Lab%200?preview=92421605
+  lab: 
+  solutions: 
 - # Lab 1
   rowspan: 4
-  due: "Thu Sep 25"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Labs/Lab%201?preview=92675031
+  due: #"Thu Sep 25"
+  lab: 
+  solutions: 
 - # Lab 2
   rowspan: 5
-  due: "Fri Oct 10"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks.git&urlpath=tree%2Flab-filters-for-stocks.git%2Flab2.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Labs/Lab%202?preview=92810605
+  due: #"Fri Oct 10"
+  lab: 
+  solutions: 
 - # Lab 3
   rowspan: 4
-  due: "Fri Oct 24"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main
+  due: #"Fri Oct 24"
+  lab: 
   solutions:
 - nonumber: True
   rowspan: 2
 - # Lab 4
   rowspan: 5
-  due: "Fri Nov 21"
+  due: #"Fri Nov 21"
   lab:
   solutions:
 - # Lab 5
   rowspan: 6
-  due: "Fri Dec 5"
+  due: #"Fri Dec 5"
   lab:
   solutions:

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EE 120 Fall 2025
+title: EE 120 Spring 2026
 description: Signals and Systems at UC Berkeley
 baseurl: # '/~ee120/sp23' # (temporary) the subpath of your site, e.g. /blog
 url: https://ee120-course-staff.github.io # https://inst.eecs.berkeley.edu
@@ -33,7 +33,7 @@ aux_links:
   # Self-Grade Form:
   #   - 'https://ee120-course-staff.github.io/selfgrade-form/'
   Discussion Attendance Form:
-    - 'https://forms.gle/2hsfs6xe5HVp7ZBk8'
+    - 'https://forms.gle/uQmEavB8HzBbyHPS7'
 footer_content:
 
 # Collections for website data

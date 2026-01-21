@@ -10,42 +10,52 @@ discussions:
   #   worksheet: link to the discusstion worksheet
   #   solutions: link to the discussion solutions link
   #   walkthrough: link to the walkthrough video
-  - rowspan: 1
+  - # Discussion 1 -- Friday Jan 23
+    rowspan: 1
+    worksheet: 
+    solutions: 
+  - # Discussion 2 -- Friday Jan 30
+    worksheet: 
+    solutions: 
+  - # Discussion 3 -- Friday Feb 6
+    worksheet: 
+    solutions: 
+  - # MT1
+    rowspan: 1
     nonumber: True
-  - # Discussion 1 -- Friday Sep 5
-    worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%201?preview=92417999
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%201?preview=92435609
-  - # Discussion 2 -- Friday Sep 12
-    worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%202?preview=92463995
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%202?preview=92495553
-  - # Discussion 3 -- Friday Sep 19
-    worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%203?preview=92567563
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%203?preview=92573368
-  - # Discussion 4 -- Friday Sep 26
-    worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%204?preview=92630184
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%204?preview=92651409
-  - # Discussion 5 -- Friday Oct 10
-    worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%205?preview=92709642
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%205?preview=92721746
-  - rowspan: 2 
-    nonumber: True
-  - # Discussion 6 -- Friday Oct 17
-    worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%206?preview=92854932
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%206?preview=92895931
-  - # Discussion 7 -- Friday Oct 24
-    worksheet: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%207?preview=92927195
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Discussions/Discussion%207?preview=92973833
-  - # Discussion 8 -- Friday Nov 7
+  - # Discussion 4 -- Friday Feb 13 (MT1 on Tuesday?)
+    worksheet: 
+    solutions: 
+  - # Discussion 5 -- Friday Feb 20
+    worksheet: 
+    solutions: 
+  - # Discussion 6 -- Friday Feb 27
+    worksheet: 
+    solutions: 
+  - # Discussion 7 -- Friday Mar 5
+    worksheet: 
+    solutions: 
+  - # Discussion 8 -- Friday Mar 12
     worksheet:
     solutions:
-  - rowspan: 3
+  - # probably skip because MT2 on Thursday
+    rowspan: 3
     nonumber: True
-  - # Discussion 9 -- Friday Nov 21
+  - # Spring break
+    rowspan: 2
+    nonumber: True
+  - # Discussion 9 -- Friday April 3
     worksheet:
     solutions:
-  - # Discussion 10 -- Friday Nov 28
+  - # Discussion 10 -- Friday April 10
     worksheet:
     solutions:
-  - # Discussion 11 -- Friday Dec 5
+  - # Discussion 11 -- Friday April 17
+    worksheet:
+    solutions:
+  - # Discussion 12 -- Friday April 24
+    worksheet:
+    solutions:
+  - # Discussion 13 -- Friday May 1
     worksheet:
     solutions:

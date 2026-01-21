@@ -13,51 +13,44 @@ homeworks:
   #   solutions: link to the solutions pdf
   #   selfGrade: link to self grade form
   - # Homework 1
-    due: Sep 2nd
-    homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%201?preview=92357011
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%201?preview=92418910
+    due: Jan 23
+    homework: 
+    solutions: 
+    rowspan: 1
   - # Homework 2
-    due: Sep 8th
-    homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%202?preview=92409909
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%202?preview=92474994
+    due: 
+    homework:
+    solutions: 
   - # Homework 3
-    due: Sep 22nd
-    homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%203?preview=92472802
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%203?preview=92674956
-  - rowspan: 2
-    nonumber: True
+    due: 
+    homework: 
+    solutions: 
   - # Homework 4
-    due: Sep 29th
-    homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%204?preview=92597059
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%204?preview=92697097
+    due: 
+    homework: 
+    solutions: 
   - # Homework 5
-    due: Oct 6
-    homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%205?preview=92686912
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%205?preview=92776510
-  - rowspan: 2
-    nonumber: True
+    due: 
+    homework: 
+    solutions: 
   - # Homework 6
-    due: Oct 20
-    homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%206?preview=92827380
+    due: 
+    homework: 
     solutions:
   - # Homework 7
-    due: Oct 27
-    homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%207?preview=92899505
-    solutions: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%207?preview=92983654
+    due: 
+    homework: 
+    solutions: 
   - # Homework 8
-    rowspan: 6
-    due: Nov 3
-    homework: https://bcourses.berkeley.edu/courses/1547623/files/folder/Homeworks/Homework%208?preview=92972885
+    due: 
+    homework: 
     solutions:
   - # Homework 9
-    due: # Nov 25
+    due: 
     homework:
     solutions:
-  - rowspan: 3
-    nonumber: True
   - # Homework 10
-    rowspan: 2
-    due: # Dec 2
+    due: 
     homework:
     solutions:
   - # Homework 11
