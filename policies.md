@@ -72,7 +72,7 @@ subsampling, gentle introduction to multi-rate processing systems
 
 All official course communication will be through Ed and email. BCourses and Gradescope are for resource storage and assignment submission. We will also maintain the course website for your convenience.
 
-To contact staff admin directly (Professor Dimakis and Chaoying), please send an email to [ee120-fa25-admin@lists.berkeley.edu](mailto:ee120-fa25-admin@lists.berkeley.edu).
+To contact professors and head TAs directly, please send an email to [ee120-staff@berkeley.edu](mailto:ee120-staff@berkeley.edu).
 
 
 ## Lecture
@@ -96,20 +96,19 @@ We will post the worksheet to bCourses and Ed on Friday mornings.
 
 ### Times and Locations
 
-* Cory 540AB @ 11:00am - 12:00pm
-* Cory 540AB @ 12:00pm - 1:00pm
-* Dwinelle 182 @ 1:00pm - 2:00pm
-* Dwinelle 182 @ 2:00pm - 3:00pm
+* 9am - 10am @ Cory 540AB
+* 10am - 11am @ Cory 540AB
+* 11am - 12pm @ Cory 540AB
 
 
 ### Attendance
 
 Attendance for discussion is not required. However, you will receive one bonus point (on the scale of 100) if you attend at least 7 discussions.
 
-Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you. At the end of the semester, when we decide on final grades, intense discussions take place about students who fall near grade boundaries. If you're in that situation, it's of potential benefit to you if at least one member of the staff knows you enough to advocate for you and comment on your classroom performance.
+Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you.
 
 
-**The first discussion is Friday Sep 4th**.
+**The first discussion is Friday January 23**.
 
 
 ### COVID Reminder
@@ -118,7 +117,7 @@ Nevertheless, we highly recommend that you attend lecture and discussion as freq
 
 ## Assignments
 
-All assignments will be submitted through Gradescope. **Students who enroll or join the class late will be expected to keep up with material and will not be provided extra accommodations for this reason alone.**
+All assignments will be submitted through Gradescope. **Students who join the class late will not be provided extra accommodations.**
 
 ## Homework
 
@@ -127,9 +126,9 @@ To enhance and gauge your fluency with the course content, we will have two type
 
 ### Problem Set Logistics
 
-**Release**: Problem sets will typically be released on Wednesday via bCourses. We will also announce on Ed when problem sets are released.
+**Release**: Problem sets will typically be released on Monday via bCourses. We will also announce on Ed when problem sets are released.
 
-**Submission**: Problem sets will be due the following **Monday at 11:59pm, with a one day grace period until Tuesday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment).
+**Submission**: Problem sets will be due the following **Friday at 11:59pm, with a two-day grace period until Sunday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment).
 
 You will submit your work through **Gradescope** (use bCourse navigation to access). You have several options for scanning and submitting your work:
 
@@ -137,7 +136,7 @@ You will submit your work through **Gradescope** (use bCourse navigation to acce
 2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
 3. Use your own sheets of paper, but demarcate clearly the space for each problem, part, and subpart. You must not exceed the amount of space allotted in this official problem set document. Then upload a PDF file.
 
-**The first problem set will be released on Wednesday Aug 27th and will be due on Tuesday Sep 2nd at 11:59pm, with grace period until Wednesday Sep 3rd at 11:59pm (extended due to Labor Day).**
+**The first problem set will be shorter and have a shorter turnaround time: it will be released on Wednesday Jan 21st and will be due on Friday Jan 23rd at 11:59pm, with grace period until Sunday Jan 25th at 11:59pm.**
 
 ### Lab Logistics
 
@@ -155,7 +154,7 @@ We will also provide zip files of lab materials via bCourses if you want to work
 4. Download the zip file produced by grader.export()
 5. Upload the zip file to the Gradescope.
 
-As we cannot avoid releasing problem sets and labs in concurrent weeks, labs will be due **two weeks after they are released, on Thursday at 11:59pm, with a one day grace period until Friday at 11:59pm.**
+Labs will be due **two weeks after they are released, on Thursday at 11:59pm, with a one day grace period until Friday at 11:59pm.**
 
 
 **Notes on Autograding**:
@@ -174,7 +173,7 @@ As we cannot avoid releasing problem sets and labs in concurrent weeks, labs wil
 
 ### Grace Period
 
-Although problem sets and labs are due on Mondays and Thursdays respectively, **you can submit, with no penalty, each of your assignments (problem sets and labs) one day after the official due date of that assignment at 11:59 PM**. This comes with four important caveats:
+Although problem sets and labs are due on Fridays and Thursdays respectively, **you can submit, with no penalty, problems sets two days after and labs one day after the official due date of that assignment at 11:59 PM**. This comes with four important caveats:
 
 1. This grace period is meant to account for technical issues.
 1. Staff support will be limited during the grace period.
@@ -198,7 +197,7 @@ The purpose of the self-grade assignments strategy is to encourage you to look o
 
 ### Timeline
 
-Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self-grades for both homeworks and labs will be due a week after the end after the corresponding assignment grace period.** Homework self-grades will usually be due on Wednesdays and lab self-grades will usually be due on Fridays. Self-grades will be accepted up to **two days** after this deadline for **50% credit**.
+Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self-grades for both homeworks and labs will be due a week after the end after the corresponding assignment grace period.** Homework self-grades will usually be due on Sundays and lab self-grades will usually be due on Fridays. Self-grades will be accepted up to **two days** after this deadline for **50% credit**.
 
 ### Instructions
 
@@ -225,11 +224,11 @@ Self grades will be released, along with assignment solutions, when the grace pe
 
 We will have 2 midterms and a final this semester. These midterms will be held **in-person** and **during lecture time** on the following dates:
 
-**Midterm 1 Exam Time:** Wednesday October 8th (tentative) 2 - 4 PM @ TBA
+**Midterm 1 Exam Time:** Tuesday February 10th 7 - 9 PM @ @ Valley Life Sciences Building 2050
 
-**Midterm 2 Exam Time:** Wednesday November 12th (tentative) 2 - 4 PM @ TBA
+**Midterm 2 Exam Time:** Thursday March 19th 7 - 9 PM @ Evans 10
 
-**Final Exam Time:** Thursday December 18th 3 - 6 PM @ TBA
+**Final Exam Time:** Tuesday May 12th 11:30 AM - 2:30 PM @ TBA
 
 You will be allowed one handwritten, double-sided cheatsheet for MT1, two for MT2, and three for the final. You may print a cheatsheet if it is handwritten on a tablet.
 
@@ -244,12 +243,13 @@ You will be eligible for the clobber policy if you complete both of the clobber 
 ## Office Hours
 These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
-* Homework Party: Mondays 5 PM - 7 PM @ Cory 400
-* Professor Dimakis: Wednesdays 10 AM - 11 AM @ Cory 269
+* Homework Party: Thursdays 5 PM - 7 PM @ Cory 400
+* TA Office Hours: Fridays 3 PM - 5 PM @ Cory 504
+* Professor Waller: Fridays 2 PM - 3 PM @ Cory 514
 
 
 ## Homework Party
-We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week. Due to Labor Day on September 1st, homework parties will start on September 8th.
+We offer homework party on Thursdays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week.
 
 
 ## Grading
@@ -260,9 +260,9 @@ We offer homework party on Mondays 5 PM - 7 PM in Cory 400 where you can ask que
 * **Labs**: 10% (We drop the lowest score)
 
 ## DSP
-UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns by emailing [ee120-fa25-admin@lists.berkeley.edu](mailto:ee120-fa25-admin@lists.berkeley.edu). If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about the DSP application process [here](https://dsp.berkeley.edu/students/new-students/application-process). We are available if you have any questions or concerns about your accommodations, but in the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with us toward a resolution.
+UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns by emailing [ee120-staff@berkeley.edu](mailto:ee120-staff@berkeley.edu). If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about the DSP application process [here](https://dsp.berkeley.edu/students/new-students/application-process). We are available if you have any questions or concerns about your accommodations, but in the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with us toward a resolution.
 
-Please submit your DSP letters of accommodation through email to [ee120-fa25-admin@lists.berkeley.edu](mailto:ee120-fa25-admin@lists.berkeley.edu) as soon as possible. If you are uncertain as to whether you will use the accommodation, it is much better to have the accommodation in place than to scramble at the last minute should you need it. Accommodations are not retroactive, so course staff is not responsible for providing accommodations prior to the receipt of an accommodation letter (although if you have extenuating circumstances, we may be able to make temporary adjustments). The more lead time that you provide admin staff, the easier it is for us to arrange your accommodations. Contact us through the admin email for any DSP-related concerns, including but not limited to assignments and exams. Be mindful that it might not be possible to accommodate last-minute requests, depending on your accommodation needs.
+Please submit your DSP letters of accommodation through email to [ee120-staff@berkeley.edu](mailto:ee120-staff@berkeley.edu) as soon as possible. If you are uncertain as to whether you will use the accommodation, it is much better to have the accommodation in place than to scramble at the last minute should you need it. Accommodations are not retroactive, so course staff is not responsible for providing accommodations prior to the receipt of an accommodation letter (although if you have extenuating circumstances, we may be able to make temporary adjustments). The more lead time that you provide admin staff, the easier it is for us to arrange your accommodations. Contact us through the admin email for any DSP-related concerns, including but not limited to assignments and exams. Be mindful that it might not be possible to accommodate last-minute requests, depending on your accommodation needs.
 
 
 ## Optional Course Materials
