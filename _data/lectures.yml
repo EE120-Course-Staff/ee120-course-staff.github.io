@@ -30,6 +30,7 @@ lectures:
     reading: #Oppenheim 1.6.3-4, 2.4.2, 5.8
   - title: "Midterm 1"
     nonumber: True
+    isExam: True
   - # Wed 2/11
     topic:  #DT State Space
     edThread: 
@@ -62,6 +63,9 @@ lectures:
   - # Wed 3/18
     topic: #DTFS Properties, FFT
     reading: #Oppenheim 3.0-2, 3.6-7
+  - title: "Midterm 2"
+    nonumber: True
+    isExam: True
   - title: "No Lecture (Spring Break)"
     rowspan: 2
     nonumber: True
@@ -111,10 +115,9 @@ lectures:
     recording:
     edThread:
     reading:
-  - # dead week
+  - title: "RRR week"
     rowspan: 2
     nonumber: True
-  - # Thu Dec 18
-    title: "Final exam"
+  - title: "Final exam"
     nonumber: True
     isExam: True
