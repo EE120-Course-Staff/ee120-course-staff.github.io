@@ -40,7 +40,7 @@ description: A listing of all the course staff members.
 {% assign ucs2s = site.staffers | where: 'role', 'UCS2' %}
 {% assign num_ucs2s = ucs2s | size %}
 {% if num_ucs2 != 0 %}
-## UCS2s
+<!-- ## UCS2s
 
 {% for staffer in ucs2s %}
 {{ staffer }}
@@ -57,4 +57,4 @@ description: A listing of all the course staff members.
 {% for staffer in ucs1s %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
+{% endif %} -->

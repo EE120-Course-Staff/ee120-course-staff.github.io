@@ -29,6 +29,7 @@ homeworks:
     due: 
     homework: 
     solutions: 
+    rowspan: 3
   - # Homework 5
     due: 
     homework: 
@@ -49,12 +50,12 @@ homeworks:
     due: 
     homework:
     solutions:
+    rowspan: 3
   - # Homework 10
     due: 
     homework:
     solutions:
   - # Homework 11
-    rowspan: 4
     due: # (never)
     title: "(optional)"
     homework:

@@ -1,7 +1,7 @@
 ---
 role: Instructor
 name: Babak Ayazifar
-photo: babak.jpg
+photo: babak.png
 tags:
  - Professor
 email: ayazifar@
