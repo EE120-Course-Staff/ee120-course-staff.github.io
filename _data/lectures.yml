@@ -115,7 +115,7 @@ lectures:
     recording:
     edThread:
     reading:
-  - # dead week
+  - title: "RRR week"
     rowspan: 2
     nonumber: True
   - title: "Final exam"
