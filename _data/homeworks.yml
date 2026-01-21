@@ -14,7 +14,7 @@ homeworks:
   #   selfGrade: link to self grade form
   - # Homework 1
     due: Jan 23
-    homework: 
+    homework: https://bcourses.berkeley.edu/courses/1553114/files?preview=93688114
     solutions: 
     rowspan: 1
   - # Homework 2
