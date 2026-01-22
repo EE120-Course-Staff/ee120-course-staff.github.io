@@ -8,6 +8,7 @@ lectures:
     topic: Introduction
     edThread: 
     reading: Oppenheim 1.1, 1.4.1, 1.6.5-6, 2.1.1
+    slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=93698399
   - # Mon 1/26
     topic: #LTI, DT Impulse Response, DT convolution
     edThread: 
