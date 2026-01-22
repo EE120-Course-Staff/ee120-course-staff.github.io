@@ -254,7 +254,7 @@ We offer homework party on Thursdays 5 PM - 7 PM in Cory 400 where you can ask q
 
 ## Grading
 
-* **Midterms**: 20% each (40% total)
+* **Midterms**: 40% total
 * **Final**: 35%
 * **Problem Sets**: 15% (We drop the lowest score + another for filling out the midsemester feedback form)
 * **Labs**: 10% (We drop the lowest score)
