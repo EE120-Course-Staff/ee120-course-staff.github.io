@@ -14,12 +14,12 @@ homeworks:
   #   selfGrade: link to self grade form
   - # Homework 1
     due: Jan 23
-    homework: https://bcourses.berkeley.edu/courses/1553114/files?preview=93688114
+    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW01?preview=93688114
     solutions: 
     rowspan: 1
   - # Homework 2
-    due: 
-    homework:
+    due: Jan 30
+    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW02?preview=93714229
     solutions: 
   - # Homework 3
     due: 
