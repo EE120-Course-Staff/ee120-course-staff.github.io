@@ -18,14 +18,15 @@ lectures:
     topic: DT Convolution, DT Frequency Response
     edThread: 
     reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
+    slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=93757122
   - # Mon 2/2
-    topic: #Periodicity, Eigenfunction Property
+    topic: DT Frequency Response, Eigenfunction Property
     edThread: 
-    reading: #Oppenheim 2.1.2, 3.2, Hsu 6.5
+    reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
   - # Wed 2/4
-    topic: #LCCDEs and DAGs
+    topic: LCCDEs and DAGs
     edThread: 
-    reading: #Oppenheim 1.2.2, 3.2, 1.6.4, Hsu 6.5
+    reading: Oppenheim 1.2.2, 3.2, 1.6.4, Hsu 6.5
   - # Mon 2/9
     topic: #LCCDEs and DAGs, System Properties
     edThread: 
