@@ -17,35 +17,33 @@ labs:
   #   solutions: https://github.com/
   #   selfGrade: https://ee120-course-staff.github.io/selfgrade-form/
 - # Lab 0
-  rowspan: 5
+  rowspan: 4
   due: "never"
   title: "(optional)"
   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction&urlpath=tree%2Flab-0-introduction%2Flab0.ipynb&branch=main
   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%200
 - # Lab 1
-  rowspan: 4
+  rowspan: 6
   due: "Fri Feb 20"
   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main
   solutions: 
 - # Lab 2
-  rowspan: 5
-  due: #"Fri Oct 10"
+  rowspan: 4
+  due: "Fri March 6"
   lab: 
   solutions: 
 - # Lab 3
-  rowspan: 4
-  due: #"Fri Oct 24"
+  rowspan: 9
+  due: "Fri April 3"
   lab: 
   solutions:
-- nonumber: True
-  rowspan: 2
 - # Lab 4
-  rowspan: 5
-  due: #"Fri Nov 21"
+  rowspan: 4
+  due: "Fri April 17"
   lab:
   solutions:
 - # Lab 5
-  rowspan: 6
-  due: #"Fri Dec 5"
+  rowspan: 4
+  due: "Fri May 1"
   lab:
   solutions:
