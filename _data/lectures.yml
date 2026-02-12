@@ -33,20 +33,22 @@ lectures:
     topic: LCCDEs and DAGs, System Properties
     edThread: 
     reading: Oppenheim 1.6.3-4, 2.4.2, 5.8
+    slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=93848214
   - title: "Midterm 1"
     nonumber: True
     isExam: True
   - # Wed 2/11
-    topic:  #DT State Space
+    topic:  DT State Space
     edThread: 
-    reading: #Hsu 7.1-3, 7.5
+    reading: Hsu 7.1-3, 7.5
+    slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=93869180
   - # Mon 2/16
     title: "No Lecture (Presidents' Day)"
     nonumber: True
   - # Wed 2/18
-    topic: #Continuous-Time Systems, CT Convolution
+    topic: Continuous-Time Systems, CT Dirac Delta Function
     edThread: 
-    reading: #Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4 
+    reading: Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4 
   - # Mon 2/23
     topic: #CT Frequency Response, CT BIBO Stability, CT Causality
     reading: #Hsu 2.4, Oppenheim 1.6.3-4, 4.7, 2.4.1, 2.4.3, 3.10
