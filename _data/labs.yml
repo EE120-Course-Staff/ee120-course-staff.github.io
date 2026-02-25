@@ -26,11 +26,11 @@ labs:
   rowspan: 6
   due: "Fri Feb 20"
   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main
-  solutions: 
+  solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%201
 - # Lab 2
   rowspan: 4
   due: "Fri March 6"
-  lab: 
+  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks&urlpath=tree%2Flab-filters-for-stocks%2Flab1.ipynb&branch=main
   solutions: 
 - # Lab 3
   rowspan: 9
