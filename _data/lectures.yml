@@ -60,6 +60,7 @@ lectures:
   - # Mon 3/2
     topic: Intro to Fourier, DTFS
     reading: Oppenheim 11.0-1, 3.0-2, 3.6
+    slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=94038517
   - # Wed 3/4
     topic: DTFS, DFT
     reading: Oppenheim 3.0-2, 3.6-7
