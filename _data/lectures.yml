@@ -70,12 +70,14 @@ lectures:
     reading: Oppenheim 3.3-5
     slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=94108499
   - # Wed 3/11
+    topic: CTFS
+    reading: Oppenheim 3.3-5
+  - # Mon 3/16
     topic: DTFT
     reading: Oppenheim 5.0-7
-  - # Mon 3/16
-    topic: 
   - # Wed 3/18
-    topic: 
+    topic: More DTFT
+    reading: Oppenheim 5.0-7
   - title: "Midterm 2"
     nonumber: True
     isExam: True
