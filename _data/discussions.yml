@@ -30,12 +30,12 @@ discussions:
   - # Discussion 6 -- Friday Feb 27
     worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc06?preview=94012053
     solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc06?preview=94024031
-  - # Discussion 7 -- Friday Mar 5
+  - # Discussion 7 -- Friday Mar 6
     worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc07?preview=94072393
     solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc07?preview=94101929
-  - # Discussion 8 -- Friday Mar 12
-    worksheet:
-    solutions:
+  - # Discussion 8 -- Friday Mar 13
+    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc08?preview=94137608
+    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc08?preview=94141230
   - # probably skip because MT2 on Thursday
     rowspan: 3
     nonumber: True
