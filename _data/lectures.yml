@@ -66,15 +66,18 @@ lectures:
     reading: Oppenheim 3.0-2, 3.6-7
     slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=94062390
   - # Mon 3/9
-    topic:
+    topic: FFT, CTFS
+    reading: Oppenheim 3.3-5
+    slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=94108499
   - # Wed 3/11
-    topic:
+    topic: CTFS
+    reading: Oppenheim 3.3-5
   - # Mon 3/16
-    topic: #DTFS, DFT
-    reading: #Oppenheim 3.0-2, 3.6-7
+    topic: DTFT
+    reading: Oppenheim 5.0-7
   - # Wed 3/18
-    topic: #DTFS Properties, FFT
-    reading: #Oppenheim 3.0-2, 3.6-7
+    topic: More DTFT
+    reading: Oppenheim 5.0-7
   - title: "Midterm 2"
     nonumber: True
     isExam: True
@@ -82,11 +85,9 @@ lectures:
     rowspan: 2
     nonumber: True
   - # Mon 3/30
-    topic: #CTFS
-    reading: #Oppenheim 3.3-5
+    topic: 
   - # Wed 4/1
-    topic: #DTFT
-    reading: #Oppenheim 5.0-7
+    topic: 
   - # Mon 4/6
     topic:
     recording:
