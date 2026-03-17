@@ -45,12 +45,12 @@ homeworks:
   - # Homework 8
     due: Mar 13
     homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW08?preview=94099146 
-    solutions:
+    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW08?preview=94160201
   - # Homework 9
-    due: 
-    homework:
+    due: Apr 3
+    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW09?preview=94173012
     solutions:
-    rowspan: 3
+    rowspan: 7
   - # Homework 10
     due: 
     homework:
