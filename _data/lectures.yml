@@ -85,11 +85,11 @@ lectures:
     rowspan: 2
     nonumber: True
   - # Mon 3/30
-    topic: 
+    topic: CTFT
   - # Wed 4/1
-    topic: 
+    topic: Sampling
   - # Mon 4/6
-    topic:
+    topic: More Sampling, Aliasing
     recording:
     edThread:
     reading:

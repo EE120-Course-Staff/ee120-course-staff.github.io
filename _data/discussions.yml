@@ -36,24 +36,25 @@ discussions:
   - # Discussion 8 -- Friday Mar 13
     worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc08?preview=94137608
     solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc08?preview=94141230
-  - # probably skip because MT2 on Thursday
+  - # Discussion 9 -- Friday Mar 20
     rowspan: 3
-    nonumber: True
+    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc09?preview=94203844
+    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc09?preview=94291010
   - # Spring break
     rowspan: 2
     nonumber: True
-  - # Discussion 9 -- Friday April 3
+  - # Discussion 10 -- Friday April 3
+    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc10?preview=94278293
+    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc10?preview=94291011
+  - # Discussion 11 -- Friday April 10
     worksheet:
     solutions:
-  - # Discussion 10 -- Friday April 10
+  - # Discussion 12 -- Friday April 17
     worksheet:
     solutions:
-  - # Discussion 11 -- Friday April 17
+  - # Discussion 13 -- Friday April 24
     worksheet:
     solutions:
-  - # Discussion 12 -- Friday April 24
-    worksheet:
-    solutions:
-  - # Discussion 13 -- Friday May 1
+  - # Discussion 14 -- Friday May 1
     worksheet:
     solutions:
