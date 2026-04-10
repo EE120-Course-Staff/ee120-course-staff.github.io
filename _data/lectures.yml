@@ -94,37 +94,37 @@ lectures:
     edThread:
     reading:
   - # Wed 4/8
-    topic:
+    topic: Even More Sampling
     recording:
     edThread:
     reading:
   - # Mon 4/13
-    topic:
+    topic: Z Transform
     recording:
     edThread:
     reading:
   - # Wed 4/15
-    topic:
+    topic: Z and Laplace Transform 
     recording:
     edThread:
     reading:
   - # Mon 4/20
-    topic:
+    topic: Z and Laplace Transform 
     recording:
     edThread:
     reading:
   - # Wed 4/22
-    topic:
+    topic: Laplace Transform
     recording:
     edThread:
     reading:
   - # Mon 4/27
-    topic:
+    topic: 2D Fourier Transforms, Imaging, Compressed Sensing
     recording:
     edThread:
     reading:
   - # Wed 4/29
-    topic:
+    topic: Fourier Optics, Computational Imaging
     recording:
     edThread:
     reading:
