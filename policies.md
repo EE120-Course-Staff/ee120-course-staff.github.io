@@ -142,7 +142,7 @@ You will submit your work through **Gradescope** (use bCourse navigation to acce
 
 Labs are interactive assignments that utilize Jupyter notebooks, an interactive web-based tool for running Python code. Labs provide an opportunity to see real-world applications of EE 120 material.
 
-**Release**: Typically, labs will be released on Saturdays via Ed. They will be released on **Datahub**, an online platform for running Jupyter notebooks; we will provide a Datahub link for each lab.
+**Release**: Labs will be released on **Datahub**, an online platform for running Jupyter notebooks; we will provide a Datahub link for each lab.
 
 We will also provide zip files of lab materials via bCourses if you want to work locally. Please note that we will have limited support for technical issues that arise while running labs locally.
 
@@ -154,7 +154,7 @@ We will also provide zip files of lab materials via bCourses if you want to work
 4. Download the zip file produced by grader.export()
 5. Upload the zip file to the Gradescope.
 
-Labs will be due **two weeks after they are released, on Thursday at 11:59pm, with a one day grace period until Friday at 11:59pm.**
+Labs will be due about two weeks after they are released, on Friday at 11:59pm, with a two day grace period until Sunday at 11:59pm (same as problem sets).
 
 
 **Notes on Autograding**:
