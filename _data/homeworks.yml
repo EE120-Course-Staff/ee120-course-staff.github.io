@@ -52,11 +52,10 @@ homeworks:
     solutions:
     rowspan: 7
   - # Homework 10
-    due: 
-    homework:
-    solutions:
+    due: Apr 10
+    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW10?preview=94301096
+    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW10?preview=94362846
   - # Homework 11
-    due: # (never)
-    title: "(optional)"
-    homework:
+    due: Apr 17
+    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW11?preview=94362683
     solutions:
