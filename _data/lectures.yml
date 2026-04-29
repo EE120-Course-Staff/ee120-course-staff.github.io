@@ -129,6 +129,7 @@ lectures:
     recording:
     edThread:
     reading:
+    slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=94525621
   - title: "RRR week"
     rowspan: 2
     nonumber: True
