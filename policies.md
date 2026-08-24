@@ -79,7 +79,7 @@ To contact professors and head TAs directly, please send an email to [ee120-staf
 
 **Time**: Mon/Wed 2 PM - 4 PM
 
-**Location**: Physics Building 4
+**Location**: Lewis 100
 
 **Recordings**: Lecture recordings will be posted to the Media Gallery on bCourses. However, we reserve the right to withold recordings if attendance drops too low.
 
@@ -88,27 +88,26 @@ To contact professors and head TAs directly, please send an email to [ee120-staf
 
 ## Discussion
 
-There are three discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**
+TBD
+
+<!-- There are three discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**
 
 Discussions will be in-person, but we will post worksheet walkthrough videos after the discussion. Walkthrough videos will be available in the Media Gallery on bCourses. The videos are not a substitute for the active learning that takes place in class. 
 
-We will post the worksheet to bCourses and Ed on Friday mornings.
+We will post the worksheet to bCourses and Ed on Friday mornings. -->
 
 ### Times and Locations
 
-* 9am - 10am @ Cory 540AB
-* 10am - 11am @ Cory 540AB
-* 11am - 12pm @ Cory 540AB
+TBD
 
 
 ### Attendance
 
-Attendance for discussion is not required. However, you will receive one bonus point (on the scale of 100) if you attend at least 7 discussions.
+<!-- Attendance for discussion is not required. However, you will receive one bonus point (on the scale of 100) if you attend at least 7 discussions.
 
-Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you.
+Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you. -->
 
-
-**The first discussion is Friday January 23**.
+TBD
 
 
 ### COVID Reminder
@@ -220,13 +219,14 @@ Self grades will be released, along with assignment solutions, when the grace pe
 
 ## Exams
 
-We will have 2 midterms and a final this semester. These midterms will be held **in-person** and **during lecture time** on the following dates:
+Dates and Exams TBD
+<!-- We will have 2 midterms and a final this semester. These midterms will be held **in-person** and **during lecture time** on the following dates:
 
 **Midterm 1 Exam Time:** Tuesday February 10th 7 - 9 PM @ @ Valley Life Sciences Building 2050
 
 **Midterm 2 Exam Time:** Thursday March 19th 7 - 9 PM @ Evans 10
 
-**Final Exam Time:** Tuesday May 12th 11:30 AM - 2:30 PM @ TBA
+**Final Exam Time:** Tuesday May 12th 11:30 AM - 2:30 PM @ TBA -->
 
 You will be allowed one handwritten, double-sided cheatsheet for MT1, two for MT2, and three for the final. You may print a cheatsheet if it is handwritten on a tablet.
 
@@ -241,22 +241,25 @@ You will be eligible for the clobber policy if you complete both of the clobber 
 ## Office Hours
 These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
-* Homework Party: Thursdays 5 PM - 7 PM @ Cory 400
+<!-- * Homework Party: Thursdays 5 PM - 7 PM @ Cory 400
 * TA Office Hours: Fridays 3 PM - 5 PM @ Cory 504
-* Professor Waller: Fridays 2 PM - 3 PM @ Cory 514
+* Professor Waller: Fridays 2 PM - 3 PM @ Cory 514 -->
 
+TBD
 
 ## Homework Party
-We offer homework party on Thursdays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week.
+<!-- We offer homework party on Thursdays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week. -->
 
+TBD
 
 ## Grading
 
-* **Midterm 1**: 15% total
+TBD
+<!-- * **Midterm 1**: 15% total
 * **Midterm 2**: 25% total
 * **Final**: 35%
 * **Problem Sets**: 15% (We drop the lowest score + another for filling out the midsemester feedback form)
-* **Labs**: 10% (We drop the lowest score)
+* **Labs**: 10% (We drop the lowest score) -->
 
 ## DSP
 UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns by emailing [ee120-staff@berkeley.edu](mailto:ee120-staff@berkeley.edu). If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about the DSP application process [here](https://dsp.berkeley.edu/students/new-students/application-process). We are available if you have any questions or concerns about your accommodations, but in the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with us toward a resolution.

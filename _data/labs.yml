@@ -16,34 +16,34 @@ labs:
   #   lab: https://www.fotmob.com/
   #   solutions: https://github.com/
   #   selfGrade: https://ee120-course-staff.github.io/selfgrade-form/
-- # Lab 0
-  rowspan: 4
-  due: "never"
-  title: "(optional)"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction&urlpath=tree%2Flab-0-introduction%2Flab0.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%200
-- # Lab 1
-  rowspan: 6
-  due: "Fri Feb 20"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%201
-- # Lab 2
-  rowspan: 4
-  due: "Fri March 6"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks&urlpath=tree%2Flab-filters-for-stocks%2Flab2.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%202
-- # Lab 3
-  rowspan: 9
-  due: "Fri April 3"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%203
-- # Lab 4
-  rowspan: 4
-  due: "Fri April 17"
-  lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis.git&urlpath=tree%2Flab-fft-heart-rate-analysis.git%2Flab4.ipynb&branch=main
-  solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%204
-- # Lab 5
-  rowspan: 4
-  due: "Fri May 1"
-  lab: https://edstem.org/us/courses/94465/discussion/7965940
-  solutions:
+  # - # Lab 0
+  #   rowspan: 4
+  #   due: "never"
+  #   title: "(optional)"
+  #   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-0-introduction&urlpath=tree%2Flab-0-introduction%2Flab0.ipynb&branch=main
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%200
+  # - # Lab 1
+  #   rowspan: 6
+  #   due: "Fri Feb 20"
+  #   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-tones-convolution&urlpath=tree%2Flab-tones-convolution%2Flab1.ipynb&branch=main
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%201
+  # - # Lab 2
+  #   rowspan: 4
+  #   due: "Fri March 6"
+  #   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-filters-for-stocks&urlpath=tree%2Flab-filters-for-stocks%2Flab2.ipynb&branch=main
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%202
+  # - # Lab 3
+  #   rowspan: 9
+  #   due: "Fri April 3"
+  #   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-dft-fft&urlpath=tree%2Flab-dft-fft%2Flab3.ipynb&branch=main
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%203
+  # - # Lab 4
+  #   rowspan: 4
+  #   due: "Fri April 17"
+  #   lab: https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FEE120-Course-Staff%2Flab-fft-heart-rate-analysis.git&urlpath=tree%2Flab-fft-heart-rate-analysis.git%2Flab4.ipynb&branch=main
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lab/Lab%204
+  # - # Lab 5
+  #   rowspan: 4
+  #   due: "Fri May 1"
+  #   lab: https://edstem.org/us/courses/94465/discussion/7965940
+  #   solutions:
