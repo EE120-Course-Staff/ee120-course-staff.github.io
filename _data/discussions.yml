@@ -10,51 +10,51 @@ discussions:
   #   worksheet: link to the discusstion worksheet
   #   solutions: link to the discussion solutions link
   #   walkthrough: link to the walkthrough video
-  - # Discussion 1 -- Friday Jan 23
-    rowspan: 1
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc01?preview=93705019
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc01?preview=93708875
-  - # Discussion 2 -- Friday Jan 30
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc02?preview=93757823
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc02?preview=93775542
-  - # Discussion 3 -- Friday Feb 6
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc03?preview=93821080
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc03?preview=93824054
-  - # Discussion 4 -- Friday Feb 13 (MT1 on Tuesday?)
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc04?preview=93882612
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc04?preview=93899196
-    rowspan: 3
-  - # Discussion 5 -- Friday Feb 20
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc05?preview=93942897
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc05?preview=93959383
-  - # Discussion 6 -- Friday Feb 27
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc06?preview=94012053
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc06?preview=94024031
-  - # Discussion 7 -- Friday Mar 6
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc07?preview=94072393
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc07?preview=94101929
-  - # Discussion 8 -- Friday Mar 13
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc08?preview=94137608
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc08?preview=94141230
-  - # Discussion 9 -- Friday Mar 20
-    rowspan: 3
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc09?preview=94203844
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc09?preview=94291010
-  - # Spring break
-    rowspan: 2
-    nonumber: True
-  - # Discussion 10 -- Friday April 3
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc10?preview=94278293
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc10?preview=94291011
-  - # Discussion 11 -- Friday April 10
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc11?preview=94339317
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc11?preview=94350120
-  - # Discussion 12 -- Friday April 17
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc12?preview=94403863
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc12?preview=94406892
-  - # Discussion 13 -- Friday April 24
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc13?preview=94471427
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc13?preview=94501541
-  - # Discussion 14 -- Friday May 1
-    worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc14?preview=94544996
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc14?preview=94587403
+  # - # Discussion 1 -- Friday Jan 23
+  #   rowspan: 1
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc01?preview=93705019
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc01?preview=93708875
+  # - # Discussion 2 -- Friday Jan 30
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc02?preview=93757823
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc02?preview=93775542
+  # - # Discussion 3 -- Friday Feb 6
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc03?preview=93821080
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc03?preview=93824054
+  # - # Discussion 4 -- Friday Feb 13 (MT1 on Tuesday?)
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc04?preview=93882612
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc04?preview=93899196
+  #   rowspan: 3
+  # - # Discussion 5 -- Friday Feb 20
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc05?preview=93942897
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc05?preview=93959383
+  # - # Discussion 6 -- Friday Feb 27
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc06?preview=94012053
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc06?preview=94024031
+  # - # Discussion 7 -- Friday Mar 6
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc07?preview=94072393
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc07?preview=94101929
+  # - # Discussion 8 -- Friday Mar 13
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc08?preview=94137608
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc08?preview=94141230
+  # - # Discussion 9 -- Friday Mar 20
+  #   rowspan: 3
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc09?preview=94203844
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc09?preview=94291010
+  # - # Spring break
+  #   rowspan: 2
+  #   nonumber: True
+  # - # Discussion 10 -- Friday April 3
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc10?preview=94278293
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc10?preview=94291011
+  # - # Discussion 11 -- Friday April 10
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc11?preview=94339317
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc11?preview=94350120
+  # - # Discussion 12 -- Friday April 17
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc12?preview=94403863
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc12?preview=94406892
+  # - # Discussion 13 -- Friday April 24
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc13?preview=94471427
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc13?preview=94501541
+  # - # Discussion 14 -- Friday May 1
+  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc14?preview=94544996
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc14?preview=94587403

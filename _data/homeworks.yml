@@ -12,58 +12,58 @@ homeworks:
   #   homework: link to the homework pdf
   #   solutions: link to the solutions pdf
   #   selfGrade: link to self grade form
-  - # Homework 1
-    due: Jan 23
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW01?preview=93688114
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW01?preview=93720597
-    rowspan: 1
-  - # Homework 2
-    due: Jan 30
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW02?preview=93714229
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW02?preview=93783729 
-  - # Homework 3
-    due: Feb 6
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW03?preview=93771329
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW03?preview=93843848
-  - # Homework 4
-    due: Feb 13
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW04?preview=93865861
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW04?preview=93902867
-    rowspan: 3
-  - # Homework 5
-    due: Feb 20
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW05?preview=93909636
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW05?preview=93967126
-  - # Homework 6
-    due: Feb 27
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW06?preview=93961097
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW06?preview=94033800
-  - # Homework 7
-    due: Mar 6
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW07?preview=94029677
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW07?preview=94099228
-  - # Homework 8
-    due: Mar 13
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW08?preview=94099146 
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW08?preview=94160201
-  - # Homework 9
-    due: Apr 3
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW09?preview=94173012
-    solutions:
-    rowspan: 7
-  - # Homework 10
-    due: Apr 10
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW10?preview=94301096
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW10?preview=94362846
-  - # Homework 11
-    due: Apr 17
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW11?preview=94362683
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW11?preview=94425169
-  - # Homework 12
-    due: Apr 24
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW12?preview=94427967
-    solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW12?preview=94503100
-  - # Homework 13
-    due: May 1
-    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW13?preview=94503153
-    solutions:
+  # - # Homework 1
+  #   due: Jan 23
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW01?preview=93688114
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW01?preview=93720597
+  #   rowspan: 1
+  # - # Homework 2
+  #   due: Jan 30
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW02?preview=93714229
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW02?preview=93783729 
+  # - # Homework 3
+  #   due: Feb 6
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW03?preview=93771329
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW03?preview=93843848
+  # - # Homework 4
+  #   due: Feb 13
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW04?preview=93865861
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW04?preview=93902867
+  #   rowspan: 3
+  # - # Homework 5
+  #   due: Feb 20
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW05?preview=93909636
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW05?preview=93967126
+  # - # Homework 6
+  #   due: Feb 27
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW06?preview=93961097
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW06?preview=94033800
+  # - # Homework 7
+  #   due: Mar 6
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW07?preview=94029677
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW07?preview=94099228
+  # - # Homework 8
+  #   due: Mar 13
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW08?preview=94099146 
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW08?preview=94160201
+  # - # Homework 9
+  #   due: Apr 3
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW09?preview=94173012
+  #   solutions:
+  #   rowspan: 7
+  # - # Homework 10
+  #   due: Apr 10
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW10?preview=94301096
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW10?preview=94362846
+  # - # Homework 11
+  #   due: Apr 17
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW11?preview=94362683
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW11?preview=94425169
+  # - # Homework 12
+  #   due: Apr 24
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW12?preview=94427967
+  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW12?preview=94503100
+  # - # Homework 13
+  #   due: May 1
+  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW13?preview=94503153
+  #   solutions:
