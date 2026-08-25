@@ -125,9 +125,9 @@ To enhance and gauge your fluency with the course content, we will have two type
 
 ### Problem Set Logistics
 
-**Release**: Problem sets will typically be released on Monday via bCourses. We will also announce on Ed when problem sets are released.
+<!-- **Release**: Problem sets will typically be released on Monday via bCourses. We will also announce on Ed when problem sets are released.
 
-**Submission**: Problem sets will be due the following **Friday at 11:59pm, with a two-day grace period until Sunday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment).
+**Submission**: Problem sets will be due the following **Friday at 11:59pm, with a two-day grace period until Sunday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment). -->
 
 You will submit your work through **Gradescope** (use bCourse navigation to access). You have several options for scanning and submitting your work:
 
@@ -135,7 +135,6 @@ You will submit your work through **Gradescope** (use bCourse navigation to acce
 2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
 3. Use your own sheets of paper, but demarcate clearly the space for each problem, part, and subpart. You must not exceed the amount of space allotted in this official problem set document. Then upload a PDF file.
 
-**The first problem set will be shorter and have a shorter turnaround time: it will be released on Wednesday Jan 21st and will be due on Friday Jan 23rd at 11:59pm, with grace period until Sunday Jan 25th at 11:59pm.**
 
 ### Lab Logistics
 
@@ -172,12 +171,12 @@ Labs will be due about two weeks after they are released, on Friday at 11:59pm, 
 
 ### Grace Period
 
-Although problem sets and labs are due on Fridays and Thursdays respectively, **you can submit, with no penalty, problems sets two days after and labs one day after the official due date of that assignment at 11:59 PM**. This comes with four important caveats:
+<!-- Although problem sets and labs are due on Fridays and Thursdays respectively, **you can submit, with no penalty, problems sets two days after and labs one day after the official due date of that assignment at 11:59 PM**. This comes with four important caveats:
 
 1. This grace period is meant to account for technical issues.
 1. Staff support will be limited during the grace period.
 1. Barring exceptional circumstances and DSP accommodations, we will not be accepting any late assignments (_i.e._, they will automatically earn a 0). 
-1. There will be no extensions on deadlines outside of DSP-related reasons -- these are meant to be covered by the drop policy.
+1. There will be no extensions on deadlines outside of DSP-related reasons -- these are meant to be covered by the drop policy. -->
 
 ### Collaboration
 
@@ -220,13 +219,6 @@ Self grades will be released, along with assignment solutions, when the grace pe
 ## Exams
 
 Dates and Exams TBD
-<!-- We will have 2 midterms and a final this semester. These midterms will be held **in-person** and **during lecture time** on the following dates:
-
-**Midterm 1 Exam Time:** Tuesday February 10th 7 - 9 PM @ @ Valley Life Sciences Building 2050
-
-**Midterm 2 Exam Time:** Thursday March 19th 7 - 9 PM @ Evans 10
-
-**Final Exam Time:** Tuesday May 12th 11:30 AM - 2:30 PM @ TBA -->
 
 You will be allowed one handwritten, double-sided cheatsheet for MT1, two for MT2, and three for the final. You may print a cheatsheet if it is handwritten on a tablet.
 
@@ -241,25 +233,13 @@ You will be eligible for the clobber policy if you complete both of the clobber 
 ## Office Hours
 These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
 
-<!-- * Homework Party: Thursdays 5 PM - 7 PM @ Cory 400
-* TA Office Hours: Fridays 3 PM - 5 PM @ Cory 504
-* Professor Waller: Fridays 2 PM - 3 PM @ Cory 514 -->
-
-TBD
 
 ## Homework Party
-<!-- We offer homework party on Thursdays 5 PM - 7 PM in Cory 400 where you can ask questions about the problem sets and labs. Typically, two TAs will staff homework party each week. -->
-
 TBD
 
 ## Grading
 
 TBD
-<!-- * **Midterm 1**: 15% total
-* **Midterm 2**: 25% total
-* **Final**: 35%
-* **Problem Sets**: 15% (We drop the lowest score + another for filling out the midsemester feedback form)
-* **Labs**: 10% (We drop the lowest score) -->
 
 ## DSP
 UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns by emailing [ee120-staff@berkeley.edu](mailto:ee120-staff@berkeley.edu). If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about the DSP application process [here](https://dsp.berkeley.edu/students/new-students/application-process). We are available if you have any questions or concerns about your accommodations, but in the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with us toward a resolution.
