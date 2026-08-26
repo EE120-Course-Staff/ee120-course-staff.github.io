@@ -152,7 +152,7 @@ We will also provide zip files of lab materials via bCourses if you want to work
 4. Download the zip file produced by grader.export()
 5. Upload the zip file to the Gradescope.
 
-Labs will be due about two weeks after they are released, on Friday at 11:59pm, with a two day grace period until Sunday at 11:59pm (same as problem sets).
+<!-- Labs will be due about two weeks after they are released, on Friday at 11:59pm, with a two day grace period until Sunday at 11:59pm (same as problem sets). -->
 
 
 **Notes on Autograding**:
@@ -237,6 +237,7 @@ These hours are subject to change. The most up-to-date office hour times and loc
 
 
 ## Homework Party
+
 TBD
 
 ## Grading
