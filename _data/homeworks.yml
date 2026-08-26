@@ -12,11 +12,11 @@ homeworks:
   #   homework: link to the homework pdf
   #   solutions: link to the solutions pdf
   #   selfGrade: link to self grade form
-  # - # Homework 1
-  #   due: Jan 23
-  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW01?preview=93688114
-  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW01?preview=93720597
-  #   rowspan: 1
+  - # Homework 1
+    due: Aug 28
+    homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw1.pdf
+    solutions: 
+    rowspan: 1
   # - # Homework 2
   #   due: Jan 30
   #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW02?preview=93714229
