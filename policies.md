@@ -125,15 +125,17 @@ To enhance and gauge your fluency with the course content, we will have two type
 
 ### Problem Set Logistics
 
-<!-- **Release**: Problem sets will typically be released on Monday via bCourses. We will also announce on Ed when problem sets are released.
+**Release**: Problem sets will typically be released on Monday. We will also announce on Ed when problem sets are released.
 
-**Submission**: Problem sets will be due the following **Friday at 11:59pm, with a two-day grace period until Sunday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment). -->
+**Submission**: Problem sets will be due the following **Friday at 11:59pm, with a two-day grace period until Sunday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment).
 
 You will submit your work through **Gradescope** (use bCourse navigation to access). You have several options for scanning and submitting your work:
 
 1. Print out the homework document and write your solutions on the printout. Then upload a PDF file of the scan.
 2. Write your solutions on this PDF file using a tablet device. Then upload a PDF file.
 3. Use your own sheets of paper, but demarcate clearly the space for each problem, part, and subpart. You must not exceed the amount of space allotted in this official problem set document. Then upload a PDF file.
+
+**The first problem set will be shorter and have a shorter turnaround time: it will be released on Wednesday Aug 26th and will be due on Friday Aug 28th at 11:59pm, with grace period until Sunday Aug 30th at 11:59pm.**
 
 
 ### Lab Logistics
