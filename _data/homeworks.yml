@@ -15,7 +15,7 @@ homeworks:
   - # Homework 1
     due: Aug 28
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw1.pdf
-    solutions: 
+    solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw1-sols.pdf
     rowspan: 1
   - # Homework 2
     due: Sep 04
