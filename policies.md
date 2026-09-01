@@ -88,26 +88,27 @@ To contact professors and head TAs directly, please send an email to [ee120-staf
 
 ## Discussion
 
-TBD
+There are three discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**
 
-<!-- There are three discussion sections, all on Friday. **You can attend any discussion time you would like as long as there's enough room for everyone to sit comfortably.**
+Discussions will be in-person, but we will post the worksheet and solutions for review. Going in-person is strongly encouraged, as just reading the solutions is not a substitute for the active learning that takes place in class.  
 
-Discussions will be in-person, but we will post worksheet walkthrough videos after the discussion. Walkthrough videos will be available in the Media Gallery on bCourses. The videos are not a substitute for the active learning that takes place in class. 
+Discussion worksheets will be posted on bCourses by Friday morning. 
+
+<!-- worksheet walkthrough videos after the discussion. Walkthrough videos will be available in the Media Gallery on bCourses. The videos are not a substitute for the active learning that takes place in class. 
 
 We will post the worksheet to bCourses and Ed on Friday mornings. -->
 
 ### Times and Locations
-
-TBD
+* Friday 11 AM - 12 PM:     Wheeler 139         - taught by Melodie Ebrahimi
+* Friday 12 PM - 1 PM:      Dwinelle 182        - taught by Roman Silivra 
+* Friday 1 PM - 2 PM:       Social Sciences 140 - taught by Ethan Lau
 
 
 ### Attendance
 
-<!-- Attendance for discussion is not required. However, you will receive one bonus point (on the scale of 100) if you attend at least 7 discussions.
+Attendance for discussion is not required. However, you will receive one bonus point (on the scale of 100) if you attend at least 7 discussions.
 
-Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you. -->
-
-TBD
+Nevertheless, we highly recommend that you attend lecture and discussion as frequently as possible to stay caught up with the material, and also for the staff to get to know you.
 
 
 ### COVID Reminder
@@ -125,7 +126,7 @@ To enhance and gauge your fluency with the course content, we will have two type
 
 ### Problem Set Logistics
 
-**Release**: Problem sets will typically be released on Monday. We will also announce on Ed when problem sets are released.
+**Release**: Problem sets will typically be released on Friday. We will also announce on Ed when problem sets are released.
 
 **Submission**: Problem sets will be due the following **Friday at 11:59pm, with a two-day grace period until Sunday at 11:59pm (see the grace period section below)** (you have **one week** to complete the assignment).
 
@@ -176,9 +177,9 @@ We will also provide zip files of lab materials via bCourses if you want to work
 <!-- Although problem sets and labs are due on Fridays and Thursdays respectively, **you can submit, with no penalty, problems sets two days after and labs one day after the official due date of that assignment at 11:59 PM**. This comes with four important caveats:
 
 1. This grace period is meant to account for technical issues.
-1. Staff support will be limited during the grace period.
-1. Barring exceptional circumstances and DSP accommodations, we will not be accepting any late assignments (_i.e._, they will automatically earn a 0). 
-1. There will be no extensions on deadlines outside of DSP-related reasons -- these are meant to be covered by the drop policy. -->
+2. Staff support will be limited during the grace period.
+3. Barring exceptional circumstances and DSP accommodations, we will not be accepting any late assignments (_i.e._, they will automatically earn a 0). 
+4. There will be no extensions on deadlines outside of DSP-related reasons -- these are meant to be covered by the drop policy. -->
 
 ### Collaboration
 
