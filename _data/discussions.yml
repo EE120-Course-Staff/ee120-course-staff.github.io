@@ -10,10 +10,10 @@ discussions:
   #   worksheet: link to the discusstion worksheet
   #   solutions: link to the discussion solutions link
   #   walkthrough: link to the walkthrough video
-  # - # Discussion 1 -- Friday Jan 23
-  #   rowspan: 1
-  #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc01?preview=93705019
-  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc01?preview=93708875
+  - # Discussion 1 -- Friday Jan 23
+    rowspan: 1
+    worksheet: https://ee120-course-staff.github.io/assets/pdf/disc/ee120-fa26-disc1.pdf
+    # solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc01?preview=93708875
   # - # Discussion 2 -- Friday Jan 30
   #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc02?preview=93757823
   #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc02?preview=93775542
