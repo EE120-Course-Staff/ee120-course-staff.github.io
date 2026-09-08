@@ -238,9 +238,13 @@ These hours are subject to change. The most up-to-date office hour times and loc
 ## Grading
 
 Midterm 1: 15% total
+
 Midterm 2: 25% total
+
 Final: 35%
+
 Problem Sets: 15% (We drop the lowest score + another for filling out the final course evaluations)
+
 Labs: 10% (We drop the lowest score)
 
 ## DSP
