@@ -237,8 +237,9 @@ You will be eligible for the clobber policy if you complete both of the clobber 
 
 ## Office Hours
 
-* Wednesdays from 5 PM - 6:30 PM
-* Thursdays from 3:30 PM to 5 PM
+Office hours are offered at the following times, in Cory 299:
+* Wednesdays from 5:00 PM - 6:30 PM
+* Thursdays  from 3:30 PM - 5:00 PM
 
 
 ## Homework Party
