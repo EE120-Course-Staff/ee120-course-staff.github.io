@@ -20,11 +20,11 @@ homeworks:
   - # Homework 2
     due: Sep 04
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw2.pdf
+    solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw2-sols.pdf
+  - # Homework 3
+    due: Sep 11
+    homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw3.pdf
     solutions: 
-  # - # Homework 3
-  #   due: Feb 6
-  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW03?preview=93771329
-  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW03?preview=93843848
   # - # Homework 4
   #   due: Feb 13
   #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW04?preview=93865861

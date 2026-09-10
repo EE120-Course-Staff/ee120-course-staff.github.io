@@ -4,26 +4,31 @@ lectures:
   #   edThread: link to the ed thread
   #   slides: link to the slides
   #   reading: Name of textbook and chapters to read
-  - # Wed 1/21
+  - # Wed 8/26
     topic: Introduction
     edThread: 
     reading: Oppenheim 1.1, 1.4.1, 1.6.5-6, 2.1.1
     slides: 
-  - # Mon 1/26
+  - # Mon 8/31
     topic: LTI, DT Impulse Response, DT convolution
     edThread: 
     reading: Oppenheim 1.6.5-6, 2.1, 2.3.1
     slides: 
-  - # Wed 1/28
+  - # Wed 9/02
     topic: DT Convolution, DT Frequency Response
     edThread: 
     reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
     slides: 
-  # - # Mon 2/2
-  #   topic: DT Frequency Response, Eigenfunction Property
-  #   edThread: 
-  #   reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
-  #   slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=93814955
+  - # Mon 9/7
+    topic: Labor Day
+    edThread: 
+    reading: 
+    slides: 
+  - # Mon 9/9
+    topic: DT Frequency Response, Eigenfunction Property
+    edThread: 
+    reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
+    slides: 
   # - # Wed 2/4
   #   topic: LCCDEs and DAGs
   #   edThread: 

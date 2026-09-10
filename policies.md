@@ -194,10 +194,6 @@ As assignments exist to encourage learning, not to punish small mistakes, the se
 
 The purpose of the self-grade assignments strategy is to encourage you to look over the solutions and use it to check your answers.  We hope it offers a chance to self-assess your understanding of the class content to prepare better for exams. As an oversight measure against inflationary self-grading, we conduct random checks at our discretion, and without notice.
 
-### Timeline
-
-TBD
-
 <!-- Self grades will be released, along with assignment solutions, when the grace period for the assignment ends. **Self-grades for both homeworks and labs will be due a week after the end after the corresponding assignment grace period.** Homework self-grades will usually be due on Sundays and lab self-grades will usually be due on Fridays. -->
 
 ### Instructions
@@ -242,13 +238,17 @@ Office hours are offered at the following times, in Cory 299:
 * Thursdays  from 3:30 PM - 5:00 PM
 
 
-## Homework Party
-
-TBD
-
 ## Grading
 
-TBD
+Midterm 1: 15% total
+
+Midterm 2: 25% total
+
+Final: 35%
+
+Problem Sets: 15% (We drop the lowest score + another for filling out the final course evaluations)
+
+Labs: 10% (We drop the lowest score)
 
 ## DSP
 UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns by emailing [ee120-staff@berkeley.edu](mailto:ee120-staff@berkeley.edu). If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to determine any accommodations you may need to have equal access in this course. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about the DSP application process [here](https://dsp.berkeley.edu/students/new-students/application-process). We are available if you have any questions or concerns about your accommodations, but in the event of a disagreement, the proper procedure is for you to work with your DSP Specialist and your DSP Specialist to work with us toward a resolution.
