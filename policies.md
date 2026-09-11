@@ -232,7 +232,10 @@ We have a clobber policy where your final can replace your grade for either MT1 
 You will be eligible for the clobber policy if you complete both of the clobber assignments, which entails completing the exam again without time constraint. More information will be provided on Ed on its release.
 
 ## Office Hours
-These hours are subject to change. The most up-to-date office hour times and locations are available on the Calendar page of the course website. We have a combination of in-person and remote options: each office hour will have a room number, Zoom link, or both listed.
+
+Office hours are offered at the following times, in Cory 299:
+* Wednesdays from 5:00 PM - 6:30 PM
+* Thursdays  from 3:30 PM - 5:00 PM
 
 
 ## Grading
