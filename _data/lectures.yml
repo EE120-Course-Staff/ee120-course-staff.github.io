@@ -24,6 +24,7 @@ lectures:
     edThread: 
     reading: 
     slides: 
+    nonumber: True
   - # Mon 9/9
     topic: DT Frequency Response, Eigenfunction Property
     edThread: 
