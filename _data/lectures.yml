@@ -39,9 +39,9 @@ lectures:
   #   edThread: 
   #   reading: Oppenheim 1.6.3-4, 2.4.2, 5.8
   #   slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=93848214
-  # - title: "Midterm 1"
-  #   nonumber: True
-  #   isExam: True
+  - title: "Midterm 1 Review"
+    nonumber: True
+    isExam: True
   # - # Wed 2/11
   #   topic:  DT State Space
   #   edThread: 
