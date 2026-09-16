@@ -25,10 +25,10 @@ homeworks:
     due: Sep 11
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw3.pdf
     solutions: 
-  # - # Homework 4
-  #   due: Feb 13
-  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW04?preview=93865861
-  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW04?preview=93902867
+  - # Homework 4
+    due: Sep 18
+    homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw3.pdf
+    solutions: 
   #   rowspan: 3
   # - # Homework 5
   #   due: Feb 20

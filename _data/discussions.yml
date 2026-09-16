@@ -13,7 +13,6 @@ discussions:
   - # NO Disucussion 0
     nonumber: True
   - # Discussion 1 -- Friday Jan 23
-    rowspan: 1
     worksheet: https://ee120-course-staff.github.io/assets/pdf/disc/ee120-fa26-disc1.pdf
     solutions: https://ee120-course-staff.github.io/assets/pdf/disc/solutions/ee120-fa26-disc1-sols.pdf
     # solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc01?preview=93708875
