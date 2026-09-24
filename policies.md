@@ -235,7 +235,7 @@ You will be eligible for the clobber policy if you complete both of the clobber 
 
 Office hours are offered at the following times, in Cory 299:
 * Wednesdays from 5:00 PM - 6:30 PM
-* Thursdays  from 3:30 PM - 5:00 PM
+* Thursdays  from 4:00 PM - 5:00 PM
 
 
 ## Grading
