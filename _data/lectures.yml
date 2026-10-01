@@ -35,28 +35,28 @@ lectures:
     isExam: True
 
     ##UPDATED on 9/30
-  # Wed 9/16
+  - # Wed 9/16
      topic: BIBO Stability of DT-LTI Systems, Triangle Inequality, Causality
      edThread: 
      reading: Oppenheim 2.3.6, 2.3.7
      slides: 
-  # - # Mon 9/21
+  - # - # Mon 9/21
     topic: No Lecture
     edThread: 
     reading: 
     slides: 
     nonumber: True
-  # - # Wed 9/23
+  - # - # Wed 9/23
      topic:  Causality DT-LTI Systems, Memoryless Systems, Dirac Delta, CT-LTI Impulse Response
      edThread: 
      reading: Oppenheim 2.3.6, 2.3.4, 2.2.1, 2.2.2
      slides: 
-  # - # Mon 9/28
+  - # - # Mon 9/28
      topic:  CT-LTI Systems Continued, Convolution Integral, CT-LTI Frequency Response, RC Circuit Example, Impulse Response, Frequency Response
      edThread: 
      reading: Oppenheim 2.2.1, 2.2.2
      slides:
-  # - # Wed 9/30
+  - # - # Wed 9/30
      topic: RC Circuit Continued, Impulse Response Brute Force, Phase Response, CT Causality, BIBO Stability, State-Space
      edThread: 
      reading: Oppenheim 2.4.1, 2.4.3
