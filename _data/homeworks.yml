@@ -30,13 +30,13 @@ homeworks:
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw4.pdf
     solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw4-sols.pdf
   #   rowspan: 3
-   - # Homework 5
-  #   due: Feb 20
-     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw5.pdf
-     solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw5-sols.pdf
-   - # Homework 6
-  #   due: Feb 27
-     homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW06?preview=93961097
+  - # Homework 5
+    due: Sep 25
+    homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw5.pdf
+    solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw5-sols.pdf
+  - # Homework 6
+    due: Oct 5
+    homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW06?preview=93961097
   #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW06?preview=94033800
   # - # Homework 7
   #   due: Mar 6
