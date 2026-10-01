@@ -30,32 +30,64 @@ lectures:
     edThread: 
     reading: Oppenheim 2.1.2, 3.2, Hsu 6.5
     slides: 
-  # - # Wed 2/4
-  #   topic: LCCDEs and DAGs
-  #   edThread: 
-  #   reading: Oppenheim 1.2.2, 3.2, 1.6.4, Hsu 6.5
-  #   slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=93810812
-  # - # Mon 2/9
-  #   topic: LCCDEs and DAGs, System Properties
-  #   edThread: 
-  #   reading: Oppenheim 1.6.3-4, 2.4.2, 5.8
-  #   slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=93848214
   - title: "Midterm 1 Review"
     nonumber: True
     isExam: True
-  # - # Wed 2/11
-  #   topic:  DT State Space
-  #   edThread: 
-  #   reading: Hsu 7.1-3, 7.5
-  #   slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=93869180
-  # - # Mon 2/16
-  #   title: "No Lecture (Presidents' Day)"
-  #   nonumber: True
-  # - # Wed 2/18
-  #   topic: Continuous-Time Systems, CT Dirac Delta Function
-  #   edThread: 
-  #   reading: Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4 
-  #   slides: https://bcourses.berkeley.edu/courses/1553114/files/folder/Lecture%20Slides?preview=93940074
+
+    ##UPDATED on 9/30
+  # Wed 9/16
+     topic: BIBO Stability of DT-LTI Systems, Triangle Inequality, Causality
+     edThread: 
+     reading: Oppenheim 2.3.6, 2.3.7
+     slides: 
+  # - # Mon 9/21
+    topic: No Lecture
+    edThread: 
+    reading: 
+    slides: 
+    nonumber: True
+  # - # Wed 9/23
+     topic:  Causality DT-LTI Systems, Memoryless Systems, Dirac Delta, CT-LTI Impulse Response
+     edThread: 
+     reading: Oppenheim 2.3.6, 2.3.4, 2.2.1, 2.2.2
+     slides: 
+  # - # Mon 9/28
+     topic:  CT-LTI Systems Continued, Convolution Integral, CT-LTI Frequency Response, RC Circuit Example, Impulse Response, Frequency Response
+     edThread: 
+     reading: Oppenheim 2.2.1, 2.2.2
+     slides:
+  # - # Wed 9/30
+     topic: RC Circuit Continued, Impulse Response Brute Force, Phase Response, CT Causality, BIBO Stability, State-Space
+     edThread: 
+     reading: Oppenheim 2.4.1, 2.4.3
+     slides:   
+
+
+  # # Wed 
+  #    topic: LCCDEs and DAGs
+  #    edThread: 
+  #    reading: Oppenheim 1.2.2, 3.2, 1.6.4, Hsu 6.5
+  #    slides: 
+  # # - # Mon 
+  #    topic: LCCDEs and DAGs, System Properties
+  #    edThread: 
+  #    reading: Oppenheim 1.6.3-4, 2.4.2, 5.8
+  #    slides: 
+  # # - # Wed 
+  #    topic:  DT State Space
+  #    edThread: 
+  #    reading: Hsu 7.1-3, 7.5
+  #    slides: 
+  # # - # Mon 
+  #    topic:  DT State Space
+  #    edThread: 
+  #    reading: Hsu 7.1-3, 7.5
+  #    slides:
+  # # - # Wed 
+  #    topic: Continuous-Time Systems, CT Dirac Delta Function
+  #    edThread: 
+  #    reading: Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4 
+  #    slides: 
   # - # Mon 2/23
   #   topic: CT LCCDEs, IAGs, RLC Circuits
   #   reading: Hsu 2.4, Oppenheim 1.6.3-4, 4.7, 2.4.1, 2.4.3, 3.10
