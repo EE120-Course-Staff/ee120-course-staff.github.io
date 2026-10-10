@@ -12,6 +12,7 @@ discussions:
   #   walkthrough: link to the walkthrough video
   - # NO Disucussion 0
     nonumber: True
+    rowspan: 1
   - # Discussion 1 -- Friday Jan 23
     worksheet: https://ee120-course-staff.github.io/assets/pdf/disc/ee120-fa26-disc1.pdf
     solutions: https://ee120-course-staff.github.io/assets/pdf/disc/solutions/ee120-fa26-disc1-sols.pdf
