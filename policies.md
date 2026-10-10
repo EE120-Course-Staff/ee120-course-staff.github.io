@@ -99,7 +99,7 @@ Discussion worksheets will be posted on bCourses by Friday morning.
 We will post the worksheet to bCourses and Ed on Friday mornings. -->
 
 ### Times and Locations
-* Friday 11 AM - 12 PM:     Wheeler 139         - taught by Melodie Ebrahimi
+* Friday 11 AM - 12 PM:     Wheeler 130         - taught by Melodie Ebrahimi
 * Friday 12 PM - 1 PM:      Dwinelle 182        - taught by Roman Silivra 
 * Friday 1 PM - 2 PM:       Social Sciences 140 - taught by Ethan Lau
 
