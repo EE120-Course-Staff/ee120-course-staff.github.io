@@ -61,6 +61,36 @@ lectures:
      edThread: 
      reading: Oppenheim 2.4.1, 2.4.3
      slides:   
+  - # Wed 
+     topic:  DT State Space
+     edThread: 
+     reading: Hsu 7.1-3, 7.5
+     slides: 
+  - # Wed 
+     topic:  IAG, CT State Space, Mass-Spring, Dampening
+     edThread: 
+     reading: Hsu 7.1-3, 7.5, Oppenheim 1.6.3-4, 4.7, 2.4.1, 2.4.3, 3.10
+     slides: 
+  - # Wed 
+     topic:  More CT State Space, Interconnections of LTI Systems, Feedback
+     edThread: 
+     reading: Hsu 7.1-3, 7.5, Oppenheim 1.6.3-4, 4.7, 2.4.1, 2.4.3, 3.10
+     slides: 
+  - # Wed 
+     topic:  More Feedback, Intro to Fourier with 2-periodic DTFS
+     edThread: 
+     reading: Oppenheim 11.0-1, 3.0-2, 3.6
+     slides: 
+  - # Wed 
+     topic: DTFS
+     edThread: 
+     reading: Oppenheim 11.0-1, 3.0-2, 3.6
+     slides: 
+  - # Wed 
+     topic: DTFS, CTFS
+     edThread: 
+     reading: Oppenheim 11.0-1, 3.0-2, 3.6-7, 3.3-5
+     slides: 
 
 
   # # Wed 
