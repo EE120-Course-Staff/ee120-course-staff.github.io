@@ -37,19 +37,19 @@ homeworks:
   - # Homework 6
     due: Oct 9
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw6.pdf
-  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW06?preview=94033800
-  # - # Homework 7
-  #   due: Mar 6
-  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW07?preview=94029677
-  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW07?preview=94099228
-  # - # Homework 8
-  #   due: Mar 13
-  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW08?preview=94099146 
-  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW08?preview=94160201
-  # - # Homework 9
-  #   due: Apr 3
-  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW09?preview=94173012
-  #   solutions:
+    solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw6-sols.pdf
+  - # Homework 7
+    due: Oct 16
+    homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw7.pdf
+    solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw7-sols.pdf
+  - # Homework 8
+    due: Oct 23
+    homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw8.pdf
+    solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw8-sols.pdf
+  - # Homework 9
+    due: Nov 6
+    homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw9.pdf
+    solutions:
   #   rowspan: 7
   # - # Homework 10
   #   due: Apr 10
