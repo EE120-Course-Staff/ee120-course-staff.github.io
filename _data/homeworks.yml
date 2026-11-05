@@ -35,6 +35,7 @@ homeworks:
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw5.pdf
     solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw5-sols.pdf
   - # Homework 6
+    rowspan: 4
     due: Oct 9
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw6.pdf
     solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw6-sols.pdf
@@ -46,6 +47,9 @@ homeworks:
     due: Oct 23
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw8.pdf
     solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw8-sols.pdf
+  - # Break 
+    nonumber: True
+    rowspan: 2
   - # Homework 9
     due: Nov 6
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw9.pdf
