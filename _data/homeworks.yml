@@ -51,7 +51,7 @@ homeworks:
     nonumber: True
     rowspan: 2
   - # Homework 9
-    due: Nov 6
+    due: Nov 9
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw9.pdf
     solutions:
   #   rowspan: 7
