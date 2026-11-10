@@ -47,7 +47,7 @@ discussions:
   #   nonumber: True
   - # Discussion 10 -- Friday April 3
     worksheet: https://ee120-course-staff.github.io/assets/pdf/disc/ee120-fa26-disc10.pdf
-  #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc10?preview=94291011
+    solutions: https://ee120-course-staff.github.io/assets/pdf/disc/solutions/ee120-fa26-disc10-sols.pdf
   # - # Discussion 11 -- Friday April 10
   #   worksheet: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc11?preview=94339317
   #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Discussion/disc11?preview=94350120

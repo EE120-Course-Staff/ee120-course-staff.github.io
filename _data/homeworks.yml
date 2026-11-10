@@ -55,9 +55,9 @@ homeworks:
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw9.pdf
     solutions:
   #   rowspan: 7
-  # - # Homework 10
-  #   due: Apr 10
-  #   homework: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW10?preview=94301096
+  - # Homework 10
+    due: Nov 13
+    homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw10.pdf
   #   solutions: https://bcourses.berkeley.edu/courses/1553114/files/folder/Homework/HW10?preview=94362846
   # - # Homework 11
   #   due: Apr 17
