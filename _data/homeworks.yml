@@ -53,7 +53,7 @@ homeworks:
   - # Homework 9
     due: Nov 9
     homework: https://ee120-course-staff.github.io/assets/pdf/fa26-hw9.pdf
-    solutions:
+    solutions: https://ee120-course-staff.github.io/assets/pdf/solutions/fa26-hw9-sols.pdf
   #   rowspan: 7
   - # Homework 10
     due: Nov 13
