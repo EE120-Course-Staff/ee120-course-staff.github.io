@@ -94,27 +94,28 @@ lectures:
 
 
   - # Mon 
-     topic: # LCCDEs and DAGs
+     topic: DTFT
      edThread: 
      reading: #Oppenheim 1.2.2, 3.2, 1.6.4, Hsu 6.5
      slides: 
   - # Wed 
-     topic: #LCCDEs and DAGs, System Properties
+     topic: Midterm 2
      edThread: 
      reading: #Oppenheim 1.6.3-4, 2.4.2, 5.8
      slides: 
+     nonumber: True
   - # Mon 
-     topic:  #DT State Space
+     topic:  DTFT
      edThread: 
      reading: #Hsu 7.1-3, 7.5
      slides: 
   - # Wed 
-     topic:  #DT State Space
+     topic: CTFT
      edThread: 
      reading: #Hsu 7.1-3, 7.5
      slides:
   - # Mon 
-     topic: #Continuous-Time Systems, CT Dirac Delta Function
+     topic: CTFT, Modulation
      edThread: 
      reading: #Hsu 7.1-3, 7.5, Oppenheim 1.4.2, 2.2, Hsu 2.1-4 
      slides: 
